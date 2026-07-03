@@ -1,5 +1,5 @@
 {
-  "count": 815,
+  "count": 943,
   "tools": [
     {
       "id": "json-formatter",
@@ -11412,6 +11412,1819 @@
         "relative frequency formula",
         "cumulative frequency",
         "frequency distribution"
+      ]
+    },
+    {
+      "id": "mouse-sensitivity-converter",
+      "name": "Mouse Sensitivity Converter",
+      "category": "gaming",
+      "url": "https://yourhack.ai/mouse-sensitivity-converter",
+      "description": "Convert mouse sensitivity between games using cm/360 and DPI. Match your aim across CS2, Valorant, Apex and more instantly in your browser.",
+      "keywords": [
+        "mouse sensitivity converter",
+        "sens converter",
+        "cm 360 converter",
+        "game sensitivity converter",
+        "valorant to cs2 sens"
+      ]
+    },
+    {
+      "id": "edpi-calculator",
+      "name": "eDPI Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/edpi-calculator",
+      "description": "Calculate your eDPI (effective DPI) from mouse DPI and in game sensitivity. Compare true aim speed across setups instantly in your browser.",
+      "keywords": [
+        "edpi calculator",
+        "effective dpi calculator",
+        "edpi valorant",
+        "edpi cs2",
+        "calculate edpi"
+      ]
+    },
+    {
+      "id": "cm-per-360-calculator",
+      "name": "cm/360 Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/cm-per-360-calculator",
+      "description": "Calculate cm/360, the mouse distance for a full turn, from DPI, sensitivity and game yaw. Dial in your aim distance instantly in your browser.",
+      "keywords": [
+        "cm 360 calculator",
+        "cm per 360",
+        "mouse distance 360",
+        "cm 360 valorant",
+        "turn distance calculator"
+      ]
+    },
+    {
+      "id": "game-fov-converter",
+      "name": "Game FOV Converter",
+      "category": "gaming",
+      "url": "https://yourhack.ai/game-fov-converter",
+      "description": "Convert field of view between horizontal, vertical and aspect ratios. Match FOV across games and monitors instantly in your browser.",
+      "keywords": [
+        "fov converter",
+        "field of view converter",
+        "horizontal to vertical fov",
+        "game fov calculator",
+        "fov aspect ratio"
+      ]
+    },
+    {
+      "id": "fps-frame-time-calculator",
+      "name": "FPS to Frame Time Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/fps-frame-time-calculator",
+      "description": "Convert FPS to frame time in milliseconds and back. See how many ms each frame takes and the frametime budget for smooth gameplay.",
+      "keywords": [
+        "fps to frame time",
+        "frame time calculator",
+        "ms per frame",
+        "frametime calculator",
+        "fps ms converter"
+      ]
+    },
+    {
+      "id": "kd-ratio-calculator",
+      "name": "K/D Ratio Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/kd-ratio-calculator",
+      "description": "Calculate your kill death ratio from total kills and deaths. See your K/D and how many kills you need to reach a target instantly in your browser.",
+      "keywords": [
+        "kd ratio calculator",
+        "kill death ratio",
+        "kd calculator",
+        "kills to deaths ratio",
+        "improve kd calculator"
+      ]
+    },
+    {
+      "id": "kda-calculator",
+      "name": "KDA Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/kda-calculator",
+      "description": "Calculate KDA (kills plus assists divided by deaths) for MOBA and shooter games. See your KDA score instantly in your browser.",
+      "keywords": [
+        "kda calculator",
+        "kills deaths assists",
+        "kda ratio calculator",
+        "league kda calculator",
+        "moba kda"
+      ]
+    },
+    {
+      "id": "win-rate-calculator",
+      "name": "Win Rate Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/win-rate-calculator",
+      "description": "Calculate your win rate from wins and losses, and see how many games you must win to hit a target percentage. Fast and private in your browser.",
+      "keywords": [
+        "win rate calculator",
+        "winrate calculator",
+        "games to win calculator",
+        "win percentage calculator",
+        "ranked win rate"
+      ]
+    },
+    {
+      "id": "headshot-percentage-calculator",
+      "name": "Headshot Percentage Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/headshot-percentage-calculator",
+      "description": "Calculate your headshot percentage from headshots and total kills. Track aim precision across sessions instantly and privately in your browser.",
+      "keywords": [
+        "headshot percentage calculator",
+        "headshot ratio",
+        "hs percentage",
+        "aim accuracy calculator",
+        "headshot rate"
+      ]
+    },
+    {
+      "id": "gacha-pull-probability-calculator",
+      "name": "Gacha Pull Probability Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/gacha-pull-probability-calculator",
+      "description": "Calculate the chance of pulling at least one target unit over N gacha pulls. Uses correct at least one probability math, private in your browser.",
+      "keywords": [
+        "gacha probability calculator",
+        "gacha pull chance",
+        "at least one pull calculator",
+        "gacha odds calculator",
+        "summon probability"
+      ]
+    },
+    {
+      "id": "loot-drop-probability-calculator",
+      "name": "Loot Drop Probability Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/loot-drop-probability-calculator",
+      "description": "Calculate the chance of getting a rare drop at least once over N kills or runs. Correct probability math, runs privately in your browser.",
+      "keywords": [
+        "loot drop probability",
+        "drop chance calculator",
+        "rare drop odds",
+        "at least one drop calculator",
+        "farming odds calculator"
+      ]
+    },
+    {
+      "id": "xp-to-level-calculator",
+      "name": "XP to Level Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/xp-to-level-calculator",
+      "description": "Calculate total XP needed to reach a target level and how much you still need. Supports linear and scaling curves, private in your browser.",
+      "keywords": [
+        "xp to level calculator",
+        "experience points calculator",
+        "xp needed to level up",
+        "level up xp calculator",
+        "xp curve calculator"
+      ]
+    },
+    {
+      "id": "dps-calculator",
+      "name": "DPS Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/dps-calculator",
+      "description": "Calculate damage per second from hit damage, fire rate, crit chance and crit multiplier. Compare weapon builds instantly and privately in your browser.",
+      "keywords": [
+        "dps calculator",
+        "damage per second calculator",
+        "weapon dps calculator",
+        "crit dps calculator",
+        "game damage calculator"
+      ]
+    },
+    {
+      "id": "apm-calculator",
+      "name": "APM Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/apm-calculator",
+      "description": "Calculate actions per minute (APM) from total actions and match duration. Measure your speed in RTS and strategy games privately in your browser.",
+      "keywords": [
+        "apm calculator",
+        "actions per minute calculator",
+        "apm starcraft",
+        "rts apm calculator",
+        "game apm measure"
+      ]
+    },
+    {
+      "id": "steam-sale-price-calculator",
+      "name": "Steam Sale Price Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/steam-sale-price-calculator",
+      "description": "Calculate the final price of a game after a Steam style discount, plus your total savings and cost for a bundle of titles. Private in your browser.",
+      "keywords": [
+        "steam sale calculator",
+        "game discount calculator",
+        "sale price calculator games",
+        "steam discount price",
+        "game bundle price calculator"
+      ]
+    },
+    {
+      "id": "elo-rating-calculator",
+      "name": "Elo Rating Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/elo-rating-calculator",
+      "description": "Calculate new Elo ratings after a match from both player ratings, the result and a K factor. See rating change and expected score in your browser.",
+      "keywords": [
+        "elo rating calculator",
+        "elo change calculator",
+        "elo formula calculator",
+        "chess elo calculator",
+        "expected score elo"
+      ]
+    },
+    {
+      "id": "chess-rating-change-calculator",
+      "name": "Chess Rating Change Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/chess-rating-change-calculator",
+      "description": "Estimate your chess rating change across a tournament from your rating, opponents and results. Uses expected score math, private in your browser.",
+      "keywords": [
+        "chess rating change calculator",
+        "chess rating calculator",
+        "elo chess calculator",
+        "tournament rating change",
+        "chess performance rating"
+      ]
+    },
+    {
+      "id": "gacha-pity-calculator",
+      "name": "Gacha Pity Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/gacha-pity-calculator",
+      "description": "Track how many gacha pulls until pity and the currency needed. Enter pity count, current pulls and cost to plan your next banner in your browser.",
+      "keywords": [
+        "gacha pity calculator",
+        "pity counter",
+        "pulls until pity",
+        "gacha currency calculator",
+        "genshin pity calculator"
+      ]
+    },
+    {
+      "id": "game-resolution-scaler",
+      "name": "Game Resolution Scaler",
+      "category": "gaming",
+      "url": "https://yourhack.ai/game-resolution-scaler",
+      "description": "Calculate render resolution from a resolution scale percentage, plus total pixels and pixel count change. Tune performance instantly in your browser.",
+      "keywords": [
+        "resolution scale calculator",
+        "render resolution calculator",
+        "game resolution scaler",
+        "render scale pixels",
+        "resolution scale fps"
+      ]
+    },
+    {
+      "id": "controller-deadzone-calculator",
+      "name": "Controller Deadzone Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/controller-deadzone-calculator",
+      "description": "Calculate the effective usable stick range after a controller deadzone and see remapped output at any raw input. Runs privately in your browser.",
+      "keywords": [
+        "controller deadzone calculator",
+        "deadzone calculator",
+        "stick deadzone",
+        "analog stick deadzone",
+        "gamepad deadzone calculator"
+      ]
+    },
+    {
+      "id": "aim-reaction-benchmark",
+      "name": "Aim Reaction Benchmark",
+      "category": "gaming",
+      "url": "https://yourhack.ai/aim-reaction-benchmark",
+      "description": "Test your reaction time by clicking the moment the box turns green. Get your best, average and a gamer rating over five tries in your browser.",
+      "keywords": [
+        "reaction benchmark",
+        "gamer reaction test",
+        "aim reaction time",
+        "click reaction test",
+        "reaction speed test game"
+      ]
+    },
+    {
+      "id": "tickrate-reference",
+      "name": "Tickrate Reference and Calculator",
+      "category": "gaming",
+      "url": "https://yourhack.ai/tickrate-reference",
+      "description": "Look up server tickrate values and convert tickrate to milliseconds per tick. See how tick timing affects hit registration, private in your browser.",
+      "keywords": [
+        "tickrate reference",
+        "tickrate calculator",
+        "server tick rate",
+        "tickrate to ms",
+        "ms per tick calculator"
+      ]
+    },
+    {
+      "id": "golf-handicap-calculator",
+      "name": "Golf Handicap Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/golf-handicap-calculator",
+      "description": "Free golf handicap index calculator. Enter your recent score differentials and get your handicap index using the World Handicap System average method.",
+      "keywords": [
+        "golf handicap calculator",
+        "handicap index calculator",
+        "world handicap system",
+        "golf handicap",
+        "calculate golf handicap"
+      ]
+    },
+    {
+      "id": "golf-score-differential-calculator",
+      "name": "Golf Score Differential Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/golf-score-differential-calculator",
+      "description": "Free golf score differential calculator. Turn an adjusted gross score, course rating and slope into a WHS differential in one click.",
+      "keywords": [
+        "score differential calculator",
+        "golf differential formula",
+        "course rating slope",
+        "whs differential",
+        "golf score differential"
+      ]
+    },
+    {
+      "id": "bowling-score-calculator",
+      "name": "Bowling Score Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/bowling-score-calculator",
+      "description": "Free ten pin bowling score calculator. Enter your rolls frame by frame and get a running score with correct strike and spare bonuses.",
+      "keywords": [
+        "bowling score calculator",
+        "ten pin bowling score",
+        "strike spare scoring",
+        "bowling scoring",
+        "calculate bowling score"
+      ]
+    },
+    {
+      "id": "baseball-era-calculator",
+      "name": "Baseball ERA Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/baseball-era-calculator",
+      "description": "Free baseball ERA calculator. Enter earned runs and innings pitched to get a pitcher earned run average using the standard nine inning formula.",
+      "keywords": [
+        "era calculator",
+        "earned run average calculator",
+        "baseball era",
+        "pitcher era",
+        "calculate era"
+      ]
+    },
+    {
+      "id": "batting-average-calculator",
+      "name": "Batting Average Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/batting-average-calculator",
+      "description": "Free baseball batting average calculator. Divide hits by at bats to get a three digit average, plus a quick read on where it ranks.",
+      "keywords": [
+        "batting average calculator",
+        "baseball batting average",
+        "calculate batting average",
+        "hits per at bat",
+        "avg calculator baseball"
+      ]
+    },
+    {
+      "id": "slugging-percentage-calculator",
+      "name": "Slugging Percentage Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/slugging-percentage-calculator",
+      "description": "Free slugging percentage calculator. Enter singles, doubles, triples and home runs against at bats to get SLG and total bases.",
+      "keywords": [
+        "slugging percentage calculator",
+        "slg calculator",
+        "baseball slugging",
+        "total bases calculator",
+        "calculate slugging percentage"
+      ]
+    },
+    {
+      "id": "on-base-percentage-calculator",
+      "name": "On Base Percentage Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/on-base-percentage-calculator",
+      "description": "Free OBP calculator for baseball. Enter hits, walks, hit by pitch and plate appearances to get on base percentage the correct way.",
+      "keywords": [
+        "on base percentage calculator",
+        "obp calculator",
+        "baseball obp",
+        "calculate on base percentage",
+        "obp formula"
+      ]
+    },
+    {
+      "id": "ops-calculator",
+      "name": "OPS Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/ops-calculator",
+      "description": "Free baseball OPS calculator. Add on base percentage and slugging percentage to get OPS, the popular all in one offensive rating.",
+      "keywords": [
+        "ops calculator",
+        "on base plus slugging",
+        "baseball ops",
+        "calculate ops",
+        "obp plus slg"
+      ]
+    },
+    {
+      "id": "quarterback-passer-rating-calculator",
+      "name": "NFL Passer Rating Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/quarterback-passer-rating-calculator",
+      "description": "Free NFL passer rating calculator. Enter completions, attempts, yards, touchdowns and interceptions for the official quarterback rating.",
+      "keywords": [
+        "passer rating calculator",
+        "nfl quarterback rating",
+        "qb rating calculator",
+        "passer rating formula",
+        "calculate passer rating"
+      ]
+    },
+    {
+      "id": "fantasy-football-points-calculator",
+      "name": "Fantasy Football Points Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/fantasy-football-points-calculator",
+      "description": "Free fantasy football points calculator. Enter yards, touchdowns and turnovers to score a player in standard, half PPR or full PPR.",
+      "keywords": [
+        "fantasy football points calculator",
+        "ppr calculator",
+        "fantasy points calculator",
+        "half ppr scoring",
+        "calculate fantasy points"
+      ]
+    },
+    {
+      "id": "basketball-shooting-percentage-calculator",
+      "name": "Basketball Shooting Percentage Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/basketball-shooting-percentage-calculator",
+      "description": "Free basketball shooting calculator. Get field goal, three point, free throw, effective and true shooting percentages from your makes and attempts.",
+      "keywords": [
+        "shooting percentage calculator",
+        "field goal percentage calculator",
+        "effective field goal percentage",
+        "true shooting percentage",
+        "basketball shooting calculator"
+      ]
+    },
+    {
+      "id": "points-per-game-calculator",
+      "name": "Points Per Game Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/points-per-game-calculator",
+      "description": "Free points per game calculator. Divide total points by games played to get a per game scoring average for any sport, plus a season projection.",
+      "keywords": [
+        "points per game calculator",
+        "ppg calculator",
+        "scoring average calculator",
+        "per game average",
+        "calculate ppg"
+      ]
+    },
+    {
+      "id": "wilks-calculator",
+      "name": "Wilks Score Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/wilks-calculator",
+      "description": "Free Wilks calculator for powerlifting. Enter bodyweight and total lifted to get a Wilks score that compares strength across weight classes.",
+      "keywords": [
+        "wilks calculator",
+        "wilks score powerlifting",
+        "powerlifting coefficient",
+        "wilks coefficient calculator",
+        "calculate wilks"
+      ]
+    },
+    {
+      "id": "dots-score-calculator",
+      "name": "DOTS Score Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/dots-score-calculator",
+      "description": "Free DOTS score calculator for powerlifting. Enter bodyweight and total to get a DOTS coefficient score, the modern replacement for Wilks.",
+      "keywords": [
+        "dots calculator",
+        "dots score powerlifting",
+        "dots coefficient",
+        "powerlifting dots",
+        "calculate dots score"
+      ]
+    },
+    {
+      "id": "plate-loading-calculator",
+      "name": "Barbell Plate Loading Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/plate-loading-calculator",
+      "description": "Free barbell plate calculator. Enter a target weight and bar weight to see exactly which plates to load on each side of the bar.",
+      "keywords": [
+        "plate calculator",
+        "barbell plate loading",
+        "plate loading calculator",
+        "how to load a barbell",
+        "weight plate calculator"
+      ]
+    },
+    {
+      "id": "dart-checkout-calculator",
+      "name": "Darts Checkout Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/dart-checkout-calculator",
+      "description": "Free darts checkout calculator. Enter your remaining score in 501 and see a valid three dart finish that ends correctly on a double.",
+      "keywords": [
+        "darts checkout calculator",
+        "darts finish calculator",
+        "501 checkout",
+        "dart checkout chart",
+        "double out darts"
+      ]
+    },
+    {
+      "id": "cycling-power-to-weight-calculator",
+      "name": "Cycling Power to Weight Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/cycling-power-to-weight-calculator",
+      "description": "Free cycling power to weight calculator. Divide your FTP by body weight to get watts per kilogram and see your rider category.",
+      "keywords": [
+        "power to weight calculator",
+        "watts per kilogram calculator",
+        "ftp w/kg",
+        "cycling power to weight",
+        "w/kg calculator"
+      ]
+    },
+    {
+      "id": "swimming-pace-calculator",
+      "name": "Swimming Pace Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/swimming-pace-calculator",
+      "description": "Free swimming pace calculator. Enter a swim time and distance to get your pace per 100 meters or 100 yards plus average speed.",
+      "keywords": [
+        "swimming pace calculator",
+        "swim pace per 100m",
+        "pace per 100 yards",
+        "swim training pace",
+        "calculate swim pace"
+      ]
+    },
+    {
+      "id": "forty-yard-dash-speed-calculator",
+      "name": "40 Yard Dash Speed Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/forty-yard-dash-speed-calculator",
+      "description": "Free 40 yard dash speed calculator. Convert a forty time into average miles per hour and kilometers per hour to see your sprint speed.",
+      "keywords": [
+        "40 yard dash speed calculator",
+        "forty time to mph",
+        "40 time speed",
+        "sprint speed calculator",
+        "dash speed calculator"
+      ]
+    },
+    {
+      "id": "vertical-jump-power-calculator",
+      "name": "Vertical Jump Power Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/vertical-jump-power-calculator",
+      "description": "Free vertical jump power calculator using the Sayers formula. Enter jump height and body weight to estimate peak leg power in watts.",
+      "keywords": [
+        "vertical jump power calculator",
+        "sayers formula",
+        "peak power vertical jump",
+        "leg power calculator",
+        "jump watts calculator"
+      ]
+    },
+    {
+      "id": "marathon-split-calculator",
+      "name": "Marathon Split Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/marathon-split-calculator",
+      "description": "Free marathon split calculator. Enter a goal finish time to get even and negative split pacing for every 5K and the half marathon mark.",
+      "keywords": [
+        "marathon split calculator",
+        "marathon pace splits",
+        "negative split calculator",
+        "marathon pacing",
+        "5k split calculator"
+      ]
+    },
+    {
+      "id": "split-time-calculator",
+      "name": "Race Split Time Calculator",
+      "category": "sports",
+      "url": "https://yourhack.ai/split-time-calculator",
+      "description": "Free race split time calculator. Enter a target finish time and race distance to get an even pace and the clock time at every split.",
+      "keywords": [
+        "split time calculator",
+        "race pace splits",
+        "even split calculator",
+        "target time splits",
+        "running split calculator"
+      ]
+    },
+    {
+      "id": "heat-index-calculator",
+      "name": "Heat Index Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/heat-index-calculator",
+      "description": "Free heat index calculator using the NWS Rothfusz regression. Enter air temperature and relative humidity to find how hot it really feels.",
+      "keywords": [
+        "heat index calculator",
+        "feels like temperature",
+        "apparent temperature",
+        "nws heat index",
+        "humidity heat index"
+      ]
+    },
+    {
+      "id": "wind-chill-calculator",
+      "name": "Wind Chill Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/wind-chill-calculator",
+      "description": "Free wind chill calculator using the 2001 NWS/Environment Canada formula. Enter temperature and wind speed to find the wind chill temperature.",
+      "keywords": [
+        "wind chill calculator",
+        "wind chill temperature",
+        "feels like cold",
+        "nws wind chill",
+        "wind chill index"
+      ]
+    },
+    {
+      "id": "dew-point-calculator",
+      "name": "Dew Point Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/dew-point-calculator",
+      "description": "Free dew point calculator using the Magnus-Tetens formula. Enter temperature and relative humidity to find the dew point and comfort level.",
+      "keywords": [
+        "dew point calculator",
+        "magnus formula dew point",
+        "dewpoint temperature",
+        "humidity dew point",
+        "condensation temperature"
+      ]
+    },
+    {
+      "id": "feels-like-temperature-calculator",
+      "name": "Feels Like Temperature Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/feels-like-temperature-calculator",
+      "description": "Free feels like temperature calculator. Combines heat index in warm weather and wind chill in cold weather to show the real apparent temperature.",
+      "keywords": [
+        "feels like temperature calculator",
+        "apparent temperature",
+        "real feel calculator",
+        "heat index wind chill",
+        "perceived temperature"
+      ]
+    },
+    {
+      "id": "relative-humidity-calculator",
+      "name": "Relative Humidity Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/relative-humidity-calculator",
+      "description": "Free relative humidity calculator. Enter air temperature and dew point to find the relative humidity using saturation vapor pressure ratios.",
+      "keywords": [
+        "relative humidity calculator",
+        "humidity from dew point",
+        "rh calculator",
+        "vapor pressure humidity",
+        "calculate humidity"
+      ]
+    },
+    {
+      "id": "absolute-humidity-calculator",
+      "name": "Absolute Humidity Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/absolute-humidity-calculator",
+      "description": "Free absolute humidity calculator. Enter temperature and relative humidity to find grams of water vapor per cubic meter of air.",
+      "keywords": [
+        "absolute humidity calculator",
+        "grams per cubic meter",
+        "water vapor density",
+        "humidity g/m3",
+        "moisture content air"
+      ]
+    },
+    {
+      "id": "wet-bulb-temperature-calculator",
+      "name": "Wet Bulb Temperature Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/wet-bulb-temperature-calculator",
+      "description": "Free wet bulb temperature calculator using the Stull approximation. Enter air temperature and relative humidity to find the wet bulb temperature.",
+      "keywords": [
+        "wet bulb temperature calculator",
+        "wet bulb stull",
+        "wet bulb from humidity",
+        "wet bulb globe",
+        "wet bulb 35c"
+      ]
+    },
+    {
+      "id": "wet-bulb-globe-temperature-calculator",
+      "name": "Wet Bulb Globe Temperature Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/wet-bulb-globe-temperature-calculator",
+      "description": "Free WBGT calculator estimating outdoor wet bulb globe temperature from air temperature, humidity and sun to gauge heat stress risk zones.",
+      "keywords": [
+        "wbgt calculator",
+        "wet bulb globe temperature",
+        "heat stress index",
+        "outdoor heat risk",
+        "work rest ratio heat"
+      ]
+    },
+    {
+      "id": "cloud-base-calculator",
+      "name": "Cloud Base Height Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/cloud-base-calculator",
+      "description": "Free cloud base calculator using the Espy formula. Enter surface temperature and dew point to estimate the height of cumulus cloud bases.",
+      "keywords": [
+        "cloud base calculator",
+        "espy formula cloud base",
+        "cumulus cloud height",
+        "lcl calculator",
+        "ceiling estimate aviation"
+      ]
+    },
+    {
+      "id": "snow-to-water-ratio-calculator",
+      "name": "Snow to Water Ratio Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/snow-to-water-ratio-calculator",
+      "description": "Free snow to water ratio calculator. Convert snowfall depth to liquid water equivalent, or water to snow, using the ratio for your snow type.",
+      "keywords": [
+        "snow to water ratio calculator",
+        "snow water equivalent",
+        "liquid equivalent snow",
+        "snowfall to rain",
+        "snow melt calculator"
+      ]
+    },
+    {
+      "id": "beaufort-scale-reference",
+      "name": "Beaufort Wind Scale Reference",
+      "category": "weather",
+      "url": "https://yourhack.ai/beaufort-scale-reference",
+      "description": "Free Beaufort wind scale reference. Enter a wind speed to find its Beaufort force number, name and the sea and land effects that go with it.",
+      "keywords": [
+        "beaufort scale",
+        "beaufort wind scale",
+        "wind force number",
+        "wind speed to beaufort",
+        "beaufort chart"
+      ]
+    },
+    {
+      "id": "saffir-simpson-hurricane-reference",
+      "name": "Saffir-Simpson Hurricane Scale Reference",
+      "category": "weather",
+      "url": "https://yourhack.ai/saffir-simpson-hurricane-reference",
+      "description": "Free Saffir-Simpson hurricane scale reference. Enter sustained wind speed to find the hurricane category and its expected damage.",
+      "keywords": [
+        "saffir simpson scale",
+        "hurricane category calculator",
+        "hurricane wind scale",
+        "tropical cyclone category",
+        "hurricane damage scale"
+      ]
+    },
+    {
+      "id": "air-density-calculator",
+      "name": "Air Density Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/air-density-calculator",
+      "description": "Free air density calculator. Enter temperature, pressure and humidity to find moist air density in kilograms per cubic meter.",
+      "keywords": [
+        "air density calculator",
+        "moist air density",
+        "air density kg/m3",
+        "density of air humidity",
+        "atmospheric density"
+      ]
+    },
+    {
+      "id": "frost-point-calculator",
+      "name": "Frost Point Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/frost-point-calculator",
+      "description": "Free frost point calculator. Enter temperature and relative humidity to find the frost point, the temperature at which frost forms on surfaces.",
+      "keywords": [
+        "frost point calculator",
+        "frost temperature",
+        "frost formation temperature",
+        "frost point vs dew point",
+        "when does frost form"
+      ]
+    },
+    {
+      "id": "rainfall-volume-calculator",
+      "name": "Rainfall Volume Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/rainfall-volume-calculator",
+      "description": "Free rainfall volume calculator. Enter rainfall depth and a roof or catchment area to find the total water volume collected in liters and gallons.",
+      "keywords": [
+        "rainfall volume calculator",
+        "rainwater harvesting calculator",
+        "roof runoff volume",
+        "rain catchment calculator",
+        "rainfall to gallons"
+      ]
+    },
+    {
+      "id": "growing-degree-days-calculator",
+      "name": "Growing Degree Days Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/growing-degree-days-calculator",
+      "description": "Free growing degree days calculator. Enter daily high and low temperatures and a base temperature to find GDD accumulation for crop growth.",
+      "keywords": [
+        "growing degree days calculator",
+        "gdd calculator",
+        "heat units crops",
+        "degree day agriculture",
+        "crop maturity gdd"
+      ]
+    },
+    {
+      "id": "pressure-altitude-calculator",
+      "name": "Pressure Altitude Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/pressure-altitude-calculator",
+      "description": "Free pressure altitude calculator. Enter field elevation and the altimeter setting to find pressure altitude for aviation performance planning.",
+      "keywords": [
+        "pressure altitude calculator",
+        "aviation pressure altitude",
+        "altimeter setting altitude",
+        "field elevation pressure",
+        "density altitude input"
+      ]
+    },
+    {
+      "id": "density-altitude-calculator",
+      "name": "Density Altitude Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/density-altitude-calculator",
+      "description": "Free density altitude calculator. Enter pressure altitude and temperature to find density altitude and gauge aircraft and engine performance loss.",
+      "keywords": [
+        "density altitude calculator",
+        "density altitude aviation",
+        "high altitude performance",
+        "da calculator pilots",
+        "hot and high density altitude"
+      ]
+    },
+    {
+      "id": "uv-index-reference",
+      "name": "UV Index Reference and Burn Time",
+      "category": "weather",
+      "url": "https://yourhack.ai/uv-index-reference",
+      "description": "Free UV index reference. Enter the UV index and your skin type to see the risk level, protection advice and estimated time to sunburn.",
+      "keywords": [
+        "uv index reference",
+        "uv index chart",
+        "sunburn time calculator",
+        "uv risk level",
+        "skin type burn time"
+      ]
+    },
+    {
+      "id": "humidex-calculator",
+      "name": "Humidex Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/humidex-calculator",
+      "description": "Free humidex calculator using the Canadian formula. Enter air temperature and dew point to find the humidex and how hot it feels with humidity.",
+      "keywords": [
+        "humidex calculator",
+        "canadian humidex",
+        "humidex formula",
+        "humidex from dew point",
+        "feels like humidex"
+      ]
+    },
+    {
+      "id": "lightning-distance-calculator",
+      "name": "Lightning Distance Calculator",
+      "category": "weather",
+      "url": "https://yourhack.ai/lightning-distance-calculator",
+      "description": "Free lightning distance calculator. Enter the seconds between a lightning flash and thunder to find how far away the storm is and if it is a threat.",
+      "keywords": [
+        "lightning distance calculator",
+        "flash to bang",
+        "thunder distance",
+        "how far is lightning",
+        "count seconds lightning storm"
+      ]
+    },
+    {
+      "id": "dog-age-by-breed-size-calculator",
+      "name": "Dog Age by Breed Size Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-age-by-breed-size-calculator",
+      "description": "Free dog age calculator by breed size. Convert dog years to human years with a size adjusted model instead of the naive times seven rule.",
+      "keywords": [
+        "dog age by breed size",
+        "dog years to human years",
+        "dog age chart by size",
+        "how old is my dog",
+        "dog aging calculator"
+      ]
+    },
+    {
+      "id": "puppy-weight-predictor",
+      "name": "Puppy Adult Weight Predictor",
+      "category": "pets",
+      "url": "https://yourhack.ai/puppy-weight-predictor",
+      "description": "Free puppy adult weight predictor. Estimate how big your puppy will grow from its current age and weight using a simple growth ratio method.",
+      "keywords": [
+        "puppy weight predictor",
+        "how big will my puppy get",
+        "puppy adult weight calculator",
+        "estimate puppy size",
+        "puppy growth calculator"
+      ]
+    },
+    {
+      "id": "dog-calorie-calculator",
+      "name": "Dog Calorie Calculator (RER and MER)",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-calorie-calculator",
+      "description": "Free dog calorie calculator. Work out daily calories for your dog from resting energy needs and an activity factor using the standard RER and MER method.",
+      "keywords": [
+        "dog calorie calculator",
+        "dog daily calories",
+        "dog RER MER",
+        "how many calories does my dog need",
+        "dog energy requirement"
+      ]
+    },
+    {
+      "id": "cat-calorie-calculator",
+      "name": "Cat Calorie Calculator (RER and MER)",
+      "category": "pets",
+      "url": "https://yourhack.ai/cat-calorie-calculator",
+      "description": "Free cat calorie calculator. Estimate daily calories for your cat from resting energy needs and a life stage factor using the RER and MER method.",
+      "keywords": [
+        "cat calorie calculator",
+        "cat daily calories",
+        "how many calories does my cat need",
+        "cat energy requirement",
+        "cat feeding calories"
+      ]
+    },
+    {
+      "id": "dog-food-portion-calculator",
+      "name": "Dog Food Portion Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-food-portion-calculator",
+      "description": "Free dog food portion calculator. Turn your dog daily calorie needs and the food calories per cup into a daily cup and gram feeding amount.",
+      "keywords": [
+        "dog food portion calculator",
+        "how much to feed my dog",
+        "dog food cups per day",
+        "dog feeding amount",
+        "dog kibble calculator"
+      ]
+    },
+    {
+      "id": "cat-food-portion-calculator",
+      "name": "Cat Food Portion Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/cat-food-portion-calculator",
+      "description": "Free cat food portion calculator. Convert your cat daily calorie needs and the food calories per can or cup into a clear daily feeding amount.",
+      "keywords": [
+        "cat food portion calculator",
+        "how much to feed my cat",
+        "cat feeding amount",
+        "cat food calories per can",
+        "cat portion calculator"
+      ]
+    },
+    {
+      "id": "dog-water-intake-calculator",
+      "name": "Dog Water Intake Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-water-intake-calculator",
+      "description": "Free dog water intake calculator. Estimate how much water your dog should drink per day from its body weight using a common ml per kg guideline.",
+      "keywords": [
+        "dog water intake calculator",
+        "how much water should my dog drink",
+        "dog daily water",
+        "dog hydration calculator",
+        "dog water per day"
+      ]
+    },
+    {
+      "id": "dog-chocolate-toxicity-calculator",
+      "name": "Dog Chocolate Toxicity Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-chocolate-toxicity-calculator",
+      "description": "Free dog chocolate toxicity calculator. Estimate the theobromine dose from the chocolate type and amount your dog ate against common risk thresholds.",
+      "keywords": [
+        "dog chocolate toxicity calculator",
+        "chocolate poisoning dog",
+        "theobromine dog calculator",
+        "is chocolate toxic to my dog",
+        "dog ate chocolate"
+      ]
+    },
+    {
+      "id": "dog-pregnancy-calculator",
+      "name": "Dog Pregnancy Due Date Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-pregnancy-calculator",
+      "description": "Free dog pregnancy calculator. Estimate your dog whelping due date and week by week timeline from the breeding date using a 63 day gestation.",
+      "keywords": [
+        "dog pregnancy calculator",
+        "dog due date calculator",
+        "dog whelping date",
+        "dog gestation calculator",
+        "when will my dog give birth"
+      ]
+    },
+    {
+      "id": "cat-pregnancy-calculator",
+      "name": "Cat Pregnancy Due Date Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/cat-pregnancy-calculator",
+      "description": "Free cat pregnancy calculator. Estimate your cat queening due date and key milestones from the mating date using a 65 day feline gestation.",
+      "keywords": [
+        "cat pregnancy calculator",
+        "cat due date calculator",
+        "cat gestation calculator",
+        "when will my cat give birth",
+        "queening date calculator"
+      ]
+    },
+    {
+      "id": "aquarium-volume-calculator",
+      "name": "Aquarium Volume Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/aquarium-volume-calculator",
+      "description": "Free aquarium volume calculator. Find the water volume of a rectangular fish tank in litres and gallons from its length, width, and height.",
+      "keywords": [
+        "aquarium volume calculator",
+        "fish tank volume calculator",
+        "tank litres calculator",
+        "aquarium gallons calculator",
+        "fish tank size calculator"
+      ]
+    },
+    {
+      "id": "fish-tank-stocking-calculator",
+      "name": "Fish Tank Stocking Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/fish-tank-stocking-calculator",
+      "description": "Free fish tank stocking calculator. Estimate how many fish a tank can hold with the classic inch per gallon guide and a safer adjusted figure.",
+      "keywords": [
+        "fish tank stocking calculator",
+        "inch per gallon rule",
+        "how many fish in my tank",
+        "aquarium stocking calculator",
+        "fish per gallon calculator"
+      ]
+    },
+    {
+      "id": "horse-age-to-human-calculator",
+      "name": "Horse Age to Human Years Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/horse-age-to-human-calculator",
+      "description": "Free horse age calculator. Convert your horse age into human years with a staged model that reflects fast early growth and slower later aging.",
+      "keywords": [
+        "horse age to human years",
+        "horse age calculator",
+        "horse years to human years",
+        "how old is my horse",
+        "equine age calculator"
+      ]
+    },
+    {
+      "id": "rabbit-age-calculator",
+      "name": "Rabbit Age to Human Years Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/rabbit-age-calculator",
+      "description": "Free rabbit age calculator. Convert your rabbit age into human years with a staged model that reflects fast maturing youth and a long adult phase.",
+      "keywords": [
+        "rabbit age calculator",
+        "rabbit years to human years",
+        "how old is my rabbit",
+        "bunny age calculator",
+        "rabbit age in human years"
+      ]
+    },
+    {
+      "id": "dog-crate-size-calculator",
+      "name": "Dog Crate Size Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-crate-size-calculator",
+      "description": "Free dog crate size calculator. Get recommended crate length and height from your dog body measurements so it can stand, turn, and lie down.",
+      "keywords": [
+        "dog crate size calculator",
+        "what size crate for my dog",
+        "dog crate dimensions",
+        "crate size by dog measurements",
+        "dog kennel size calculator"
+      ]
+    },
+    {
+      "id": "cat-litter-usage-calculator",
+      "name": "Cat Litter Usage Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/cat-litter-usage-calculator",
+      "description": "Free cat litter usage calculator. Estimate how much litter you use per month and the yearly cost from your number of cats and change routine.",
+      "keywords": [
+        "cat litter usage calculator",
+        "how much cat litter per month",
+        "cat litter cost calculator",
+        "litter consumption calculator",
+        "cat litter budget"
+      ]
+    },
+    {
+      "id": "dog-walking-distance-calculator",
+      "name": "Dog Walking Distance Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-walking-distance-calculator",
+      "description": "Free dog walking calculator. Estimate a daily walk distance and time target for your dog based on its energy level, age band, and body weight.",
+      "keywords": [
+        "dog walking distance calculator",
+        "how far should i walk my dog",
+        "dog exercise calculator",
+        "daily dog walk time",
+        "dog activity calculator"
+      ]
+    },
+    {
+      "id": "pet-sitting-cost-calculator",
+      "name": "Pet Sitting Cost Calculator",
+      "category": "pets",
+      "url": "https://yourhack.ai/pet-sitting-cost-calculator",
+      "description": "Free pet sitting cost calculator. Estimate the total price of pet sitting or boarding from the daily rate, number of days, pets, and extra visits.",
+      "keywords": [
+        "pet sitting cost calculator",
+        "dog boarding cost calculator",
+        "pet sitter price estimate",
+        "cat sitting cost",
+        "pet care cost calculator"
+      ]
+    },
+    {
+      "id": "dog-body-condition-score",
+      "name": "Dog Body Condition Score Estimator",
+      "category": "pets",
+      "url": "https://yourhack.ai/dog-body-condition-score",
+      "description": "Free dog body condition score tool. Answer quick rib, waist, and belly questions to estimate a 1 to 9 body condition score and weight status.",
+      "keywords": [
+        "dog body condition score",
+        "dog bcs chart",
+        "is my dog overweight",
+        "dog weight status",
+        "dog condition score calculator"
+      ]
+    },
+    {
+      "id": "pet-medication-dosing-schedule",
+      "name": "Pet Medication Dosing Schedule Planner",
+      "category": "pets",
+      "url": "https://yourhack.ai/pet-medication-dosing-schedule",
+      "description": "Free pet medication schedule planner. Turn a start time and dosing interval into a clear list of dose times across the next day or two.",
+      "keywords": [
+        "pet medication schedule",
+        "pet medicine timing planner",
+        "dog medication reminder times",
+        "cat medication schedule",
+        "pet dose interval calculator"
+      ]
+    },
+    {
+      "id": "international-shoe-size-converter",
+      "name": "International Shoe Size Converter",
+      "category": "fashion",
+      "url": "https://yourhack.ai/international-shoe-size-converter",
+      "description": "Free shoe size converter across US, UK, EU and centimeters for men and women. Enter one size and see every equivalent instantly in your browser.",
+      "keywords": [
+        "shoe size converter",
+        "us to eu shoe size",
+        "uk to us shoe size",
+        "shoe size chart",
+        "convert shoe size",
+        "international shoe sizes"
+      ]
+    },
+    {
+      "id": "foot-length-to-shoe-size",
+      "name": "Foot Length to Shoe Size",
+      "category": "fashion",
+      "url": "https://yourhack.ai/foot-length-to-shoe-size",
+      "description": "Free foot length to shoe size calculator. Measure your foot in cm or inches and get accurate US, UK and EU shoe sizes for men and women.",
+      "keywords": [
+        "foot length to shoe size",
+        "measure foot for shoe size",
+        "foot size chart",
+        "cm to shoe size",
+        "find my shoe size",
+        "foot measurement shoe size"
+      ]
+    },
+    {
+      "id": "clothing-size-converter",
+      "name": "Clothing Size Converter",
+      "category": "fashion",
+      "url": "https://yourhack.ai/clothing-size-converter",
+      "description": "Free clothing size converter for men and women. Translate alpha sizes like S, M and L into US, UK and EU numeric sizes with one selection.",
+      "keywords": [
+        "clothing size converter",
+        "s m l to numeric size",
+        "us to eu clothing size",
+        "international clothing sizes",
+        "apparel size chart",
+        "convert dress size"
+      ]
+    },
+    {
+      "id": "ring-size-converter",
+      "name": "Ring Size Converter",
+      "category": "fashion",
+      "url": "https://yourhack.ai/ring-size-converter",
+      "description": "Free ring size converter across US, UK, EU, diameter and circumference. Enter one and see every equivalent ring size measurement instantly.",
+      "keywords": [
+        "ring size converter",
+        "ring size chart",
+        "us to uk ring size",
+        "ring diameter to size",
+        "ring circumference size",
+        "convert ring size"
+      ]
+    },
+    {
+      "id": "ring-size-from-circumference",
+      "name": "Ring Size from Circumference",
+      "category": "fashion",
+      "url": "https://yourhack.ai/ring-size-from-circumference",
+      "description": "Free ring sizer. Wrap a strip of paper around your finger, enter the circumference or diameter, and get your US, UK and EU ring size.",
+      "keywords": [
+        "measure ring size at home",
+        "ring size from finger circumference",
+        "string ring size",
+        "find ring size",
+        "ring sizer",
+        "finger circumference to ring size"
+      ]
+    },
+    {
+      "id": "bra-size-calculator",
+      "name": "Bra Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/bra-size-calculator",
+      "description": "Free bra size calculator. Enter your underbust and bust measurements to find your band and cup size using the standard inch difference method.",
+      "keywords": [
+        "bra size calculator",
+        "band and cup size",
+        "measure bra size",
+        "underbust bust to bra size",
+        "find bra size",
+        "cup size calculator"
+      ]
+    },
+    {
+      "id": "bra-size-converter",
+      "name": "Bra Size Converter",
+      "category": "fashion",
+      "url": "https://yourhack.ai/bra-size-converter",
+      "description": "Free bra size converter between US, UK, EU and French/AU sizing. Enter a band and cup and see the matching label in every regional system.",
+      "keywords": [
+        "bra size converter",
+        "us to uk bra size",
+        "eu bra size chart",
+        "convert bra size",
+        "french bra size",
+        "international bra sizes"
+      ]
+    },
+    {
+      "id": "hat-size-calculator",
+      "name": "Hat Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/hat-size-calculator",
+      "description": "Free hat size calculator. Measure your head circumference in cm or inches and get your US, UK, EU and alpha hat size instantly.",
+      "keywords": [
+        "hat size calculator",
+        "head circumference to hat size",
+        "hat size chart",
+        "measure head for hat",
+        "us hat size",
+        "convert hat size"
+      ]
+    },
+    {
+      "id": "glove-size-calculator",
+      "name": "Glove Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/glove-size-calculator",
+      "description": "Free glove size calculator. Measure your hand circumference and get your numeric glove size plus an S to XL alpha size for men and women.",
+      "keywords": [
+        "glove size calculator",
+        "hand circumference to glove size",
+        "glove size chart",
+        "measure hand for gloves",
+        "find glove size",
+        "glove sizing"
+      ]
+    },
+    {
+      "id": "belt-size-calculator",
+      "name": "Belt Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/belt-size-calculator",
+      "description": "Free belt size calculator. Enter your pant waist or actual waist measurement and get the correct belt size in inches and centimeters.",
+      "keywords": [
+        "belt size calculator",
+        "pant size to belt size",
+        "what belt size",
+        "waist to belt size",
+        "belt size chart",
+        "find belt size"
+      ]
+    },
+    {
+      "id": "jeans-size-calculator",
+      "name": "Jeans Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/jeans-size-calculator",
+      "description": "Free jeans size calculator. Convert your waist and inseam measurements into US W/L jeans sizing and equivalent EU and alpha sizes.",
+      "keywords": [
+        "jeans size calculator",
+        "waist to jeans size",
+        "w l jeans size",
+        "jeans size chart",
+        "inseam length",
+        "find jeans size"
+      ]
+    },
+    {
+      "id": "mens-shirt-size-calculator",
+      "name": "Men's Shirt Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/mens-shirt-size-calculator",
+      "description": "Free mens dress shirt size calculator. Enter your neck and sleeve measurements to get the correct collar size and sleeve length fit.",
+      "keywords": [
+        "mens shirt size calculator",
+        "neck size for shirt",
+        "sleeve length shirt",
+        "dress shirt size chart",
+        "collar size calculator",
+        "shirt fit calculator"
+      ]
+    },
+    {
+      "id": "suit-jacket-size-calculator",
+      "name": "Suit Jacket Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/suit-jacket-size-calculator",
+      "description": "Free suit jacket size calculator. Enter your chest measurement and height to get your jacket size and short, regular or long length.",
+      "keywords": [
+        "suit jacket size calculator",
+        "chest to jacket size",
+        "suit size chart",
+        "blazer size calculator",
+        "jacket length short regular long",
+        "find suit size"
+      ]
+    },
+    {
+      "id": "kids-clothing-size-by-age",
+      "name": "Kids Clothing Size by Age",
+      "category": "fashion",
+      "url": "https://yourhack.ai/kids-clothing-size-by-age",
+      "description": "Free kids clothing size chart by age. Enter a child age to see the typical US, UK and EU clothing size plus average height and weight.",
+      "keywords": [
+        "kids clothing size by age",
+        "toddler clothing size chart",
+        "childrens size by age",
+        "kids size chart",
+        "baby clothing size age",
+        "child clothes size"
+      ]
+    },
+    {
+      "id": "kids-shoe-size-by-age",
+      "name": "Kids Shoe Size by Age",
+      "category": "fashion",
+      "url": "https://yourhack.ai/kids-shoe-size-by-age",
+      "description": "Free kids shoe size chart by age. Enter a child age to see the typical US, UK and EU shoe size and the matching foot length in cm.",
+      "keywords": [
+        "kids shoe size by age",
+        "toddler shoe size chart",
+        "childrens shoe size age",
+        "kids shoe size chart",
+        "baby shoe size age",
+        "child shoe size"
+      ]
+    },
+    {
+      "id": "sock-size-converter",
+      "name": "Sock Size Converter",
+      "category": "fashion",
+      "url": "https://yourhack.ai/sock-size-converter",
+      "description": "Free sock size converter. Turn your US shoe size into the numeric sock size and an S to XL alpha size for men and women.",
+      "keywords": [
+        "sock size converter",
+        "shoe size to sock size",
+        "sock size chart",
+        "what sock size",
+        "us sock size",
+        "sock sizing"
+      ]
+    },
+    {
+      "id": "watch-band-size-calculator",
+      "name": "Watch Band Size Calculator",
+      "category": "fashion",
+      "url": "https://yourhack.ai/watch-band-size-calculator",
+      "description": "Free watch band size calculator. Enter your wrist circumference to find the recommended strap length and typical S, M or L band size.",
+      "keywords": [
+        "watch band size calculator",
+        "wrist size for watch",
+        "watch strap length",
+        "wrist circumference watch band",
+        "watch band size chart",
+        "strap size"
+      ]
+    },
+    {
+      "id": "necklace-length-guide",
+      "name": "Necklace Length Guide",
+      "category": "fashion",
+      "url": "https://yourhack.ai/necklace-length-guide",
+      "description": "Free necklace length guide. Enter a chain length in inches or centimeters and see where it sits and the traditional style name.",
+      "keywords": [
+        "necklace length guide",
+        "necklace length chart",
+        "chain length names",
+        "choker princess matinee",
+        "necklace size guide",
+        "necklace length inches"
+      ]
+    },
+    {
+      "id": "waist-to-pant-size-converter",
+      "name": "Waist to Pant Size Converter",
+      "category": "fashion",
+      "url": "https://yourhack.ai/waist-to-pant-size-converter",
+      "description": "Free waist to pant size converter. Turn a waist measurement into US, UK and EU pant sizes and an S to XL alpha size for men and women.",
+      "keywords": [
+        "waist to pant size",
+        "waist measurement to pant size",
+        "pant size chart",
+        "waist inches to size",
+        "us to eu pant size",
+        "trouser size converter"
+      ]
+    },
+    {
+      "id": "dress-size-converter",
+      "name": "Dress Size Converter",
+      "category": "fashion",
+      "url": "https://yourhack.ai/dress-size-converter",
+      "description": "Free womens dress size converter across US, UK, EU, IT and alpha sizes. Enter one dress size and see every international equivalent instantly.",
+      "keywords": [
+        "dress size converter",
+        "us to uk dress size",
+        "eu dress size chart",
+        "convert dress size",
+        "international dress sizes",
+        "womens size converter"
+      ]
+    },
+    {
+      "id": "international-size-chart-reference",
+      "name": "International Size Chart Reference",
+      "category": "fashion",
+      "url": "https://yourhack.ai/international-size-chart-reference",
+      "description": "Free international clothing size chart. Quick reference tables for womens and mens tops, waist and shoes across US, UK and EU sizing.",
+      "keywords": [
+        "international size chart",
+        "clothing size chart reference",
+        "us uk eu size table",
+        "womens size chart",
+        "mens size chart",
+        "size conversion table"
+      ]
+    },
+    {
+      "id": "depth-of-field-calculator",
+      "name": "Depth of Field Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/depth-of-field-calculator",
+      "description": "Calculate the depth of field for any lens from focal length, aperture, subject distance, and sensor size. See near, far, and total sharp zone.",
+      "keywords": [
+        "depth of field calculator",
+        "dof calculator",
+        "focus depth calculator",
+        "photography depth of field",
+        "near far focus limit"
+      ]
+    },
+    {
+      "id": "hyperfocal-distance-calculator",
+      "name": "Hyperfocal Distance Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/hyperfocal-distance-calculator",
+      "description": "Find the hyperfocal distance for any lens and aperture. Focus there to keep everything from half that distance to infinity acceptably sharp.",
+      "keywords": [
+        "hyperfocal distance calculator",
+        "hyperfocal calculator",
+        "landscape focus distance",
+        "maximum depth of field",
+        "focus to infinity"
+      ]
+    },
+    {
+      "id": "crop-factor-calculator",
+      "name": "Crop Factor Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/crop-factor-calculator",
+      "description": "Convert a lens focal length to its full frame equivalent using your camera crop factor. Compare APS-C, Micro Four Thirds, and more.",
+      "keywords": [
+        "crop factor calculator",
+        "equivalent focal length calculator",
+        "full frame equivalent",
+        "aps-c crop factor",
+        "focal length multiplier"
+      ]
+    },
+    {
+      "id": "equivalent-aperture-calculator",
+      "name": "Equivalent Aperture Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/equivalent-aperture-calculator",
+      "description": "Convert an aperture to its full frame equivalent for depth of field and light gathering across sensor sizes. Compare lenses fairly.",
+      "keywords": [
+        "equivalent aperture calculator",
+        "aperture crop factor",
+        "full frame equivalent aperture",
+        "depth of field equivalence",
+        "lens comparison aperture"
+      ]
+    },
+    {
+      "id": "field-of-view-calculator",
+      "name": "Field of View Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/field-of-view-calculator",
+      "description": "Calculate the angle of view of any lens from focal length and sensor size. See horizontal, vertical, and diagonal field of view in degrees.",
+      "keywords": [
+        "field of view calculator",
+        "angle of view calculator",
+        "lens fov calculator",
+        "photography angle of view",
+        "focal length to fov"
+      ]
+    },
+    {
+      "id": "exposure-value-calculator",
+      "name": "Exposure Value (EV) Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/exposure-value-calculator",
+      "description": "Calculate the exposure value from aperture, shutter speed, and ISO. Convert between EV, light value, and camera settings for any scene.",
+      "keywords": [
+        "exposure value calculator",
+        "ev calculator",
+        "ev photography",
+        "aperture shutter iso ev",
+        "light value calculator"
+      ]
+    },
+    {
+      "id": "sunny-16-calculator",
+      "name": "Sunny 16 Rule Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/sunny-16-calculator",
+      "description": "Apply the Sunny 16 rule to find shutter speed and aperture for any lighting from your ISO. Meter-free daylight exposure made simple.",
+      "keywords": [
+        "sunny 16 calculator",
+        "sunny 16 rule",
+        "daylight exposure calculator",
+        "no meter exposure",
+        "film exposure rule"
+      ]
+    },
+    {
+      "id": "flash-guide-number-calculator",
+      "name": "Flash Guide Number Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/flash-guide-number-calculator",
+      "description": "Calculate flash aperture, distance, or guide number for correct exposure. Solve any of the three from the other two in meters or feet.",
+      "keywords": [
+        "flash guide number calculator",
+        "guide number calculator",
+        "flash exposure calculator",
+        "flash aperture distance",
+        "gn calculator photography"
+      ]
+    },
+    {
+      "id": "print-size-dpi-calculator",
+      "name": "Print Size and DPI Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/print-size-dpi-calculator",
+      "description": "Find the largest quality print size from your image pixels and target DPI, or the DPI you get at a chosen print size. Inches and cm.",
+      "keywords": [
+        "print size calculator",
+        "dpi calculator",
+        "pixels to print size",
+        "print resolution calculator",
+        "photo print dpi"
+      ]
+    },
+    {
+      "id": "megapixel-print-size-calculator",
+      "name": "Megapixel to Print Size Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/megapixel-print-size-calculator",
+      "description": "See the largest print size your camera megapixels support at 150, 200, and 300 DPI. Turn a megapixel count into real print dimensions.",
+      "keywords": [
+        "megapixel to print size",
+        "megapixel print calculator",
+        "how big can i print",
+        "mp to print size",
+        "print size from megapixels"
+      ]
+    },
+    {
+      "id": "star-trail-500-rule-calculator",
+      "name": "Star Photography 500 Rule Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/star-trail-500-rule-calculator",
+      "description": "Find the longest shutter speed before stars blur using the 500 and NPF rules from focal length and sensor. Sharp astrophotography.",
+      "keywords": [
+        "500 rule calculator",
+        "star trail calculator",
+        "astrophotography shutter calculator",
+        "longest exposure stars",
+        "npf rule calculator"
+      ]
+    },
+    {
+      "id": "time-lapse-calculator",
+      "name": "Time Lapse Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/time-lapse-calculator",
+      "description": "Plan a time lapse: find clip length, frame count, interval, or shooting time from the others. Includes storage size and card estimate.",
+      "keywords": [
+        "time lapse calculator",
+        "timelapse interval calculator",
+        "time lapse clip length",
+        "timelapse frames calculator",
+        "interval shooting calculator"
+      ]
+    },
+    {
+      "id": "nd-filter-calculator",
+      "name": "ND Filter Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/nd-filter-calculator",
+      "description": "Calculate the new shutter speed after adding a neutral density filter. Enter base shutter and ND stops to get long exposure times.",
+      "keywords": [
+        "nd filter calculator",
+        "neutral density calculator",
+        "long exposure calculator",
+        "nd stops to shutter speed",
+        "nd filter shutter speed"
+      ]
+    },
+    {
+      "id": "bellows-extension-calculator",
+      "name": "Bellows Extension Factor Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/bellows-extension-calculator",
+      "description": "Calculate the exposure compensation in stops for macro and bellows extension from focal length and total lens extension. Fix dark macro shots.",
+      "keywords": [
+        "bellows extension calculator",
+        "macro exposure compensation",
+        "bellows factor calculator",
+        "extension tube exposure",
+        "macro light loss calculator"
+      ]
+    },
+    {
+      "id": "reciprocal-shutter-rule-calculator",
+      "name": "Reciprocal Shutter Rule Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/reciprocal-shutter-rule-calculator",
+      "description": "Find the slowest handheld shutter speed that avoids blur using the reciprocal rule from focal length, sensor, and image stabilization.",
+      "keywords": [
+        "reciprocal rule calculator",
+        "handheld shutter speed calculator",
+        "minimum shutter speed",
+        "camera shake calculator",
+        "slowest handheld shutter"
+      ]
+    },
+    {
+      "id": "photo-file-size-estimator",
+      "name": "Photo File Size Estimator",
+      "category": "photography",
+      "url": "https://yourhack.ai/photo-file-size-estimator",
+      "description": "Estimate RAW and uncompressed image file size from megapixels and bit depth, plus JPEG sizes and how many fit on a memory card.",
+      "keywords": [
+        "photo file size calculator",
+        "raw file size estimator",
+        "image file size calculator",
+        "megapixel file size",
+        "memory card capacity photos"
+      ]
+    },
+    {
+      "id": "shutter-speed-stop-calculator",
+      "name": "Stops of Light Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/shutter-speed-stop-calculator",
+      "description": "Convert changes in aperture, shutter speed, or ISO into stops of light and back. Understand equivalent exposures and stop differences.",
+      "keywords": [
+        "stops of light calculator",
+        "exposure stops calculator",
+        "stop difference calculator",
+        "aperture stops calculator",
+        "iso stops calculator"
+      ]
+    },
+    {
+      "id": "iso-invariance-reference",
+      "name": "ISO Invariance and Noise Reference",
+      "category": "photography",
+      "url": "https://yourhack.ai/iso-invariance-reference",
+      "description": "Understand ISO invariance, when to raise ISO versus brighten in post, and how ISO, noise, and dynamic range interact on modern sensors.",
+      "keywords": [
+        "iso invariance",
+        "iso invariant sensor",
+        "iso noise reference",
+        "raise iso or brighten post",
+        "dynamic range iso"
+      ]
+    },
+    {
+      "id": "golden-hour-blue-hour-guide",
+      "name": "Golden Hour and Blue Hour Guide",
+      "category": "photography",
+      "url": "https://yourhack.ai/golden-hour-blue-hour-guide",
+      "description": "Learn when golden hour and blue hour happen relative to sunrise and sunset, with a planner that estimates the windows from your sun times.",
+      "keywords": [
+        "golden hour calculator",
+        "blue hour calculator",
+        "golden hour times",
+        "best light photography",
+        "sunrise sunset photography"
+      ]
+    },
+    {
+      "id": "diffraction-limit-calculator",
+      "name": "Diffraction Limit Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/diffraction-limit-calculator",
+      "description": "Find the aperture where diffraction starts to soften your images based on sensor and pixel size. Know the sharpest f-stop to use.",
+      "keywords": [
+        "diffraction limit calculator",
+        "diffraction aperture calculator",
+        "sharpest aperture calculator",
+        "diffraction limited aperture",
+        "pixel diffraction calculator"
+      ]
+    },
+    {
+      "id": "shutter-speed-motion-blur-calculator",
+      "name": "Motion Blur Shutter Speed Calculator",
+      "category": "photography",
+      "url": "https://yourhack.ai/shutter-speed-motion-blur-calculator",
+      "description": "Find the shutter speed to freeze or intentionally blur a moving subject from its speed, distance, and direction across the frame.",
+      "keywords": [
+        "motion blur calculator",
+        "freeze motion shutter speed",
+        "shutter speed for moving subject",
+        "action photography shutter",
+        "panning shutter speed"
+      ]
+    },
+    {
+      "id": "color-temperature-reference",
+      "name": "Color Temperature and White Balance Reference",
+      "category": "photography",
+      "url": "https://yourhack.ai/color-temperature-reference",
+      "description": "Look up the color temperature in Kelvin for common light sources and match the right white balance preset for accurate photo colors.",
+      "keywords": [
+        "color temperature chart",
+        "white balance kelvin reference",
+        "kelvin light sources",
+        "color temperature photography",
+        "white balance guide"
       ]
     }
   ]

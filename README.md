@@ -1,6 +1,6 @@
 # yourhack.ai — Free Online Tools API & Catalog
 
-**815 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
+**943 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
 
 - 🌐 **Site:** https://yourhack.ai
 - 📚 **All tools:** https://yourhack.ai/all
@@ -94,6 +94,12 @@ See [`clients/python`](./clients/python).
 | Music | 20 | [music](https://yourhack.ai/c/music) |
 | Writing | 22 | [writing](https://yourhack.ai/c/writing) |
 | Statistics | 22 | [statistics](https://yourhack.ai/c/statistics) |
+| Gaming | 22 | [gaming](https://yourhack.ai/c/gaming) |
+| Sports | 22 | [sports](https://yourhack.ai/c/sports) |
+| Weather | 21 | [weather](https://yourhack.ai/c/weather) |
+| Pets | 20 | [pets](https://yourhack.ai/c/pets) |
+| Fashion & Sizing | 21 | [fashion](https://yourhack.ai/c/fashion) |
+| Photography | 22 | [photography](https://yourhack.ai/c/photography) |
 
 ## All tools
 
@@ -1000,6 +1006,152 @@ Every tool below is free and runs entirely in your browser.
 - [Variance Calculator](https://yourhack.ai/variance-calculator): Free variance calculator. Paste a data set to find the sample and population variance, plus standard deviation, mean and sum of squares.
 - [Weighted Mean Calculator](https://yourhack.ai/weighted-mean-calculator): Free weighted mean calculator. Enter values and their weights to find the weighted average, where more important items count for more.
 - [Z-Score Calculator](https://yourhack.ai/z-score-calculator): Free z-score calculator. Enter a value, mean and standard deviation to find how many standard deviations it sits from the average, with percentile.
+
+### Gaming
+
+- [Aim Reaction Benchmark](https://yourhack.ai/aim-reaction-benchmark): Test your reaction time by clicking the moment the box turns green. Get your best, average and a gamer rating over five tries in your browser.
+- [APM Calculator](https://yourhack.ai/apm-calculator): Calculate actions per minute (APM) from total actions and match duration. Measure your speed in RTS and strategy games privately in your browser.
+- [Chess Rating Change Calculator](https://yourhack.ai/chess-rating-change-calculator): Estimate your chess rating change across a tournament from your rating, opponents and results. Uses expected score math, private in your browser.
+- [cm/360 Calculator](https://yourhack.ai/cm-per-360-calculator): Calculate cm/360, the mouse distance for a full turn, from DPI, sensitivity and game yaw. Dial in your aim distance instantly in your browser.
+- [Controller Deadzone Calculator](https://yourhack.ai/controller-deadzone-calculator): Calculate the effective usable stick range after a controller deadzone and see remapped output at any raw input. Runs privately in your browser.
+- [DPS Calculator](https://yourhack.ai/dps-calculator): Calculate damage per second from hit damage, fire rate, crit chance and crit multiplier. Compare weapon builds instantly and privately in your browser.
+- [eDPI Calculator](https://yourhack.ai/edpi-calculator): Calculate your eDPI (effective DPI) from mouse DPI and in game sensitivity. Compare true aim speed across setups instantly in your browser.
+- [Elo Rating Calculator](https://yourhack.ai/elo-rating-calculator): Calculate new Elo ratings after a match from both player ratings, the result and a K factor. See rating change and expected score in your browser.
+- [FPS to Frame Time Calculator](https://yourhack.ai/fps-frame-time-calculator): Convert FPS to frame time in milliseconds and back. See how many ms each frame takes and the frametime budget for smooth gameplay.
+- [Gacha Pity Calculator](https://yourhack.ai/gacha-pity-calculator): Track how many gacha pulls until pity and the currency needed. Enter pity count, current pulls and cost to plan your next banner in your browser.
+- [Gacha Pull Probability Calculator](https://yourhack.ai/gacha-pull-probability-calculator): Calculate the chance of pulling at least one target unit over N gacha pulls. Uses correct at least one probability math, private in your browser.
+- [Game FOV Converter](https://yourhack.ai/game-fov-converter): Convert field of view between horizontal, vertical and aspect ratios. Match FOV across games and monitors instantly in your browser.
+- [Game Resolution Scaler](https://yourhack.ai/game-resolution-scaler): Calculate render resolution from a resolution scale percentage, plus total pixels and pixel count change. Tune performance instantly in your browser.
+- [Headshot Percentage Calculator](https://yourhack.ai/headshot-percentage-calculator): Calculate your headshot percentage from headshots and total kills. Track aim precision across sessions instantly and privately in your browser.
+- [K/D Ratio Calculator](https://yourhack.ai/kd-ratio-calculator): Calculate your kill death ratio from total kills and deaths. See your K/D and how many kills you need to reach a target instantly in your browser.
+- [KDA Calculator](https://yourhack.ai/kda-calculator): Calculate KDA (kills plus assists divided by deaths) for MOBA and shooter games. See your KDA score instantly in your browser.
+- [Loot Drop Probability Calculator](https://yourhack.ai/loot-drop-probability-calculator): Calculate the chance of getting a rare drop at least once over N kills or runs. Correct probability math, runs privately in your browser.
+- [Mouse Sensitivity Converter](https://yourhack.ai/mouse-sensitivity-converter): Convert mouse sensitivity between games using cm/360 and DPI. Match your aim across CS2, Valorant, Apex and more instantly in your browser.
+- [Steam Sale Price Calculator](https://yourhack.ai/steam-sale-price-calculator): Calculate the final price of a game after a Steam style discount, plus your total savings and cost for a bundle of titles. Private in your browser.
+- [Tickrate Reference and Calculator](https://yourhack.ai/tickrate-reference): Look up server tickrate values and convert tickrate to milliseconds per tick. See how tick timing affects hit registration, private in your browser.
+- [Win Rate Calculator](https://yourhack.ai/win-rate-calculator): Calculate your win rate from wins and losses, and see how many games you must win to hit a target percentage. Fast and private in your browser.
+- [XP to Level Calculator](https://yourhack.ai/xp-to-level-calculator): Calculate total XP needed to reach a target level and how much you still need. Supports linear and scaling curves, private in your browser.
+
+### Sports
+
+- [40 Yard Dash Speed Calculator](https://yourhack.ai/forty-yard-dash-speed-calculator): Free 40 yard dash speed calculator. Convert a forty time into average miles per hour and kilometers per hour to see your sprint speed.
+- [Barbell Plate Loading Calculator](https://yourhack.ai/plate-loading-calculator): Free barbell plate calculator. Enter a target weight and bar weight to see exactly which plates to load on each side of the bar.
+- [Baseball ERA Calculator](https://yourhack.ai/baseball-era-calculator): Free baseball ERA calculator. Enter earned runs and innings pitched to get a pitcher earned run average using the standard nine inning formula.
+- [Basketball Shooting Percentage Calculator](https://yourhack.ai/basketball-shooting-percentage-calculator): Free basketball shooting calculator. Get field goal, three point, free throw, effective and true shooting percentages from your makes and attempts.
+- [Batting Average Calculator](https://yourhack.ai/batting-average-calculator): Free baseball batting average calculator. Divide hits by at bats to get a three digit average, plus a quick read on where it ranks.
+- [Bowling Score Calculator](https://yourhack.ai/bowling-score-calculator): Free ten pin bowling score calculator. Enter your rolls frame by frame and get a running score with correct strike and spare bonuses.
+- [Cycling Power to Weight Calculator](https://yourhack.ai/cycling-power-to-weight-calculator): Free cycling power to weight calculator. Divide your FTP by body weight to get watts per kilogram and see your rider category.
+- [Darts Checkout Calculator](https://yourhack.ai/dart-checkout-calculator): Free darts checkout calculator. Enter your remaining score in 501 and see a valid three dart finish that ends correctly on a double.
+- [DOTS Score Calculator](https://yourhack.ai/dots-score-calculator): Free DOTS score calculator for powerlifting. Enter bodyweight and total to get a DOTS coefficient score, the modern replacement for Wilks.
+- [Fantasy Football Points Calculator](https://yourhack.ai/fantasy-football-points-calculator): Free fantasy football points calculator. Enter yards, touchdowns and turnovers to score a player in standard, half PPR or full PPR.
+- [Golf Handicap Calculator](https://yourhack.ai/golf-handicap-calculator): Free golf handicap index calculator. Enter your recent score differentials and get your handicap index using the World Handicap System average method.
+- [Golf Score Differential Calculator](https://yourhack.ai/golf-score-differential-calculator): Free golf score differential calculator. Turn an adjusted gross score, course rating and slope into a WHS differential in one click.
+- [Marathon Split Calculator](https://yourhack.ai/marathon-split-calculator): Free marathon split calculator. Enter a goal finish time to get even and negative split pacing for every 5K and the half marathon mark.
+- [NFL Passer Rating Calculator](https://yourhack.ai/quarterback-passer-rating-calculator): Free NFL passer rating calculator. Enter completions, attempts, yards, touchdowns and interceptions for the official quarterback rating.
+- [On Base Percentage Calculator](https://yourhack.ai/on-base-percentage-calculator): Free OBP calculator for baseball. Enter hits, walks, hit by pitch and plate appearances to get on base percentage the correct way.
+- [OPS Calculator](https://yourhack.ai/ops-calculator): Free baseball OPS calculator. Add on base percentage and slugging percentage to get OPS, the popular all in one offensive rating.
+- [Points Per Game Calculator](https://yourhack.ai/points-per-game-calculator): Free points per game calculator. Divide total points by games played to get a per game scoring average for any sport, plus a season projection.
+- [Race Split Time Calculator](https://yourhack.ai/split-time-calculator): Free race split time calculator. Enter a target finish time and race distance to get an even pace and the clock time at every split.
+- [Slugging Percentage Calculator](https://yourhack.ai/slugging-percentage-calculator): Free slugging percentage calculator. Enter singles, doubles, triples and home runs against at bats to get SLG and total bases.
+- [Swimming Pace Calculator](https://yourhack.ai/swimming-pace-calculator): Free swimming pace calculator. Enter a swim time and distance to get your pace per 100 meters or 100 yards plus average speed.
+- [Vertical Jump Power Calculator](https://yourhack.ai/vertical-jump-power-calculator): Free vertical jump power calculator using the Sayers formula. Enter jump height and body weight to estimate peak leg power in watts.
+- [Wilks Score Calculator](https://yourhack.ai/wilks-calculator): Free Wilks calculator for powerlifting. Enter bodyweight and total lifted to get a Wilks score that compares strength across weight classes.
+
+### Weather
+
+- [Absolute Humidity Calculator](https://yourhack.ai/absolute-humidity-calculator): Free absolute humidity calculator. Enter temperature and relative humidity to find grams of water vapor per cubic meter of air.
+- [Air Density Calculator](https://yourhack.ai/air-density-calculator): Free air density calculator. Enter temperature, pressure and humidity to find moist air density in kilograms per cubic meter.
+- [Beaufort Wind Scale Reference](https://yourhack.ai/beaufort-scale-reference): Free Beaufort wind scale reference. Enter a wind speed to find its Beaufort force number, name and the sea and land effects that go with it.
+- [Cloud Base Height Calculator](https://yourhack.ai/cloud-base-calculator): Free cloud base calculator using the Espy formula. Enter surface temperature and dew point to estimate the height of cumulus cloud bases.
+- [Density Altitude Calculator](https://yourhack.ai/density-altitude-calculator): Free density altitude calculator. Enter pressure altitude and temperature to find density altitude and gauge aircraft and engine performance loss.
+- [Dew Point Calculator](https://yourhack.ai/dew-point-calculator): Free dew point calculator using the Magnus-Tetens formula. Enter temperature and relative humidity to find the dew point and comfort level.
+- [Feels Like Temperature Calculator](https://yourhack.ai/feels-like-temperature-calculator): Free feels like temperature calculator. Combines heat index in warm weather and wind chill in cold weather to show the real apparent temperature.
+- [Frost Point Calculator](https://yourhack.ai/frost-point-calculator): Free frost point calculator. Enter temperature and relative humidity to find the frost point, the temperature at which frost forms on surfaces.
+- [Growing Degree Days Calculator](https://yourhack.ai/growing-degree-days-calculator): Free growing degree days calculator. Enter daily high and low temperatures and a base temperature to find GDD accumulation for crop growth.
+- [Heat Index Calculator](https://yourhack.ai/heat-index-calculator): Free heat index calculator using the NWS Rothfusz regression. Enter air temperature and relative humidity to find how hot it really feels.
+- [Humidex Calculator](https://yourhack.ai/humidex-calculator): Free humidex calculator using the Canadian formula. Enter air temperature and dew point to find the humidex and how hot it feels with humidity.
+- [Lightning Distance Calculator](https://yourhack.ai/lightning-distance-calculator): Free lightning distance calculator. Enter the seconds between a lightning flash and thunder to find how far away the storm is and if it is a threat.
+- [Pressure Altitude Calculator](https://yourhack.ai/pressure-altitude-calculator): Free pressure altitude calculator. Enter field elevation and the altimeter setting to find pressure altitude for aviation performance planning.
+- [Rainfall Volume Calculator](https://yourhack.ai/rainfall-volume-calculator): Free rainfall volume calculator. Enter rainfall depth and a roof or catchment area to find the total water volume collected in liters and gallons.
+- [Relative Humidity Calculator](https://yourhack.ai/relative-humidity-calculator): Free relative humidity calculator. Enter air temperature and dew point to find the relative humidity using saturation vapor pressure ratios.
+- [Saffir-Simpson Hurricane Scale Reference](https://yourhack.ai/saffir-simpson-hurricane-reference): Free Saffir-Simpson hurricane scale reference. Enter sustained wind speed to find the hurricane category and its expected damage.
+- [Snow to Water Ratio Calculator](https://yourhack.ai/snow-to-water-ratio-calculator): Free snow to water ratio calculator. Convert snowfall depth to liquid water equivalent, or water to snow, using the ratio for your snow type.
+- [UV Index Reference and Burn Time](https://yourhack.ai/uv-index-reference): Free UV index reference. Enter the UV index and your skin type to see the risk level, protection advice and estimated time to sunburn.
+- [Wet Bulb Globe Temperature Calculator](https://yourhack.ai/wet-bulb-globe-temperature-calculator): Free WBGT calculator estimating outdoor wet bulb globe temperature from air temperature, humidity and sun to gauge heat stress risk zones.
+- [Wet Bulb Temperature Calculator](https://yourhack.ai/wet-bulb-temperature-calculator): Free wet bulb temperature calculator using the Stull approximation. Enter air temperature and relative humidity to find the wet bulb temperature.
+- [Wind Chill Calculator](https://yourhack.ai/wind-chill-calculator): Free wind chill calculator using the 2001 NWS/Environment Canada formula. Enter temperature and wind speed to find the wind chill temperature.
+
+### Pets
+
+- [Aquarium Volume Calculator](https://yourhack.ai/aquarium-volume-calculator): Free aquarium volume calculator. Find the water volume of a rectangular fish tank in litres and gallons from its length, width, and height.
+- [Cat Calorie Calculator (RER and MER)](https://yourhack.ai/cat-calorie-calculator): Free cat calorie calculator. Estimate daily calories for your cat from resting energy needs and a life stage factor using the RER and MER method.
+- [Cat Food Portion Calculator](https://yourhack.ai/cat-food-portion-calculator): Free cat food portion calculator. Convert your cat daily calorie needs and the food calories per can or cup into a clear daily feeding amount.
+- [Cat Litter Usage Calculator](https://yourhack.ai/cat-litter-usage-calculator): Free cat litter usage calculator. Estimate how much litter you use per month and the yearly cost from your number of cats and change routine.
+- [Cat Pregnancy Due Date Calculator](https://yourhack.ai/cat-pregnancy-calculator): Free cat pregnancy calculator. Estimate your cat queening due date and key milestones from the mating date using a 65 day feline gestation.
+- [Dog Age by Breed Size Calculator](https://yourhack.ai/dog-age-by-breed-size-calculator): Free dog age calculator by breed size. Convert dog years to human years with a size adjusted model instead of the naive times seven rule.
+- [Dog Body Condition Score Estimator](https://yourhack.ai/dog-body-condition-score): Free dog body condition score tool. Answer quick rib, waist, and belly questions to estimate a 1 to 9 body condition score and weight status.
+- [Dog Calorie Calculator (RER and MER)](https://yourhack.ai/dog-calorie-calculator): Free dog calorie calculator. Work out daily calories for your dog from resting energy needs and an activity factor using the standard RER and MER method.
+- [Dog Chocolate Toxicity Calculator](https://yourhack.ai/dog-chocolate-toxicity-calculator): Free dog chocolate toxicity calculator. Estimate the theobromine dose from the chocolate type and amount your dog ate against common risk thresholds.
+- [Dog Crate Size Calculator](https://yourhack.ai/dog-crate-size-calculator): Free dog crate size calculator. Get recommended crate length and height from your dog body measurements so it can stand, turn, and lie down.
+- [Dog Food Portion Calculator](https://yourhack.ai/dog-food-portion-calculator): Free dog food portion calculator. Turn your dog daily calorie needs and the food calories per cup into a daily cup and gram feeding amount.
+- [Dog Pregnancy Due Date Calculator](https://yourhack.ai/dog-pregnancy-calculator): Free dog pregnancy calculator. Estimate your dog whelping due date and week by week timeline from the breeding date using a 63 day gestation.
+- [Dog Walking Distance Calculator](https://yourhack.ai/dog-walking-distance-calculator): Free dog walking calculator. Estimate a daily walk distance and time target for your dog based on its energy level, age band, and body weight.
+- [Dog Water Intake Calculator](https://yourhack.ai/dog-water-intake-calculator): Free dog water intake calculator. Estimate how much water your dog should drink per day from its body weight using a common ml per kg guideline.
+- [Fish Tank Stocking Calculator](https://yourhack.ai/fish-tank-stocking-calculator): Free fish tank stocking calculator. Estimate how many fish a tank can hold with the classic inch per gallon guide and a safer adjusted figure.
+- [Horse Age to Human Years Calculator](https://yourhack.ai/horse-age-to-human-calculator): Free horse age calculator. Convert your horse age into human years with a staged model that reflects fast early growth and slower later aging.
+- [Pet Medication Dosing Schedule Planner](https://yourhack.ai/pet-medication-dosing-schedule): Free pet medication schedule planner. Turn a start time and dosing interval into a clear list of dose times across the next day or two.
+- [Pet Sitting Cost Calculator](https://yourhack.ai/pet-sitting-cost-calculator): Free pet sitting cost calculator. Estimate the total price of pet sitting or boarding from the daily rate, number of days, pets, and extra visits.
+- [Puppy Adult Weight Predictor](https://yourhack.ai/puppy-weight-predictor): Free puppy adult weight predictor. Estimate how big your puppy will grow from its current age and weight using a simple growth ratio method.
+- [Rabbit Age to Human Years Calculator](https://yourhack.ai/rabbit-age-calculator): Free rabbit age calculator. Convert your rabbit age into human years with a staged model that reflects fast maturing youth and a long adult phase.
+
+### Fashion & Sizing
+
+- [Belt Size Calculator](https://yourhack.ai/belt-size-calculator): Free belt size calculator. Enter your pant waist or actual waist measurement and get the correct belt size in inches and centimeters.
+- [Bra Size Calculator](https://yourhack.ai/bra-size-calculator): Free bra size calculator. Enter your underbust and bust measurements to find your band and cup size using the standard inch difference method.
+- [Bra Size Converter](https://yourhack.ai/bra-size-converter): Free bra size converter between US, UK, EU and French/AU sizing. Enter a band and cup and see the matching label in every regional system.
+- [Clothing Size Converter](https://yourhack.ai/clothing-size-converter): Free clothing size converter for men and women. Translate alpha sizes like S, M and L into US, UK and EU numeric sizes with one selection.
+- [Dress Size Converter](https://yourhack.ai/dress-size-converter): Free womens dress size converter across US, UK, EU, IT and alpha sizes. Enter one dress size and see every international equivalent instantly.
+- [Foot Length to Shoe Size](https://yourhack.ai/foot-length-to-shoe-size): Free foot length to shoe size calculator. Measure your foot in cm or inches and get accurate US, UK and EU shoe sizes for men and women.
+- [Glove Size Calculator](https://yourhack.ai/glove-size-calculator): Free glove size calculator. Measure your hand circumference and get your numeric glove size plus an S to XL alpha size for men and women.
+- [Hat Size Calculator](https://yourhack.ai/hat-size-calculator): Free hat size calculator. Measure your head circumference in cm or inches and get your US, UK, EU and alpha hat size instantly.
+- [International Shoe Size Converter](https://yourhack.ai/international-shoe-size-converter): Free shoe size converter across US, UK, EU and centimeters for men and women. Enter one size and see every equivalent instantly in your browser.
+- [International Size Chart Reference](https://yourhack.ai/international-size-chart-reference): Free international clothing size chart. Quick reference tables for womens and mens tops, waist and shoes across US, UK and EU sizing.
+- [Jeans Size Calculator](https://yourhack.ai/jeans-size-calculator): Free jeans size calculator. Convert your waist and inseam measurements into US W/L jeans sizing and equivalent EU and alpha sizes.
+- [Kids Clothing Size by Age](https://yourhack.ai/kids-clothing-size-by-age): Free kids clothing size chart by age. Enter a child age to see the typical US, UK and EU clothing size plus average height and weight.
+- [Kids Shoe Size by Age](https://yourhack.ai/kids-shoe-size-by-age): Free kids shoe size chart by age. Enter a child age to see the typical US, UK and EU shoe size and the matching foot length in cm.
+- [Men's Shirt Size Calculator](https://yourhack.ai/mens-shirt-size-calculator): Free mens dress shirt size calculator. Enter your neck and sleeve measurements to get the correct collar size and sleeve length fit.
+- [Necklace Length Guide](https://yourhack.ai/necklace-length-guide): Free necklace length guide. Enter a chain length in inches or centimeters and see where it sits and the traditional style name.
+- [Ring Size Converter](https://yourhack.ai/ring-size-converter): Free ring size converter across US, UK, EU, diameter and circumference. Enter one and see every equivalent ring size measurement instantly.
+- [Ring Size from Circumference](https://yourhack.ai/ring-size-from-circumference): Free ring sizer. Wrap a strip of paper around your finger, enter the circumference or diameter, and get your US, UK and EU ring size.
+- [Sock Size Converter](https://yourhack.ai/sock-size-converter): Free sock size converter. Turn your US shoe size into the numeric sock size and an S to XL alpha size for men and women.
+- [Suit Jacket Size Calculator](https://yourhack.ai/suit-jacket-size-calculator): Free suit jacket size calculator. Enter your chest measurement and height to get your jacket size and short, regular or long length.
+- [Waist to Pant Size Converter](https://yourhack.ai/waist-to-pant-size-converter): Free waist to pant size converter. Turn a waist measurement into US, UK and EU pant sizes and an S to XL alpha size for men and women.
+- [Watch Band Size Calculator](https://yourhack.ai/watch-band-size-calculator): Free watch band size calculator. Enter your wrist circumference to find the recommended strap length and typical S, M or L band size.
+
+### Photography
+
+- [Bellows Extension Factor Calculator](https://yourhack.ai/bellows-extension-calculator): Calculate the exposure compensation in stops for macro and bellows extension from focal length and total lens extension. Fix dark macro shots.
+- [Color Temperature and White Balance Reference](https://yourhack.ai/color-temperature-reference): Look up the color temperature in Kelvin for common light sources and match the right white balance preset for accurate photo colors.
+- [Crop Factor Calculator](https://yourhack.ai/crop-factor-calculator): Convert a lens focal length to its full frame equivalent using your camera crop factor. Compare APS-C, Micro Four Thirds, and more.
+- [Depth of Field Calculator](https://yourhack.ai/depth-of-field-calculator): Calculate the depth of field for any lens from focal length, aperture, subject distance, and sensor size. See near, far, and total sharp zone.
+- [Diffraction Limit Calculator](https://yourhack.ai/diffraction-limit-calculator): Find the aperture where diffraction starts to soften your images based on sensor and pixel size. Know the sharpest f-stop to use.
+- [Equivalent Aperture Calculator](https://yourhack.ai/equivalent-aperture-calculator): Convert an aperture to its full frame equivalent for depth of field and light gathering across sensor sizes. Compare lenses fairly.
+- [Exposure Value (EV) Calculator](https://yourhack.ai/exposure-value-calculator): Calculate the exposure value from aperture, shutter speed, and ISO. Convert between EV, light value, and camera settings for any scene.
+- [Field of View Calculator](https://yourhack.ai/field-of-view-calculator): Calculate the angle of view of any lens from focal length and sensor size. See horizontal, vertical, and diagonal field of view in degrees.
+- [Flash Guide Number Calculator](https://yourhack.ai/flash-guide-number-calculator): Calculate flash aperture, distance, or guide number for correct exposure. Solve any of the three from the other two in meters or feet.
+- [Golden Hour and Blue Hour Guide](https://yourhack.ai/golden-hour-blue-hour-guide): Learn when golden hour and blue hour happen relative to sunrise and sunset, with a planner that estimates the windows from your sun times.
+- [Hyperfocal Distance Calculator](https://yourhack.ai/hyperfocal-distance-calculator): Find the hyperfocal distance for any lens and aperture. Focus there to keep everything from half that distance to infinity acceptably sharp.
+- [ISO Invariance and Noise Reference](https://yourhack.ai/iso-invariance-reference): Understand ISO invariance, when to raise ISO versus brighten in post, and how ISO, noise, and dynamic range interact on modern sensors.
+- [Megapixel to Print Size Calculator](https://yourhack.ai/megapixel-print-size-calculator): See the largest print size your camera megapixels support at 150, 200, and 300 DPI. Turn a megapixel count into real print dimensions.
+- [Motion Blur Shutter Speed Calculator](https://yourhack.ai/shutter-speed-motion-blur-calculator): Find the shutter speed to freeze or intentionally blur a moving subject from its speed, distance, and direction across the frame.
+- [ND Filter Calculator](https://yourhack.ai/nd-filter-calculator): Calculate the new shutter speed after adding a neutral density filter. Enter base shutter and ND stops to get long exposure times.
+- [Photo File Size Estimator](https://yourhack.ai/photo-file-size-estimator): Estimate RAW and uncompressed image file size from megapixels and bit depth, plus JPEG sizes and how many fit on a memory card.
+- [Print Size and DPI Calculator](https://yourhack.ai/print-size-dpi-calculator): Find the largest quality print size from your image pixels and target DPI, or the DPI you get at a chosen print size. Inches and cm.
+- [Reciprocal Shutter Rule Calculator](https://yourhack.ai/reciprocal-shutter-rule-calculator): Find the slowest handheld shutter speed that avoids blur using the reciprocal rule from focal length, sensor, and image stabilization.
+- [Star Photography 500 Rule Calculator](https://yourhack.ai/star-trail-500-rule-calculator): Find the longest shutter speed before stars blur using the 500 and NPF rules from focal length and sensor. Sharp astrophotography.
+- [Stops of Light Calculator](https://yourhack.ai/shutter-speed-stop-calculator): Convert changes in aperture, shutter speed, or ISO into stops of light and back. Understand equivalent exposures and stop differences.
+- [Sunny 16 Rule Calculator](https://yourhack.ai/sunny-16-calculator): Apply the Sunny 16 rule to find shutter speed and aperture for any lighting from your ISO. Meter-free daylight exposure made simple.
+- [Time Lapse Calculator](https://yourhack.ai/time-lapse-calculator): Plan a time lapse: find clip length, frame count, interval, or shooting time from the others. Includes storage size and card estimate.
 
 ## Why yourhack.ai
 
