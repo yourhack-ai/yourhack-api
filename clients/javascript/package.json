@@ -1,0 +1,13 @@
+{
+  "name": "yourhack",
+  "version": "1.0.0",
+  "description": "Tiny zero-dependency client for the free yourhack.ai tools catalog API.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": ["yourhack", "tools", "api", "free tools", "online tools", "developer tools"],
+  "license": "MIT",
+  "homepage": "https://yourhack.ai"
+}

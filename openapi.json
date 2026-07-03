@@ -1,0 +1,168 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "yourhack.ai Tools API",
+    "version": "1.0.0",
+    "description": "Free, no-auth REST API for the yourhack.ai catalog of browser-based tools. Returns tool and category metadata (id, name, category, url, description, keywords). Every tool runs client-side at its url.",
+    "contact": {
+      "name": "yourhack.ai",
+      "url": "https://yourhack.ai/"
+    },
+    "license": {
+      "name": "Free to use"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://yourhack.ai"
+    }
+  ],
+  "paths": {
+    "/api/tools": {
+      "get": {
+        "summary": "List all tools",
+        "description": "Returns every tool with its metadata and canonical url.",
+        "responses": {
+          "200": {
+            "description": "The full tool catalog.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "count": {
+                      "type": "integer"
+                    },
+                    "tools": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Tool"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/tools/{id}": {
+      "get": {
+        "summary": "Get one tool",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Tool id (url slug)."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Tool metadata.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tool"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No tool with that id."
+          }
+        }
+      }
+    },
+    "/api/categories": {
+      "get": {
+        "summary": "List all categories",
+        "responses": {
+          "200": {
+            "description": "All categories with tool counts.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "count": {
+                      "type": "integer"
+                    },
+                    "categories": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Category"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Tool": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "description": {
+            "type": "string"
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "Category": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "tagline": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "toolCount": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}
