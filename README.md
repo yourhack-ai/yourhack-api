@@ -1,6 +1,6 @@
 # yourhack.ai — Free Online Tools API & Catalog
 
-**680 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
+**815 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
 
 - 🌐 **Site:** https://yourhack.ai
 - 📚 **All tools:** https://yourhack.ai/all
@@ -88,6 +88,12 @@ See [`clients/python`](./clients/python).
 | Education | 22 | [education](https://yourhack.ai/c/education) |
 | Business | 22 | [business](https://yourhack.ai/c/business) |
 | Cooking | 20 | [cooking](https://yourhack.ai/c/cooking) |
+| Home & Real Estate | 24 | [home](https://yourhack.ai/c/home) |
+| Automotive | 23 | [automotive](https://yourhack.ai/c/automotive) |
+| Geometry | 24 | [geometry](https://yourhack.ai/c/geometry) |
+| Music | 20 | [music](https://yourhack.ai/c/music) |
+| Writing | 22 | [writing](https://yourhack.ai/c/writing) |
+| Statistics | 22 | [statistics](https://yourhack.ai/c/statistics) |
 
 ## All tools
 
@@ -841,6 +847,159 @@ Every tool below is free and runs entirely in your browser.
 - [Sourdough Starter Feeding Calculator](https://yourhack.ai/sourdough-starter-calculator): Free sourdough starter calculator. Work out feeding amounts from a ratio like 1:2:2 and starter weight, giving grams of starter, flour, and water.
 - [Turkey Cooking Time Calculator](https://yourhack.ai/turkey-cooking-time-calculator): Free turkey cooking time calculator. Get roasting time and thaw time by turkey weight for a stuffed or unstuffed bird, with a safe internal temperature.
 - [Yeast Converter](https://yourhack.ai/yeast-converter): Free yeast converter. Convert between active dry, instant, and fresh (cake) yeast by weight using standard baking ratios, updating live as you type.
+
+### Home & Real Estate
+
+- [Cap Rate Calculator](https://yourhack.ai/cap-rate-calculator): Free cap rate calculator for real estate. Enter net operating income and property price to find the capitalization rate on an investment.
+- [Closing Cost Estimator](https://yourhack.ai/closing-cost-estimator): Free closing cost estimator. Enter the home price and a closing cost percentage to estimate what a buyer pays at closing plus cash needed.
+- [Concrete Slab Calculator](https://yourhack.ai/concrete-slab-calculator): Free concrete slab calculator. Enter slab length, width and thickness to find cubic yards of concrete and 80 lb bags needed.
+- [Deck Board Calculator](https://yourhack.ai/deck-board-calculator): Free deck board calculator. Enter deck size and board dimensions to estimate how many deck boards and linear feet you need to build a deck.
+- [Drywall Sheet Calculator](https://yourhack.ai/drywall-sheet-calculator): Free drywall calculator. Enter wall and ceiling area plus sheet size to estimate how many sheets of drywall you need for a room.
+- [Flooring Calculator](https://yourhack.ai/flooring-calculator): Free flooring calculator. Enter room length and width plus a waste factor to find total square footage and boxes of flooring to buy.
+- [Grass Seed Calculator](https://yourhack.ai/grass-seed-calculator): Free grass seed calculator. Enter lawn size and seeding rate to find how many pounds of grass seed you need for a new or overseeded lawn.
+- [Gravel Calculator](https://yourhack.ai/gravel-calculator): Free gravel calculator. Enter area length, width and depth to find cubic yards and tons of gravel for a driveway or path.
+- [Home Affordability Calculator](https://yourhack.ai/home-affordability-calculator): Free home affordability calculator. Enter income, debts, down payment and rate to estimate the home price you can afford to buy.
+- [Lawn Fertilizer Calculator](https://yourhack.ai/lawn-fertilizer-calculator): Free lawn fertilizer calculator. Enter lawn size, target nitrogen rate and the bag N number to find pounds of fertilizer to apply.
+- [Mulch Calculator](https://yourhack.ai/mulch-calculator): Free mulch calculator. Enter bed length, width and depth to find cubic yards of mulch and how many bags you need for landscaping.
+- [Paint Calculator](https://yourhack.ai/paint-calculator): Free paint calculator. Enter wall length, height, doors and windows to estimate gallons of paint needed per coat for any room.
+- [Plants Per Square Foot Calculator](https://yourhack.ai/plants-per-square-foot-calculator): Free plant spacing calculator. Enter bed size and plant spacing to find how many plants you need to fill a garden bed or ground cover area.
+- [Price Per Square Foot Calculator](https://yourhack.ai/price-per-square-foot-calculator): Free price per square foot calculator. Enter a home price and its size to find the cost per square foot and compare listings fairly.
+- [Property Tax Calculator](https://yourhack.ai/property-tax-calculator): Free property tax calculator. Enter home value and the tax rate or mill rate to estimate your annual and monthly property tax bill.
+- [Rent Affordability Calculator](https://yourhack.ai/rent-affordability-calculator): Free rent affordability calculator. Enter your income and debts to find the monthly rent you can comfortably afford using the 30 percent rule.
+- [Rental Yield Calculator](https://yourhack.ai/rental-yield-calculator): Free rental yield calculator. Enter monthly rent, property price and costs to find gross and net rental yield on an investment property.
+- [Roof Pitch Calculator](https://yourhack.ai/roof-pitch-calculator): Free roof pitch calculator. Enter rise and run to find roof slope, angle in degrees and the rafter length multiplier for a roof.
+- [Room Area Calculator](https://yourhack.ai/room-area-calculator): Free room area calculator. Enter length and width to find square footage, and add multiple rooms to get a running total for a whole project.
+- [Room BTU Calculator](https://yourhack.ai/room-btu-calculator): Free room BTU calculator. Enter room size, ceiling height and sun exposure to estimate the BTU rating you need for heating or cooling.
+- [Stair Stringer Calculator](https://yourhack.ai/stair-stringer-calculator): Free stair calculator. Enter total rise and run to find the number of steps, riser height and tread depth for a code friendly staircase.
+- [Tile Calculator](https://yourhack.ai/tile-calculator): Free tile calculator. Enter area size and tile dimensions to find how many tiles and boxes you need including a waste allowance.
+- [Topsoil Calculator](https://yourhack.ai/topsoil-calculator): Free topsoil calculator. Enter area length, width and depth to find cubic yards and bags of topsoil for a garden or lawn.
+- [Wallpaper Calculator](https://yourhack.ai/wallpaper-calculator): Free wallpaper calculator. Enter wall length, height and roll size to estimate how many rolls of wallpaper you need for a room.
+
+### Automotive
+
+- [Car Depreciation Calculator](https://yourhack.ai/car-depreciation-calculator): Estimate how much value a car loses each year. See year by year value from purchase price and an annual depreciation rate.
+- [Car Lease vs Buy Calculator](https://yourhack.ai/car-lease-vs-buy-calculator): Compare leasing and buying a car over the same period. See total cost, monthly payment, and the equity you keep by buying.
+- [Cost Per Mile Calculator](https://yourhack.ai/cost-per-mile-calculator): Calculate the true cost per mile of driving from fuel, insurance, maintenance, and depreciation over your yearly mileage.
+- [Engine Displacement Calculator](https://yourhack.ai/engine-displacement-calculator): Calculate engine displacement from bore, stroke, and cylinder count. Get the result in cc, liters, and cubic inches at once.
+- [EV Charging Cost Calculator](https://yourhack.ai/ev-charging-cost-calculator): Calculate the cost to charge an electric car from battery size, charge level, charging losses, and your electricity price per kWh.
+- [EV Charging Time Calculator](https://yourhack.ai/ev-charging-time-calculator): Estimate how long it takes to charge an electric car from battery size, charger power, and the charge percentage you need.
+- [EV vs Gas Cost Calculator](https://yourhack.ai/ev-vs-gas-cost-calculator): Compare the fuel cost of an electric car and a gas car per mile and per year, and see how much you would save by going electric.
+- [Fuel Cost Calculator](https://yourhack.ai/fuel-cost-calculator): Calculate the fuel cost of any trip from distance, fuel economy, and gas price. Works in MPG or L/100km with instant results.
+- [Fuel Savings Calculator](https://yourhack.ai/fuel-savings-calculator): Compare two cars by fuel economy and see the yearly and 5 year fuel savings you get from switching to the more efficient one.
+- [Gear Ratio Calculator](https://yourhack.ai/gear-ratio-calculator): Calculate final drive gear ratio from ring and pinion teeth, plus engine RPM at a given speed for your tire size and gearing.
+- [Horsepower Torque RPM Calculator](https://yourhack.ai/horsepower-torque-rpm-calculator): Solve horsepower, torque, or RPM when you know the other two. Uses the classic HP equals torque times RPM over 5252 formula.
+- [L/100km Calculator](https://yourhack.ai/l-per-100km-calculator): Calculate fuel consumption in liters per 100 km from distance and liters used. See the km per liter and MPG equivalent too.
+- [Miles Per Tank Calculator](https://yourhack.ai/miles-per-tank-calculator): Calculate how far you can drive on a full tank from your tank size and MPG, plus a safe range that keeps a fuel reserve in the tank.
+- [MPG Calculator](https://yourhack.ai/mpg-calculator): Calculate your real miles per gallon from miles driven and gallons used. See the L/100km equivalent and cost per mile too.
+- [MPG to L/100km Converter](https://yourhack.ai/mpg-to-l-per-100km-converter): Convert miles per gallon to liters per 100 km and back. Supports both US and Imperial (UK) gallons with the exact formula.
+- [Oil Change Cost Calculator](https://yourhack.ai/engine-oil-change-cost-calculator): Estimate the yearly cost of oil changes and the cost per mile from your interval, mileage, oil, filter, and labor prices.
+- [Road Trip Fuel Calculator](https://yourhack.ai/road-trip-fuel-calculator): Plan a road trip budget: enter distance, fuel economy, price, and passengers to see total fuel cost and cost per person.
+- [Speedometer Error Calculator](https://yourhack.ai/speedometer-error-calculator): Calculate speedometer error after a tire size change. Enter old and new tire diameters to see your true speed at any indicated reading.
+- [Tire Size Calculator](https://yourhack.ai/tire-size-calculator): Read a tire size code like 225/45R17 and get the overall diameter, sidewall height, circumference, and revolutions per mile.
+- [Tire Size Comparison Calculator](https://yourhack.ai/tire-size-comparison-calculator): Compare two tire sizes and see the difference in diameter, sidewall, and how much your speedometer reads off with the new size.
+- [US MPG to Imperial MPG Converter](https://yourhack.ai/mpg-us-to-imperial-converter): Convert US MPG to UK Imperial MPG and back. Imperial gallons are larger, so the same car reads higher in UK MPG figures.
+- [Wheel Offset Calculator](https://yourhack.ai/wheel-offset-calculator): Compare wheel offsets and see how far a new wheel moves in or out. Enter width and offset to find the change at the fender and hub.
+- [Zero to Sixty Estimator](https://yourhack.ai/zero-to-sixty-estimator): Estimate a car 0 to 60 mph time from horsepower and weight using a power to weight model. See the power to weight ratio too.
+
+### Geometry
+
+- [3D Distance Calculator](https://yourhack.ai/distance-3d-calculator): Free 3D distance calculator. Enter two points in x y z space to get the straight line distance between them instantly using the 3D distance formula.
+- [Arc Length Calculator](https://yourhack.ai/arc-length-calculator): Free arc length calculator. Enter the radius and central angle to get the arc length of a circle using r times theta, instantly in your browser.
+- [Circle Area Calculator](https://yourhack.ai/circle-area-calculator): Free circle area calculator. Enter a radius or diameter to get the area of a circle instantly using pi times r squared, right in your browser.
+- [Circle Circumference Calculator](https://yourhack.ai/circle-circumference-calculator): Free circle circumference calculator. Enter a radius or diameter to get the distance around a circle using 2 pi r, instantly in your browser.
+- [Cone Volume Calculator](https://yourhack.ai/cone-volume-calculator): Free cone volume calculator. Enter the radius and height to get the volume, slant height and surface area of a cone instantly in your browser.
+- [Cube Volume Calculator](https://yourhack.ai/cube-volume-calculator): Free cube volume calculator. Enter the edge length to get the volume, surface area and diagonal of a cube instantly using edge cubed in your browser.
+- [Cylinder Volume Calculator](https://yourhack.ai/cylinder-volume-calculator): Free cylinder volume calculator. Enter the radius and height to get the volume and surface area of a cylinder instantly using pi r squared h.
+- [Ellipse Area Calculator](https://yourhack.ai/ellipse-area-calculator): Free ellipse area calculator. Enter the semi major and semi minor axes to get the area of an ellipse instantly using pi times a times b.
+- [Heron Formula Calculator](https://yourhack.ai/heron-formula-calculator): Free Heron formula calculator. Enter the three side lengths of a triangle to get its area using Heron formula instantly in your browser.
+- [Hexagon Calculator](https://yourhack.ai/hexagon-calculator): Free regular hexagon calculator. Enter the side length to get area, perimeter, and both the long and short diagonals of a hexagon instantly.
+- [Parallelogram Area Calculator](https://yourhack.ai/parallelogram-area-calculator): Free parallelogram area calculator. Enter the base and height to get the area of a parallelogram instantly using base times height in your browser.
+- [Pyramid Volume Calculator](https://yourhack.ai/pyramid-volume-calculator): Free square pyramid volume calculator. Enter the base edge and height to get the volume, slant height and surface area of a pyramid in your browser.
+- [Pythagorean Theorem Calculator](https://yourhack.ai/pythagorean-theorem-calculator): Free Pythagorean theorem calculator. Enter two sides of a right triangle to find the hypotenuse or a missing leg using a squared plus b squared.
+- [Rectangle Area Calculator](https://yourhack.ai/rectangle-area-calculator): Free rectangle area calculator. Enter length and width to get the area and perimeter of a rectangle instantly, all in your browser.
+- [Rectangular Prism Volume Calculator](https://yourhack.ai/rectangular-prism-volume-calculator): Free rectangular prism volume calculator. Enter length, width and height to get the volume and surface area of a box instantly in your browser.
+- [Regular Polygon Area Calculator](https://yourhack.ai/regular-polygon-area-calculator): Free regular polygon area calculator. Enter the number of sides and side length to get area and perimeter of any regular polygon in your browser.
+- [Rhombus Area Calculator](https://yourhack.ai/rhombus-area-calculator): Free rhombus area calculator. Enter the two diagonals to get the area of a rhombus instantly using half the product of the diagonals in your browser.
+- [Right Triangle Calculator](https://yourhack.ai/right-triangle-calculator): Free right triangle calculator. Enter the two legs to get the hypotenuse, area, perimeter and both acute angles of a right triangle instantly.
+- [Sector Area Calculator](https://yourhack.ai/sector-area-calculator): Free circle sector area calculator. Enter the radius and central angle in degrees to get the area of a pie slice sector instantly in your browser.
+- [Sphere Volume Calculator](https://yourhack.ai/sphere-volume-calculator): Free sphere volume calculator. Enter the radius to get the volume and surface area of a sphere instantly using four thirds pi r cubed in your browser.
+- [Square Area Calculator](https://yourhack.ai/square-area-calculator): Free square area calculator. Enter the side length to get the area, perimeter and diagonal of a square instantly in your browser.
+- [Surface Area of a Box Calculator](https://yourhack.ai/surface-area-of-box-calculator): Free box surface area calculator. Enter length, width and height to get the total surface area of a rectangular box instantly in your browser.
+- [Trapezoid Area Calculator](https://yourhack.ai/trapezoid-area-calculator): Free trapezoid area calculator. Enter the two parallel sides and the height to get the area of a trapezoid instantly in your browser.
+- [Triangle Perimeter Calculator](https://yourhack.ai/triangle-perimeter-calculator): Free triangle perimeter calculator. Enter the three side lengths to get the perimeter and semi perimeter of a triangle instantly in your browser.
+
+### Music
+
+- [BPM Tap Counter](https://yourhack.ai/bpm-tap-counter): Free BPM tap tempo tool. Tap a key or button in time with any song and read the tempo in beats per minute instantly in your browser.
+- [BPM to Hz Converter](https://yourhack.ai/bpm-to-hz-converter): Free BPM to Hz converter. Turn a tempo in beats per minute into a frequency in hertz for setting LFOs, tremolo and modulation to the beat.
+- [Cents Calculator](https://yourhack.ai/cents-calculator): Free cents calculator. Convert a frequency ratio or two pitches into cents, the fine pitch unit where one hundred cents equals a semitone.
+- [Chord Note Finder](https://yourhack.ai/chord-note-finder): Free chord note finder. Pick a root note and chord quality like major, minor or dominant seventh to see the exact notes that make up the chord.
+- [Delay Time Calculator](https://yourhack.ai/delay-time-calculator): Free delay and reverb time calculator. Enter a tempo in BPM and get delay times in milliseconds and Hz for every note value from whole to sixteenth.
+- [Frequency to Note Converter](https://yourhack.ai/frequency-to-note-converter): Free frequency to note converter. Enter any pitch in Hz and get the closest musical note, octave and how many cents sharp or flat it sits.
+- [Key Transpose Calculator](https://yourhack.ai/key-transpose-calculator): Free key transpose calculator. Enter a musical key and a number of semitones to instantly get the new transposed key, up or down.
+- [MIDI Note Number Calculator](https://yourhack.ai/midi-note-number-calculator): Free MIDI note number calculator. Convert between MIDI note numbers, note names and frequency in Hz where middle C is MIDI 60 and A4 is 69.
+- [Note Frequency Calculator](https://yourhack.ai/note-frequency-calculator): Free note to frequency calculator. Pick a note name and octave to see its exact pitch in Hz using equal temperament with A4 tuned to 440 Hz.
+- [Note Interval Calculator](https://yourhack.ai/note-interval-calculator): Free musical interval calculator. Pick two notes and see the interval name, the number of semitones and the frequency ratio between them.
+- [Note Wavelength Calculator](https://yourhack.ai/note-wavelength-calculator): Free note wavelength calculator. Enter a musical note or frequency to find its sound wavelength in air, useful for speaker and room acoustics.
+- [Octave Frequency Calculator](https://yourhack.ai/octave-frequency-calculator): Free octave frequency calculator. Enter a frequency and shift it up or down by whole octaves to see how the pitch doubles or halves in Hz.
+- [Online Metronome](https://yourhack.ai/metronome): Free online metronome. Set any tempo and time signature and get an accurate Web Audio click track right in your browser, no download needed.
+- [Reverb Decay Calculator](https://yourhack.ai/reverb-decay-calculator): Free reverb decay time calculator. Enter a tempo in BPM to get tempo synced reverb decay and pre delay times in milliseconds for tight mixes.
+- [Sample Rate and Bit Depth Reference](https://yourhack.ai/sample-rate-reference): Free audio sample rate reference. Compare 44.1 kHz, 48 kHz and higher rates, learn the Nyquist limit, and estimate uncompressed file size per minute.
+- [Scale Note Finder](https://yourhack.ai/scale-note-finder): Free scale note finder. Choose a key and a mode or scale type like major, minor or dorian to list all the notes in the scale instantly.
+- [Semitone Frequency Calculator](https://yourhack.ai/semitone-frequency-calculator): Free semitone frequency calculator. Enter a starting frequency and a number of semitones to see the resulting pitch in Hz using 12-TET math.
+- [Song Length Calculator](https://yourhack.ai/song-length-calculator): Free song length calculator. Enter tempo, bars and time signature to work out how long a section or full track runs in minutes and seconds.
+- [Tempo Marking Reference](https://yourhack.ai/tempo-marking-reference): Free tempo marking reference. Look up Italian tempo terms like largo, andante and allegro with their beats per minute ranges, or find the term for a BPM.
+- [Time Signature Reference](https://yourhack.ai/time-signature-reference): Free time signature reference. Learn what the top and bottom numbers mean, simple versus compound meter, and common signatures with beat groupings.
+
+### Writing
+
+- [Adverb Counter](https://yourhack.ai/adverb-counter): Free adverb counter. Highlight -ly adverbs and see what share of your writing they make up, computed instantly in your browser.
+- [Automated Readability Index Calculator](https://yourhack.ai/automated-readability-index-calculator): Free Automated Readability Index calculator. Get a US grade level from characters, words and sentences instantly in your browser.
+- [Average Word Length Calculator](https://yourhack.ai/average-word-length-calculator): Free average word length calculator. Measure mean characters per word and syllables per word to gauge how dense your writing is.
+- [Cliche Finder](https://yourhack.ai/cliche-finder): Free cliche finder. Detect tired phrases like at the end of the day and think outside the box so you can freshen up your writing.
+- [Coleman-Liau Index Calculator](https://yourhack.ai/coleman-liau-index-calculator): Free Coleman-Liau index calculator. Get a US grade level from letters and sentences per hundred words, no syllable counting, in your browser.
+- [Dialogue Percentage Calculator](https://yourhack.ai/dialogue-percentage-calculator): Free dialogue percentage calculator. Measure how much of your story is spoken dialogue versus narration, computed in your browser.
+- [Filler Word Finder](https://yourhack.ai/filler-word-finder): Free filler word finder. Spot padding words like just, really, very and actually so you can cut them, all in your browser.
+- [Flesch-Kincaid Grade Level Calculator](https://yourhack.ai/flesch-kincaid-grade-calculator): Free Flesch-Kincaid grade level calculator. Find the US school grade needed to read your text, computed instantly in your browser.
+- [Gunning Fog Index Calculator](https://yourhack.ai/gunning-fog-index-calculator): Free Gunning Fog index calculator. Measure text complexity by grade level using sentence length and complex words, all in your browser.
+- [Lexical Diversity Calculator](https://yourhack.ai/lexical-diversity-calculator): Free lexical diversity calculator. Measure vocabulary richness with the type token ratio and root TTR instantly in your browser.
+- [Longest Words Finder](https://yourhack.ai/longest-words-finder): Free longest words finder. Rank the longest words in your text by character count so you can simplify dense vocabulary, in your browser.
+- [Passive Voice Detector](https://yourhack.ai/passive-voice-detector): Free passive voice detector. Find passive sentences and get the passive share of your text instantly in your browser, no upload needed.
+- [Readability Score Calculator](https://yourhack.ai/readability-score-calculator): Free readability score calculator. Get the Flesch Reading Ease score and grade level for any text instantly in your browser, no sign up.
+- [Repeated Word Finder](https://yourhack.ai/repeated-word-finder): Free repeated word finder. Detect words you overuse and catch adjacent duplicate words in your writing, all in your browser.
+- [Sentence Length Analyzer](https://yourhack.ai/sentence-length-analyzer): Free sentence length analyzer. See average, longest and shortest sentence lengths and flag overly long sentences, all in your browser.
+- [SMOG Index Calculator](https://yourhack.ai/smog-index-calculator): Free SMOG index calculator. Estimate reading grade from polysyllable counts, the standard for health and medical readability, in your browser.
+- [Speaking Time Calculator](https://yourhack.ai/speaking-time-calculator): Free speaking time calculator. Estimate how long your speech or script takes to read aloud at your chosen pace, computed in your browser.
+- [Syllable Counter](https://yourhack.ai/syllable-counter): Free syllable counter. Count syllables in a word, phrase or full text using an English heuristic, computed instantly in your browser.
+- [Text Complexity Analyzer](https://yourhack.ai/text-complexity-analyzer): Free text complexity analyzer. Combine multiple readability formulas into one consensus grade and complexity snapshot, in your browser.
+- [Transition Word Counter](https://yourhack.ai/transition-word-counter): Free transition word counter. Measure how many sentences use transition words like however and therefore to improve flow, in your browser.
+- [Unique Word Counter](https://yourhack.ai/unique-word-counter): Free unique word counter. Count distinct words versus total and see your repetition rate instantly in your browser, no upload needed.
+- [Weasel Word Finder](https://yourhack.ai/weasel-word-finder): Free weasel word finder. Catch vague qualifiers like some, many, arguably and reportedly that weaken claims, all in your browser.
+
+### Statistics
+
+- [Binomial Probability Calculator](https://yourhack.ai/binomial-probability-calculator): Free binomial probability calculator. Enter trials, successes and success probability to find exact, at most and at least binomial probabilities.
+- [Coefficient of Variation Calculator](https://yourhack.ai/coefficient-of-variation-calculator): Free coefficient of variation calculator. Paste a data set to find the CV, the standard deviation as a percent of the mean, for comparing spread.
+- [Confidence Interval Calculator](https://yourhack.ai/confidence-interval-calculator): Free confidence interval calculator. Enter a sample mean, standard deviation and size to get the lower and upper bounds at 90, 95 or 99 percent.
+- [Correlation Coefficient Calculator](https://yourhack.ai/correlation-coefficient-calculator): Free Pearson correlation coefficient calculator. Paste paired x and y data to find r, the strength and direction of a linear relationship.
+- [Covariance Calculator](https://yourhack.ai/covariance-calculator): Free covariance calculator. Paste paired x and y data to find the sample and population covariance measuring how two variables vary together.
+- [Five Number Summary Calculator](https://yourhack.ai/five-number-summary-calculator): Free five number summary calculator. Paste a data set to get the minimum, first quartile, median, third quartile and maximum at a glance.
+- [Geometric Mean Calculator](https://yourhack.ai/geometric-mean-calculator): Free geometric mean calculator. Paste positive numbers to find their geometric mean, the right average for growth rates, ratios and returns.
+- [Harmonic Mean Calculator](https://yourhack.ai/harmonic-mean-calculator): Free harmonic mean calculator. Paste positive numbers to find their harmonic mean, the correct average for rates like speed and price ratios.
+- [Interquartile Range Calculator](https://yourhack.ai/interquartile-range-calculator): Free interquartile range calculator. Paste a data set to find the IQR along with the first and third quartiles and the median in one step.
+- [Margin of Error Calculator](https://yourhack.ai/margin-of-error-calculator): Free margin of error calculator. Enter a sample proportion, sample size and confidence level to find the plus or minus error of your poll.
+- [Normal Distribution Calculator](https://yourhack.ai/normal-distribution-calculator): Free normal distribution calculator. Enter a value, mean and standard deviation to find the probability density and cumulative probability.
+- [Outlier Detector (1.5 IQR)](https://yourhack.ai/outlier-detector-calculator): Free outlier detector using the 1.5 IQR rule. Paste a data set to find outliers, the fence boundaries and the clean values that remain.
+- [P-Value from Z-Score Calculator](https://yourhack.ai/p-value-from-z-score-calculator): Free p-value calculator from a z-score. Enter a z value and choose a one or two tailed test to get the exact p-value for hypothesis testing.
+- [Percentile Calculator](https://yourhack.ai/percentile-calculator): Free percentile calculator. Paste a data set and pick a percentile from 0 to 100 to find the value at that position using linear interpolation.
+- [Percentile Rank Calculator](https://yourhack.ai/percentile-rank-calculator): Free percentile rank calculator. Paste a data set and a value to find what percent of the numbers fall at or below it, from 0 to 100.
+- [Poisson Probability Calculator](https://yourhack.ai/poisson-probability-calculator): Free Poisson probability calculator. Enter an average rate and a count to find exact, at most and at least Poisson probabilities for rare events.
+- [Relative Frequency Calculator](https://yourhack.ai/relative-frequency-calculator): Free relative frequency calculator. Paste category counts to build a frequency table with relative and cumulative frequencies as percentages.
+- [Sample Size Calculator](https://yourhack.ai/sample-size-calculator): Free sample size calculator for surveys. Enter your confidence level, margin of error and population to find how many responses you need.
+- [Standard Error of the Mean Calculator](https://yourhack.ai/standard-error-calculator): Free standard error calculator. Paste a data set or enter a standard deviation and sample size to find the standard error of the mean.
+- [Variance Calculator](https://yourhack.ai/variance-calculator): Free variance calculator. Paste a data set to find the sample and population variance, plus standard deviation, mean and sum of squares.
+- [Weighted Mean Calculator](https://yourhack.ai/weighted-mean-calculator): Free weighted mean calculator. Enter values and their weights to find the weighted average, where more important items count for more.
+- [Z-Score Calculator](https://yourhack.ai/z-score-calculator): Free z-score calculator. Enter a value, mean and standard deviation to find how many standard deviations it sits from the average, with percentile.
 
 ## Why yourhack.ai
 

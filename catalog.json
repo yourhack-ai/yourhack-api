@@ -1,5 +1,5 @@
 {
-  "count": 680,
+  "count": 815,
   "tools": [
     {
       "id": "json-formatter",
@@ -9522,6 +9522,1896 @@
         "internal temperature chart",
         "steak doneness temp",
         "safe cooking temperature"
+      ]
+    },
+    {
+      "id": "paint-calculator",
+      "name": "Paint Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/paint-calculator",
+      "description": "Free paint calculator. Enter wall length, height, doors and windows to estimate gallons of paint needed per coat for any room.",
+      "keywords": [
+        "paint calculator",
+        "how much paint do i need",
+        "wall paint estimator",
+        "gallons of paint calculator",
+        "room paint calculator"
+      ]
+    },
+    {
+      "id": "flooring-calculator",
+      "name": "Flooring Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/flooring-calculator",
+      "description": "Free flooring calculator. Enter room length and width plus a waste factor to find total square footage and boxes of flooring to buy.",
+      "keywords": [
+        "flooring calculator",
+        "square footage calculator flooring",
+        "how much flooring do i need",
+        "laminate flooring calculator",
+        "flooring waste factor"
+      ]
+    },
+    {
+      "id": "tile-calculator",
+      "name": "Tile Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/tile-calculator",
+      "description": "Free tile calculator. Enter area size and tile dimensions to find how many tiles and boxes you need including a waste allowance.",
+      "keywords": [
+        "tile calculator",
+        "how many tiles do i need",
+        "floor tile calculator",
+        "wall tile estimator",
+        "tiles per square foot"
+      ]
+    },
+    {
+      "id": "wallpaper-calculator",
+      "name": "Wallpaper Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/wallpaper-calculator",
+      "description": "Free wallpaper calculator. Enter wall length, height and roll size to estimate how many rolls of wallpaper you need for a room.",
+      "keywords": [
+        "wallpaper calculator",
+        "how many rolls of wallpaper",
+        "wallpaper roll estimator",
+        "wallpaper coverage calculator",
+        "wallpaper per wall"
+      ]
+    },
+    {
+      "id": "mulch-calculator",
+      "name": "Mulch Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/mulch-calculator",
+      "description": "Free mulch calculator. Enter bed length, width and depth to find cubic yards of mulch and how many bags you need for landscaping.",
+      "keywords": [
+        "mulch calculator",
+        "how much mulch do i need",
+        "cubic yards of mulch",
+        "mulch bags calculator",
+        "landscape mulch estimator"
+      ]
+    },
+    {
+      "id": "concrete-slab-calculator",
+      "name": "Concrete Slab Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/concrete-slab-calculator",
+      "description": "Free concrete slab calculator. Enter slab length, width and thickness to find cubic yards of concrete and 80 lb bags needed.",
+      "keywords": [
+        "concrete calculator",
+        "concrete slab calculator",
+        "how much concrete do i need",
+        "cubic yards of concrete",
+        "concrete bags calculator"
+      ]
+    },
+    {
+      "id": "gravel-calculator",
+      "name": "Gravel Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/gravel-calculator",
+      "description": "Free gravel calculator. Enter area length, width and depth to find cubic yards and tons of gravel for a driveway or path.",
+      "keywords": [
+        "gravel calculator",
+        "how much gravel do i need",
+        "cubic yards of gravel",
+        "gravel tonnage calculator",
+        "driveway gravel estimator"
+      ]
+    },
+    {
+      "id": "topsoil-calculator",
+      "name": "Topsoil Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/topsoil-calculator",
+      "description": "Free topsoil calculator. Enter area length, width and depth to find cubic yards and bags of topsoil for a garden or lawn.",
+      "keywords": [
+        "topsoil calculator",
+        "how much topsoil do i need",
+        "cubic yards of topsoil",
+        "topsoil bags calculator",
+        "garden soil estimator"
+      ]
+    },
+    {
+      "id": "grass-seed-calculator",
+      "name": "Grass Seed Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/grass-seed-calculator",
+      "description": "Free grass seed calculator. Enter lawn size and seeding rate to find how many pounds of grass seed you need for a new or overseeded lawn.",
+      "keywords": [
+        "grass seed calculator",
+        "how much grass seed do i need",
+        "seeding rate calculator",
+        "lawn seed estimator",
+        "pounds of grass seed"
+      ]
+    },
+    {
+      "id": "lawn-fertilizer-calculator",
+      "name": "Lawn Fertilizer Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/lawn-fertilizer-calculator",
+      "description": "Free lawn fertilizer calculator. Enter lawn size, target nitrogen rate and the bag N number to find pounds of fertilizer to apply.",
+      "keywords": [
+        "lawn fertilizer calculator",
+        "how much fertilizer do i need",
+        "nitrogen rate calculator",
+        "fertilizer per 1000 sq ft",
+        "lawn feeding calculator"
+      ]
+    },
+    {
+      "id": "room-btu-calculator",
+      "name": "Room BTU Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/room-btu-calculator",
+      "description": "Free room BTU calculator. Enter room size, ceiling height and sun exposure to estimate the BTU rating you need for heating or cooling.",
+      "keywords": [
+        "btu calculator",
+        "room btu calculator",
+        "air conditioner size calculator",
+        "how many btu do i need",
+        "ac sizing calculator"
+      ]
+    },
+    {
+      "id": "price-per-square-foot-calculator",
+      "name": "Price Per Square Foot Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/price-per-square-foot-calculator",
+      "description": "Free price per square foot calculator. Enter a home price and its size to find the cost per square foot and compare listings fairly.",
+      "keywords": [
+        "price per square foot calculator",
+        "cost per square foot",
+        "home price per sq ft",
+        "real estate price per square foot",
+        "ppsf calculator"
+      ]
+    },
+    {
+      "id": "rent-affordability-calculator",
+      "name": "Rent Affordability Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/rent-affordability-calculator",
+      "description": "Free rent affordability calculator. Enter your income and debts to find the monthly rent you can comfortably afford using the 30 percent rule.",
+      "keywords": [
+        "rent affordability calculator",
+        "how much rent can i afford",
+        "rent to income ratio",
+        "30 percent rule rent",
+        "affordable rent calculator"
+      ]
+    },
+    {
+      "id": "home-affordability-calculator",
+      "name": "Home Affordability Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/home-affordability-calculator",
+      "description": "Free home affordability calculator. Enter income, debts, down payment and rate to estimate the home price you can afford to buy.",
+      "keywords": [
+        "home affordability calculator",
+        "how much house can i afford",
+        "home buying calculator",
+        "affordable home price",
+        "mortgage affordability calculator"
+      ]
+    },
+    {
+      "id": "property-tax-calculator",
+      "name": "Property Tax Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/property-tax-calculator",
+      "description": "Free property tax calculator. Enter home value and the tax rate or mill rate to estimate your annual and monthly property tax bill.",
+      "keywords": [
+        "property tax calculator",
+        "annual property tax estimate",
+        "mill rate calculator",
+        "property tax rate calculator",
+        "home tax estimator"
+      ]
+    },
+    {
+      "id": "closing-cost-estimator",
+      "name": "Closing Cost Estimator",
+      "category": "home",
+      "url": "https://yourhack.ai/closing-cost-estimator",
+      "description": "Free closing cost estimator. Enter the home price and a closing cost percentage to estimate what a buyer pays at closing plus cash needed.",
+      "keywords": [
+        "closing cost estimator",
+        "closing costs calculator",
+        "how much are closing costs",
+        "buyer closing costs",
+        "cash to close calculator"
+      ]
+    },
+    {
+      "id": "cap-rate-calculator",
+      "name": "Cap Rate Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/cap-rate-calculator",
+      "description": "Free cap rate calculator for real estate. Enter net operating income and property price to find the capitalization rate on an investment.",
+      "keywords": [
+        "cap rate calculator",
+        "capitalization rate calculator",
+        "real estate cap rate",
+        "noi to cap rate",
+        "rental property cap rate"
+      ]
+    },
+    {
+      "id": "rental-yield-calculator",
+      "name": "Rental Yield Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/rental-yield-calculator",
+      "description": "Free rental yield calculator. Enter monthly rent, property price and costs to find gross and net rental yield on an investment property.",
+      "keywords": [
+        "rental yield calculator",
+        "gross rental yield",
+        "net rental yield calculator",
+        "buy to let yield",
+        "property yield calculator"
+      ]
+    },
+    {
+      "id": "deck-board-calculator",
+      "name": "Deck Board Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/deck-board-calculator",
+      "description": "Free deck board calculator. Enter deck size and board dimensions to estimate how many deck boards and linear feet you need to build a deck.",
+      "keywords": [
+        "deck board calculator",
+        "how many deck boards do i need",
+        "decking calculator",
+        "deck material calculator",
+        "linear feet of decking"
+      ]
+    },
+    {
+      "id": "drywall-sheet-calculator",
+      "name": "Drywall Sheet Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/drywall-sheet-calculator",
+      "description": "Free drywall calculator. Enter wall and ceiling area plus sheet size to estimate how many sheets of drywall you need for a room.",
+      "keywords": [
+        "drywall calculator",
+        "how many sheets of drywall",
+        "drywall sheet calculator",
+        "sheetrock calculator",
+        "drywall material estimator"
+      ]
+    },
+    {
+      "id": "roof-pitch-calculator",
+      "name": "Roof Pitch Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/roof-pitch-calculator",
+      "description": "Free roof pitch calculator. Enter rise and run to find roof slope, angle in degrees and the rafter length multiplier for a roof.",
+      "keywords": [
+        "roof pitch calculator",
+        "roof slope calculator",
+        "roof angle calculator",
+        "rise over run roof",
+        "rafter length calculator"
+      ]
+    },
+    {
+      "id": "stair-stringer-calculator",
+      "name": "Stair Stringer Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/stair-stringer-calculator",
+      "description": "Free stair calculator. Enter total rise and run to find the number of steps, riser height and tread depth for a code friendly staircase.",
+      "keywords": [
+        "stair calculator",
+        "stair stringer calculator",
+        "riser height calculator",
+        "number of steps calculator",
+        "staircase calculator"
+      ]
+    },
+    {
+      "id": "room-area-calculator",
+      "name": "Room Area Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/room-area-calculator",
+      "description": "Free room area calculator. Enter length and width to find square footage, and add multiple rooms to get a running total for a whole project.",
+      "keywords": [
+        "room area calculator",
+        "square footage calculator",
+        "room size calculator",
+        "floor area calculator",
+        "total square feet calculator"
+      ]
+    },
+    {
+      "id": "plants-per-square-foot-calculator",
+      "name": "Plants Per Square Foot Calculator",
+      "category": "home",
+      "url": "https://yourhack.ai/plants-per-square-foot-calculator",
+      "description": "Free plant spacing calculator. Enter bed size and plant spacing to find how many plants you need to fill a garden bed or ground cover area.",
+      "keywords": [
+        "plant spacing calculator",
+        "plants per square foot",
+        "how many plants do i need",
+        "garden bed plant calculator",
+        "ground cover spacing calculator"
+      ]
+    },
+    {
+      "id": "fuel-cost-calculator",
+      "name": "Fuel Cost Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/fuel-cost-calculator",
+      "description": "Calculate the fuel cost of any trip from distance, fuel economy, and gas price. Works in MPG or L/100km with instant results.",
+      "keywords": [
+        "fuel cost calculator",
+        "trip fuel cost",
+        "gas cost per trip",
+        "petrol cost calculator",
+        "driving cost calculator"
+      ]
+    },
+    {
+      "id": "mpg-calculator",
+      "name": "MPG Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/mpg-calculator",
+      "description": "Calculate your real miles per gallon from miles driven and gallons used. See the L/100km equivalent and cost per mile too.",
+      "keywords": [
+        "mpg calculator",
+        "miles per gallon calculator",
+        "gas mileage calculator",
+        "fuel economy calculator",
+        "calculate mpg"
+      ]
+    },
+    {
+      "id": "l-per-100km-calculator",
+      "name": "L/100km Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/l-per-100km-calculator",
+      "description": "Calculate fuel consumption in liters per 100 km from distance and liters used. See the km per liter and MPG equivalent too.",
+      "keywords": [
+        "l per 100km calculator",
+        "fuel consumption calculator",
+        "liters per 100km",
+        "km per liter calculator",
+        "litres per 100km"
+      ]
+    },
+    {
+      "id": "mpg-to-l-per-100km-converter",
+      "name": "MPG to L/100km Converter",
+      "category": "automotive",
+      "url": "https://yourhack.ai/mpg-to-l-per-100km-converter",
+      "description": "Convert miles per gallon to liters per 100 km and back. Supports both US and Imperial (UK) gallons with the exact formula.",
+      "keywords": [
+        "mpg to l/100km",
+        "mpg to liters per 100km",
+        "l/100km to mpg",
+        "fuel economy converter",
+        "convert mpg to metric"
+      ]
+    },
+    {
+      "id": "mpg-us-to-imperial-converter",
+      "name": "US MPG to Imperial MPG Converter",
+      "category": "automotive",
+      "url": "https://yourhack.ai/mpg-us-to-imperial-converter",
+      "description": "Convert US MPG to UK Imperial MPG and back. Imperial gallons are larger, so the same car reads higher in UK MPG figures.",
+      "keywords": [
+        "us mpg to imperial mpg",
+        "uk mpg converter",
+        "imperial mpg to us mpg",
+        "us to uk gallon mpg",
+        "convert mpg uk us"
+      ]
+    },
+    {
+      "id": "road-trip-fuel-calculator",
+      "name": "Road Trip Fuel Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/road-trip-fuel-calculator",
+      "description": "Plan a road trip budget: enter distance, fuel economy, price, and passengers to see total fuel cost and cost per person.",
+      "keywords": [
+        "road trip fuel calculator",
+        "road trip cost calculator",
+        "trip gas estimator",
+        "split gas cost calculator",
+        "travel fuel budget"
+      ]
+    },
+    {
+      "id": "cost-per-mile-calculator",
+      "name": "Cost Per Mile Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/cost-per-mile-calculator",
+      "description": "Calculate the true cost per mile of driving from fuel, insurance, maintenance, and depreciation over your yearly mileage.",
+      "keywords": [
+        "cost per mile calculator",
+        "cost per mile to drive",
+        "driving cost per mile",
+        "car cost per mile",
+        "mileage cost calculator"
+      ]
+    },
+    {
+      "id": "fuel-savings-calculator",
+      "name": "Fuel Savings Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/fuel-savings-calculator",
+      "description": "Compare two cars by fuel economy and see the yearly and 5 year fuel savings you get from switching to the more efficient one.",
+      "keywords": [
+        "fuel savings calculator",
+        "gas savings calculator",
+        "mpg savings calculator",
+        "fuel economy comparison",
+        "save money on gas"
+      ]
+    },
+    {
+      "id": "miles-per-tank-calculator",
+      "name": "Miles Per Tank Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/miles-per-tank-calculator",
+      "description": "Calculate how far you can drive on a full tank from your tank size and MPG, plus a safe range that keeps a fuel reserve in the tank.",
+      "keywords": [
+        "miles per tank calculator",
+        "range per tank",
+        "how far on a tank of gas",
+        "tank range calculator",
+        "driving range calculator"
+      ]
+    },
+    {
+      "id": "car-lease-vs-buy-calculator",
+      "name": "Car Lease vs Buy Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/car-lease-vs-buy-calculator",
+      "description": "Compare leasing and buying a car over the same period. See total cost, monthly payment, and the equity you keep by buying.",
+      "keywords": [
+        "lease vs buy calculator",
+        "car lease or buy",
+        "lease vs finance calculator",
+        "should i lease or buy",
+        "car buy or lease"
+      ]
+    },
+    {
+      "id": "car-depreciation-calculator",
+      "name": "Car Depreciation Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/car-depreciation-calculator",
+      "description": "Estimate how much value a car loses each year. See year by year value from purchase price and an annual depreciation rate.",
+      "keywords": [
+        "car depreciation calculator",
+        "vehicle depreciation",
+        "car value depreciation",
+        "depreciation rate car",
+        "car resale value estimate"
+      ]
+    },
+    {
+      "id": "tire-size-calculator",
+      "name": "Tire Size Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/tire-size-calculator",
+      "description": "Read a tire size code like 225/45R17 and get the overall diameter, sidewall height, circumference, and revolutions per mile.",
+      "keywords": [
+        "tire size calculator",
+        "tire diameter calculator",
+        "read tire size",
+        "tire dimensions calculator",
+        "tyre size calculator"
+      ]
+    },
+    {
+      "id": "tire-size-comparison-calculator",
+      "name": "Tire Size Comparison Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/tire-size-comparison-calculator",
+      "description": "Compare two tire sizes and see the difference in diameter, sidewall, and how much your speedometer reads off with the new size.",
+      "keywords": [
+        "tire size comparison",
+        "compare tire sizes",
+        "tire size change calculator",
+        "plus size tire calculator",
+        "speedometer tire difference"
+      ]
+    },
+    {
+      "id": "speedometer-error-calculator",
+      "name": "Speedometer Error Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/speedometer-error-calculator",
+      "description": "Calculate speedometer error after a tire size change. Enter old and new tire diameters to see your true speed at any indicated reading.",
+      "keywords": [
+        "speedometer error calculator",
+        "speedometer calibration",
+        "true speed calculator",
+        "tire size speedometer",
+        "speedo error"
+      ]
+    },
+    {
+      "id": "gear-ratio-calculator",
+      "name": "Gear Ratio Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/gear-ratio-calculator",
+      "description": "Calculate final drive gear ratio from ring and pinion teeth, plus engine RPM at a given speed for your tire size and gearing.",
+      "keywords": [
+        "gear ratio calculator",
+        "final drive ratio",
+        "ring and pinion calculator",
+        "rpm at speed calculator",
+        "axle ratio calculator"
+      ]
+    },
+    {
+      "id": "wheel-offset-calculator",
+      "name": "Wheel Offset Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/wheel-offset-calculator",
+      "description": "Compare wheel offsets and see how far a new wheel moves in or out. Enter width and offset to find the change at the fender and hub.",
+      "keywords": [
+        "wheel offset calculator",
+        "wheel offset comparison",
+        "et offset calculator",
+        "wheel fitment calculator",
+        "offset change calculator"
+      ]
+    },
+    {
+      "id": "engine-displacement-calculator",
+      "name": "Engine Displacement Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/engine-displacement-calculator",
+      "description": "Calculate engine displacement from bore, stroke, and cylinder count. Get the result in cc, liters, and cubic inches at once.",
+      "keywords": [
+        "engine displacement calculator",
+        "engine cc calculator",
+        "bore stroke displacement",
+        "cubic inch calculator engine",
+        "liter engine calculator"
+      ]
+    },
+    {
+      "id": "horsepower-torque-rpm-calculator",
+      "name": "Horsepower Torque RPM Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/horsepower-torque-rpm-calculator",
+      "description": "Solve horsepower, torque, or RPM when you know the other two. Uses the classic HP equals torque times RPM over 5252 formula.",
+      "keywords": [
+        "horsepower torque calculator",
+        "hp torque rpm calculator",
+        "torque to horsepower",
+        "horsepower from torque",
+        "5252 calculator"
+      ]
+    },
+    {
+      "id": "zero-to-sixty-estimator",
+      "name": "Zero to Sixty Estimator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/zero-to-sixty-estimator",
+      "description": "Estimate a car 0 to 60 mph time from horsepower and weight using a power to weight model. See the power to weight ratio too.",
+      "keywords": [
+        "0 to 60 calculator",
+        "zero to sixty estimator",
+        "power to weight ratio",
+        "0-60 time calculator",
+        "acceleration estimator car"
+      ]
+    },
+    {
+      "id": "ev-charging-cost-calculator",
+      "name": "EV Charging Cost Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/ev-charging-cost-calculator",
+      "description": "Calculate the cost to charge an electric car from battery size, charge level, charging losses, and your electricity price per kWh.",
+      "keywords": [
+        "ev charging cost calculator",
+        "electric car charging cost",
+        "cost to charge ev",
+        "ev charge price calculator",
+        "ev cost per mile"
+      ]
+    },
+    {
+      "id": "ev-charging-time-calculator",
+      "name": "EV Charging Time Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/ev-charging-time-calculator",
+      "description": "Estimate how long it takes to charge an electric car from battery size, charger power, and the charge percentage you need.",
+      "keywords": [
+        "ev charging time calculator",
+        "ev charge time",
+        "how long to charge electric car",
+        "charging time calculator",
+        "ev charger speed"
+      ]
+    },
+    {
+      "id": "ev-vs-gas-cost-calculator",
+      "name": "EV vs Gas Cost Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/ev-vs-gas-cost-calculator",
+      "description": "Compare the fuel cost of an electric car and a gas car per mile and per year, and see how much you would save by going electric.",
+      "keywords": [
+        "ev vs gas calculator",
+        "electric vs gas cost",
+        "ev savings calculator",
+        "electric car cost comparison",
+        "gas vs electric per mile"
+      ]
+    },
+    {
+      "id": "engine-oil-change-cost-calculator",
+      "name": "Oil Change Cost Calculator",
+      "category": "automotive",
+      "url": "https://yourhack.ai/engine-oil-change-cost-calculator",
+      "description": "Estimate the yearly cost of oil changes and the cost per mile from your interval, mileage, oil, filter, and labor prices.",
+      "keywords": [
+        "oil change cost calculator",
+        "oil change interval cost",
+        "car maintenance cost",
+        "oil change per mile",
+        "diy oil change savings"
+      ]
+    },
+    {
+      "id": "circle-area-calculator",
+      "name": "Circle Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/circle-area-calculator",
+      "description": "Free circle area calculator. Enter a radius or diameter to get the area of a circle instantly using pi times r squared, right in your browser.",
+      "keywords": [
+        "circle area calculator",
+        "area of a circle",
+        "pi r squared",
+        "circle area formula",
+        "radius to area"
+      ]
+    },
+    {
+      "id": "circle-circumference-calculator",
+      "name": "Circle Circumference Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/circle-circumference-calculator",
+      "description": "Free circle circumference calculator. Enter a radius or diameter to get the distance around a circle using 2 pi r, instantly in your browser.",
+      "keywords": [
+        "circumference calculator",
+        "circle circumference",
+        "perimeter of a circle",
+        "2 pi r",
+        "diameter to circumference"
+      ]
+    },
+    {
+      "id": "rectangle-area-calculator",
+      "name": "Rectangle Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/rectangle-area-calculator",
+      "description": "Free rectangle area calculator. Enter length and width to get the area and perimeter of a rectangle instantly, all in your browser.",
+      "keywords": [
+        "rectangle area calculator",
+        "area of a rectangle",
+        "length times width",
+        "rectangle perimeter",
+        "rectangle area formula"
+      ]
+    },
+    {
+      "id": "square-area-calculator",
+      "name": "Square Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/square-area-calculator",
+      "description": "Free square area calculator. Enter the side length to get the area, perimeter and diagonal of a square instantly in your browser.",
+      "keywords": [
+        "square area calculator",
+        "area of a square",
+        "side squared",
+        "square perimeter",
+        "square diagonal"
+      ]
+    },
+    {
+      "id": "trapezoid-area-calculator",
+      "name": "Trapezoid Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/trapezoid-area-calculator",
+      "description": "Free trapezoid area calculator. Enter the two parallel sides and the height to get the area of a trapezoid instantly in your browser.",
+      "keywords": [
+        "trapezoid area calculator",
+        "area of a trapezoid",
+        "trapezium area",
+        "parallel sides area",
+        "trapezoid formula"
+      ]
+    },
+    {
+      "id": "parallelogram-area-calculator",
+      "name": "Parallelogram Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/parallelogram-area-calculator",
+      "description": "Free parallelogram area calculator. Enter the base and height to get the area of a parallelogram instantly using base times height in your browser.",
+      "keywords": [
+        "parallelogram area calculator",
+        "area of a parallelogram",
+        "base times height",
+        "parallelogram formula",
+        "parallelogram area"
+      ]
+    },
+    {
+      "id": "rhombus-area-calculator",
+      "name": "Rhombus Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/rhombus-area-calculator",
+      "description": "Free rhombus area calculator. Enter the two diagonals to get the area of a rhombus instantly using half the product of the diagonals in your browser.",
+      "keywords": [
+        "rhombus area calculator",
+        "area of a rhombus",
+        "diagonals area",
+        "rhombus formula",
+        "diamond area"
+      ]
+    },
+    {
+      "id": "ellipse-area-calculator",
+      "name": "Ellipse Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/ellipse-area-calculator",
+      "description": "Free ellipse area calculator. Enter the semi major and semi minor axes to get the area of an ellipse instantly using pi times a times b.",
+      "keywords": [
+        "ellipse area calculator",
+        "area of an ellipse",
+        "oval area",
+        "semi major axis",
+        "ellipse formula"
+      ]
+    },
+    {
+      "id": "regular-polygon-area-calculator",
+      "name": "Regular Polygon Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/regular-polygon-area-calculator",
+      "description": "Free regular polygon area calculator. Enter the number of sides and side length to get area and perimeter of any regular polygon in your browser.",
+      "keywords": [
+        "regular polygon area calculator",
+        "area of a polygon",
+        "n sided polygon area",
+        "polygon area formula",
+        "apothem area"
+      ]
+    },
+    {
+      "id": "hexagon-calculator",
+      "name": "Hexagon Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/hexagon-calculator",
+      "description": "Free regular hexagon calculator. Enter the side length to get area, perimeter, and both the long and short diagonals of a hexagon instantly.",
+      "keywords": [
+        "hexagon calculator",
+        "area of a hexagon",
+        "regular hexagon area",
+        "hexagon perimeter",
+        "hexagon diagonal"
+      ]
+    },
+    {
+      "id": "sector-area-calculator",
+      "name": "Sector Area Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/sector-area-calculator",
+      "description": "Free circle sector area calculator. Enter the radius and central angle in degrees to get the area of a pie slice sector instantly in your browser.",
+      "keywords": [
+        "sector area calculator",
+        "area of a sector",
+        "pie slice area",
+        "circular sector",
+        "sector of a circle"
+      ]
+    },
+    {
+      "id": "arc-length-calculator",
+      "name": "Arc Length Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/arc-length-calculator",
+      "description": "Free arc length calculator. Enter the radius and central angle to get the arc length of a circle using r times theta, instantly in your browser.",
+      "keywords": [
+        "arc length calculator",
+        "arc length formula",
+        "length of an arc",
+        "r times theta",
+        "circle arc length"
+      ]
+    },
+    {
+      "id": "heron-formula-calculator",
+      "name": "Heron Formula Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/heron-formula-calculator",
+      "description": "Free Heron formula calculator. Enter the three side lengths of a triangle to get its area using Heron formula instantly in your browser.",
+      "keywords": [
+        "heron formula calculator",
+        "triangle area three sides",
+        "heron area",
+        "sss triangle area",
+        "semi perimeter area"
+      ]
+    },
+    {
+      "id": "triangle-perimeter-calculator",
+      "name": "Triangle Perimeter Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/triangle-perimeter-calculator",
+      "description": "Free triangle perimeter calculator. Enter the three side lengths to get the perimeter and semi perimeter of a triangle instantly in your browser.",
+      "keywords": [
+        "triangle perimeter calculator",
+        "perimeter of a triangle",
+        "triangle side sum",
+        "semi perimeter",
+        "triangle perimeter formula"
+      ]
+    },
+    {
+      "id": "pythagorean-theorem-calculator",
+      "name": "Pythagorean Theorem Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/pythagorean-theorem-calculator",
+      "description": "Free Pythagorean theorem calculator. Enter two sides of a right triangle to find the hypotenuse or a missing leg using a squared plus b squared.",
+      "keywords": [
+        "pythagorean theorem calculator",
+        "hypotenuse calculator",
+        "a squared plus b squared",
+        "right triangle sides",
+        "find missing side"
+      ]
+    },
+    {
+      "id": "right-triangle-calculator",
+      "name": "Right Triangle Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/right-triangle-calculator",
+      "description": "Free right triangle calculator. Enter the two legs to get the hypotenuse, area, perimeter and both acute angles of a right triangle instantly.",
+      "keywords": [
+        "right triangle calculator",
+        "right angle triangle",
+        "legs and hypotenuse",
+        "right triangle angles",
+        "right triangle area"
+      ]
+    },
+    {
+      "id": "cube-volume-calculator",
+      "name": "Cube Volume Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/cube-volume-calculator",
+      "description": "Free cube volume calculator. Enter the edge length to get the volume, surface area and diagonal of a cube instantly using edge cubed in your browser.",
+      "keywords": [
+        "cube volume calculator",
+        "volume of a cube",
+        "edge cubed",
+        "cube surface area",
+        "cube diagonal"
+      ]
+    },
+    {
+      "id": "rectangular-prism-volume-calculator",
+      "name": "Rectangular Prism Volume Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/rectangular-prism-volume-calculator",
+      "description": "Free rectangular prism volume calculator. Enter length, width and height to get the volume and surface area of a box instantly in your browser.",
+      "keywords": [
+        "rectangular prism volume calculator",
+        "volume of a box",
+        "cuboid volume",
+        "length width height",
+        "box volume formula"
+      ]
+    },
+    {
+      "id": "sphere-volume-calculator",
+      "name": "Sphere Volume Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/sphere-volume-calculator",
+      "description": "Free sphere volume calculator. Enter the radius to get the volume and surface area of a sphere instantly using four thirds pi r cubed in your browser.",
+      "keywords": [
+        "sphere volume calculator",
+        "volume of a sphere",
+        "four thirds pi r cubed",
+        "sphere surface area",
+        "ball volume"
+      ]
+    },
+    {
+      "id": "cylinder-volume-calculator",
+      "name": "Cylinder Volume Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/cylinder-volume-calculator",
+      "description": "Free cylinder volume calculator. Enter the radius and height to get the volume and surface area of a cylinder instantly using pi r squared h.",
+      "keywords": [
+        "cylinder volume calculator",
+        "volume of a cylinder",
+        "pi r squared h",
+        "cylinder surface area",
+        "tank volume"
+      ]
+    },
+    {
+      "id": "cone-volume-calculator",
+      "name": "Cone Volume Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/cone-volume-calculator",
+      "description": "Free cone volume calculator. Enter the radius and height to get the volume, slant height and surface area of a cone instantly in your browser.",
+      "keywords": [
+        "cone volume calculator",
+        "volume of a cone",
+        "one third pi r squared h",
+        "cone surface area",
+        "slant height"
+      ]
+    },
+    {
+      "id": "pyramid-volume-calculator",
+      "name": "Pyramid Volume Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/pyramid-volume-calculator",
+      "description": "Free square pyramid volume calculator. Enter the base edge and height to get the volume, slant height and surface area of a pyramid in your browser.",
+      "keywords": [
+        "pyramid volume calculator",
+        "volume of a pyramid",
+        "square pyramid volume",
+        "one third base times height",
+        "pyramid surface area"
+      ]
+    },
+    {
+      "id": "surface-area-of-box-calculator",
+      "name": "Surface Area of a Box Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/surface-area-of-box-calculator",
+      "description": "Free box surface area calculator. Enter length, width and height to get the total surface area of a rectangular box instantly in your browser.",
+      "keywords": [
+        "surface area of a box",
+        "box surface area calculator",
+        "rectangular prism surface area",
+        "cuboid surface area",
+        "surface area formula"
+      ]
+    },
+    {
+      "id": "distance-3d-calculator",
+      "name": "3D Distance Calculator",
+      "category": "geometry",
+      "url": "https://yourhack.ai/distance-3d-calculator",
+      "description": "Free 3D distance calculator. Enter two points in x y z space to get the straight line distance between them instantly using the 3D distance formula.",
+      "keywords": [
+        "3d distance calculator",
+        "distance between two points 3d",
+        "xyz distance formula",
+        "euclidean distance 3d",
+        "space distance"
+      ]
+    },
+    {
+      "id": "bpm-tap-counter",
+      "name": "BPM Tap Counter",
+      "category": "music",
+      "url": "https://yourhack.ai/bpm-tap-counter",
+      "description": "Free BPM tap tempo tool. Tap a key or button in time with any song and read the tempo in beats per minute instantly in your browser.",
+      "keywords": [
+        "bpm tapper",
+        "tap tempo",
+        "find bpm",
+        "beats per minute counter",
+        "tap bpm"
+      ]
+    },
+    {
+      "id": "delay-time-calculator",
+      "name": "Delay Time Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/delay-time-calculator",
+      "description": "Free delay and reverb time calculator. Enter a tempo in BPM and get delay times in milliseconds and Hz for every note value from whole to sixteenth.",
+      "keywords": [
+        "delay time calculator",
+        "bpm to ms",
+        "delay ms chart",
+        "note delay times",
+        "reverb time calculator"
+      ]
+    },
+    {
+      "id": "note-frequency-calculator",
+      "name": "Note Frequency Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/note-frequency-calculator",
+      "description": "Free note to frequency calculator. Pick a note name and octave to see its exact pitch in Hz using equal temperament with A4 tuned to 440 Hz.",
+      "keywords": [
+        "note frequency",
+        "note to hz",
+        "pitch frequency calculator",
+        "a4 440 hz",
+        "musical note hz"
+      ]
+    },
+    {
+      "id": "frequency-to-note-converter",
+      "name": "Frequency to Note Converter",
+      "category": "music",
+      "url": "https://yourhack.ai/frequency-to-note-converter",
+      "description": "Free frequency to note converter. Enter any pitch in Hz and get the closest musical note, octave and how many cents sharp or flat it sits.",
+      "keywords": [
+        "frequency to note",
+        "hz to note",
+        "pitch to note name",
+        "cents off tuning",
+        "frequency note finder"
+      ]
+    },
+    {
+      "id": "semitone-frequency-calculator",
+      "name": "Semitone Frequency Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/semitone-frequency-calculator",
+      "description": "Free semitone frequency calculator. Enter a starting frequency and a number of semitones to see the resulting pitch in Hz using 12-TET math.",
+      "keywords": [
+        "semitone frequency",
+        "shift frequency semitones",
+        "pitch shift hz",
+        "transpose frequency",
+        "semitone ratio"
+      ]
+    },
+    {
+      "id": "note-interval-calculator",
+      "name": "Note Interval Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/note-interval-calculator",
+      "description": "Free musical interval calculator. Pick two notes and see the interval name, the number of semitones and the frequency ratio between them.",
+      "keywords": [
+        "interval calculator",
+        "semitones between notes",
+        "musical interval",
+        "interval name finder",
+        "note distance"
+      ]
+    },
+    {
+      "id": "key-transpose-calculator",
+      "name": "Key Transpose Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/key-transpose-calculator",
+      "description": "Free key transpose calculator. Enter a musical key and a number of semitones to instantly get the new transposed key, up or down.",
+      "keywords": [
+        "transpose calculator",
+        "transpose key",
+        "change key semitones",
+        "music transpose tool",
+        "key changer"
+      ]
+    },
+    {
+      "id": "metronome",
+      "name": "Online Metronome",
+      "category": "music",
+      "url": "https://yourhack.ai/metronome",
+      "description": "Free online metronome. Set any tempo and time signature and get an accurate Web Audio click track right in your browser, no download needed.",
+      "keywords": [
+        "online metronome",
+        "metronome",
+        "free metronome",
+        "bpm click track",
+        "tempo metronome"
+      ]
+    },
+    {
+      "id": "time-signature-reference",
+      "name": "Time Signature Reference",
+      "category": "music",
+      "url": "https://yourhack.ai/time-signature-reference",
+      "description": "Free time signature reference. Learn what the top and bottom numbers mean, simple versus compound meter, and common signatures with beat groupings.",
+      "keywords": [
+        "time signature reference",
+        "time signatures explained",
+        "simple vs compound meter",
+        "music meter chart",
+        "beats per measure"
+      ]
+    },
+    {
+      "id": "tempo-marking-reference",
+      "name": "Tempo Marking Reference",
+      "category": "music",
+      "url": "https://yourhack.ai/tempo-marking-reference",
+      "description": "Free tempo marking reference. Look up Italian tempo terms like largo, andante and allegro with their beats per minute ranges, or find the term for a BPM.",
+      "keywords": [
+        "tempo marking reference",
+        "italian tempo terms",
+        "largo andante allegro bpm",
+        "tempo bpm chart",
+        "tempo term for bpm"
+      ]
+    },
+    {
+      "id": "chord-note-finder",
+      "name": "Chord Note Finder",
+      "category": "music",
+      "url": "https://yourhack.ai/chord-note-finder",
+      "description": "Free chord note finder. Pick a root note and chord quality like major, minor or dominant seventh to see the exact notes that make up the chord.",
+      "keywords": [
+        "chord note finder",
+        "chord notes",
+        "chord spelling",
+        "find chord notes",
+        "chord builder"
+      ]
+    },
+    {
+      "id": "scale-note-finder",
+      "name": "Scale Note Finder",
+      "category": "music",
+      "url": "https://yourhack.ai/scale-note-finder",
+      "description": "Free scale note finder. Choose a key and a mode or scale type like major, minor or dorian to list all the notes in the scale instantly.",
+      "keywords": [
+        "scale note finder",
+        "scale notes",
+        "find scale notes",
+        "musical scale builder",
+        "mode notes finder"
+      ]
+    },
+    {
+      "id": "cents-calculator",
+      "name": "Cents Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/cents-calculator",
+      "description": "Free cents calculator. Convert a frequency ratio or two pitches into cents, the fine pitch unit where one hundred cents equals a semitone.",
+      "keywords": [
+        "cents calculator",
+        "frequency ratio to cents",
+        "pitch cents",
+        "cents between frequencies",
+        "tuning cents"
+      ]
+    },
+    {
+      "id": "reverb-decay-calculator",
+      "name": "Reverb Decay Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/reverb-decay-calculator",
+      "description": "Free reverb decay time calculator. Enter a tempo in BPM to get tempo synced reverb decay and pre delay times in milliseconds for tight mixes.",
+      "keywords": [
+        "reverb decay calculator",
+        "reverb time bpm",
+        "tempo synced reverb",
+        "reverb pre delay calculator",
+        "reverb ms calculator"
+      ]
+    },
+    {
+      "id": "octave-frequency-calculator",
+      "name": "Octave Frequency Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/octave-frequency-calculator",
+      "description": "Free octave frequency calculator. Enter a frequency and shift it up or down by whole octaves to see how the pitch doubles or halves in Hz.",
+      "keywords": [
+        "octave frequency calculator",
+        "octave up frequency",
+        "double frequency octave",
+        "octave hz calculator",
+        "frequency octave shift"
+      ]
+    },
+    {
+      "id": "note-wavelength-calculator",
+      "name": "Note Wavelength Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/note-wavelength-calculator",
+      "description": "Free note wavelength calculator. Enter a musical note or frequency to find its sound wavelength in air, useful for speaker and room acoustics.",
+      "keywords": [
+        "wavelength calculator",
+        "note wavelength",
+        "sound wavelength",
+        "frequency wavelength air",
+        "acoustic wavelength"
+      ]
+    },
+    {
+      "id": "sample-rate-reference",
+      "name": "Sample Rate and Bit Depth Reference",
+      "category": "music",
+      "url": "https://yourhack.ai/sample-rate-reference",
+      "description": "Free audio sample rate reference. Compare 44.1 kHz, 48 kHz and higher rates, learn the Nyquist limit, and estimate uncompressed file size per minute.",
+      "keywords": [
+        "sample rate reference",
+        "audio sample rates",
+        "nyquist frequency",
+        "bit depth reference",
+        "wav file size calculator"
+      ]
+    },
+    {
+      "id": "midi-note-number-calculator",
+      "name": "MIDI Note Number Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/midi-note-number-calculator",
+      "description": "Free MIDI note number calculator. Convert between MIDI note numbers, note names and frequency in Hz where middle C is MIDI 60 and A4 is 69.",
+      "keywords": [
+        "midi note number",
+        "midi note to name",
+        "midi note frequency",
+        "note name to midi",
+        "midi 60 middle c"
+      ]
+    },
+    {
+      "id": "bpm-to-hz-converter",
+      "name": "BPM to Hz Converter",
+      "category": "music",
+      "url": "https://yourhack.ai/bpm-to-hz-converter",
+      "description": "Free BPM to Hz converter. Turn a tempo in beats per minute into a frequency in hertz for setting LFOs, tremolo and modulation to the beat.",
+      "keywords": [
+        "bpm to hz",
+        "tempo to frequency",
+        "lfo rate calculator",
+        "beats to hertz",
+        "bpm hz converter"
+      ]
+    },
+    {
+      "id": "song-length-calculator",
+      "name": "Song Length Calculator",
+      "category": "music",
+      "url": "https://yourhack.ai/song-length-calculator",
+      "description": "Free song length calculator. Enter tempo, bars and time signature to work out how long a section or full track runs in minutes and seconds.",
+      "keywords": [
+        "song length calculator",
+        "bars to time",
+        "track duration calculator",
+        "song duration bpm",
+        "measures to minutes"
+      ]
+    },
+    {
+      "id": "readability-score-calculator",
+      "name": "Readability Score Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/readability-score-calculator",
+      "description": "Free readability score calculator. Get the Flesch Reading Ease score and grade level for any text instantly in your browser, no sign up.",
+      "keywords": [
+        "readability score calculator",
+        "flesch reading ease",
+        "readability checker",
+        "reading ease score",
+        "text readability"
+      ]
+    },
+    {
+      "id": "flesch-kincaid-grade-calculator",
+      "name": "Flesch-Kincaid Grade Level Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/flesch-kincaid-grade-calculator",
+      "description": "Free Flesch-Kincaid grade level calculator. Find the US school grade needed to read your text, computed instantly in your browser.",
+      "keywords": [
+        "flesch kincaid grade calculator",
+        "flesch kincaid grade level",
+        "grade level calculator",
+        "reading grade level",
+        "fk grade"
+      ]
+    },
+    {
+      "id": "gunning-fog-index-calculator",
+      "name": "Gunning Fog Index Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/gunning-fog-index-calculator",
+      "description": "Free Gunning Fog index calculator. Measure text complexity by grade level using sentence length and complex words, all in your browser.",
+      "keywords": [
+        "gunning fog index calculator",
+        "gunning fog score",
+        "fog index calculator",
+        "text complexity grade",
+        "gunning fog readability"
+      ]
+    },
+    {
+      "id": "smog-index-calculator",
+      "name": "SMOG Index Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/smog-index-calculator",
+      "description": "Free SMOG index calculator. Estimate reading grade from polysyllable counts, the standard for health and medical readability, in your browser.",
+      "keywords": [
+        "smog index calculator",
+        "smog readability calculator",
+        "smog grade level",
+        "polysyllable count",
+        "smog formula"
+      ]
+    },
+    {
+      "id": "coleman-liau-index-calculator",
+      "name": "Coleman-Liau Index Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/coleman-liau-index-calculator",
+      "description": "Free Coleman-Liau index calculator. Get a US grade level from letters and sentences per hundred words, no syllable counting, in your browser.",
+      "keywords": [
+        "coleman liau index calculator",
+        "coleman liau readability",
+        "coleman liau grade",
+        "cli readability calculator",
+        "coleman liau formula"
+      ]
+    },
+    {
+      "id": "automated-readability-index-calculator",
+      "name": "Automated Readability Index Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/automated-readability-index-calculator",
+      "description": "Free Automated Readability Index calculator. Get a US grade level from characters, words and sentences instantly in your browser.",
+      "keywords": [
+        "automated readability index calculator",
+        "ari calculator",
+        "ari readability",
+        "automated readability index",
+        "ari grade level"
+      ]
+    },
+    {
+      "id": "passive-voice-detector",
+      "name": "Passive Voice Detector",
+      "category": "writing",
+      "url": "https://yourhack.ai/passive-voice-detector",
+      "description": "Free passive voice detector. Find passive sentences and get the passive share of your text instantly in your browser, no upload needed.",
+      "keywords": [
+        "passive voice detector",
+        "passive voice checker",
+        "find passive voice",
+        "passive sentence finder",
+        "active vs passive voice"
+      ]
+    },
+    {
+      "id": "adverb-counter",
+      "name": "Adverb Counter",
+      "category": "writing",
+      "url": "https://yourhack.ai/adverb-counter",
+      "description": "Free adverb counter. Highlight -ly adverbs and see what share of your writing they make up, computed instantly in your browser.",
+      "keywords": [
+        "adverb counter",
+        "ly adverb finder",
+        "count adverbs",
+        "adverb checker",
+        "find adverbs in text"
+      ]
+    },
+    {
+      "id": "filler-word-finder",
+      "name": "Filler Word Finder",
+      "category": "writing",
+      "url": "https://yourhack.ai/filler-word-finder",
+      "description": "Free filler word finder. Spot padding words like just, really, very and actually so you can cut them, all in your browser.",
+      "keywords": [
+        "filler word finder",
+        "filler words checker",
+        "find filler words",
+        "remove filler words",
+        "wordiness checker"
+      ]
+    },
+    {
+      "id": "cliche-finder",
+      "name": "Cliche Finder",
+      "category": "writing",
+      "url": "https://yourhack.ai/cliche-finder",
+      "description": "Free cliche finder. Detect tired phrases like at the end of the day and think outside the box so you can freshen up your writing.",
+      "keywords": [
+        "cliche finder",
+        "cliche checker",
+        "find cliches",
+        "overused phrases checker",
+        "cliche detector"
+      ]
+    },
+    {
+      "id": "weasel-word-finder",
+      "name": "Weasel Word Finder",
+      "category": "writing",
+      "url": "https://yourhack.ai/weasel-word-finder",
+      "description": "Free weasel word finder. Catch vague qualifiers like some, many, arguably and reportedly that weaken claims, all in your browser.",
+      "keywords": [
+        "weasel word finder",
+        "weasel words checker",
+        "find weasel words",
+        "vague words detector",
+        "weasel word list"
+      ]
+    },
+    {
+      "id": "sentence-length-analyzer",
+      "name": "Sentence Length Analyzer",
+      "category": "writing",
+      "url": "https://yourhack.ai/sentence-length-analyzer",
+      "description": "Free sentence length analyzer. See average, longest and shortest sentence lengths and flag overly long sentences, all in your browser.",
+      "keywords": [
+        "sentence length analyzer",
+        "average sentence length",
+        "sentence length checker",
+        "long sentence finder",
+        "sentence variety checker"
+      ]
+    },
+    {
+      "id": "average-word-length-calculator",
+      "name": "Average Word Length Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/average-word-length-calculator",
+      "description": "Free average word length calculator. Measure mean characters per word and syllables per word to gauge how dense your writing is.",
+      "keywords": [
+        "average word length calculator",
+        "characters per word",
+        "mean word length",
+        "word length analysis",
+        "syllables per word"
+      ]
+    },
+    {
+      "id": "syllable-counter",
+      "name": "Syllable Counter",
+      "category": "writing",
+      "url": "https://yourhack.ai/syllable-counter",
+      "description": "Free syllable counter. Count syllables in a word, phrase or full text using an English heuristic, computed instantly in your browser.",
+      "keywords": [
+        "syllable counter",
+        "count syllables",
+        "syllables in a word",
+        "syllable count tool",
+        "how many syllables"
+      ]
+    },
+    {
+      "id": "lexical-diversity-calculator",
+      "name": "Lexical Diversity Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/lexical-diversity-calculator",
+      "description": "Free lexical diversity calculator. Measure vocabulary richness with the type token ratio and root TTR instantly in your browser.",
+      "keywords": [
+        "lexical diversity calculator",
+        "type token ratio",
+        "vocabulary richness",
+        "ttr calculator",
+        "lexical variety"
+      ]
+    },
+    {
+      "id": "longest-words-finder",
+      "name": "Longest Words Finder",
+      "category": "writing",
+      "url": "https://yourhack.ai/longest-words-finder",
+      "description": "Free longest words finder. Rank the longest words in your text by character count so you can simplify dense vocabulary, in your browser.",
+      "keywords": [
+        "longest words finder",
+        "find longest words",
+        "longest word in text",
+        "long words checker",
+        "complex word finder"
+      ]
+    },
+    {
+      "id": "unique-word-counter",
+      "name": "Unique Word Counter",
+      "category": "writing",
+      "url": "https://yourhack.ai/unique-word-counter",
+      "description": "Free unique word counter. Count distinct words versus total and see your repetition rate instantly in your browser, no upload needed.",
+      "keywords": [
+        "unique word counter",
+        "distinct word count",
+        "count unique words",
+        "unique words in text",
+        "vocabulary size counter"
+      ]
+    },
+    {
+      "id": "repeated-word-finder",
+      "name": "Repeated Word Finder",
+      "category": "writing",
+      "url": "https://yourhack.ai/repeated-word-finder",
+      "description": "Free repeated word finder. Detect words you overuse and catch adjacent duplicate words in your writing, all in your browser.",
+      "keywords": [
+        "repeated word finder",
+        "overused words checker",
+        "find repeated words",
+        "word repetition checker",
+        "duplicate word detector"
+      ]
+    },
+    {
+      "id": "dialogue-percentage-calculator",
+      "name": "Dialogue Percentage Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/dialogue-percentage-calculator",
+      "description": "Free dialogue percentage calculator. Measure how much of your story is spoken dialogue versus narration, computed in your browser.",
+      "keywords": [
+        "dialogue percentage calculator",
+        "dialogue vs narration ratio",
+        "dialogue ratio checker",
+        "story dialogue percentage",
+        "fiction dialogue analysis"
+      ]
+    },
+    {
+      "id": "text-complexity-analyzer",
+      "name": "Text Complexity Analyzer",
+      "category": "writing",
+      "url": "https://yourhack.ai/text-complexity-analyzer",
+      "description": "Free text complexity analyzer. Combine multiple readability formulas into one consensus grade and complexity snapshot, in your browser.",
+      "keywords": [
+        "text complexity analyzer",
+        "readability consensus",
+        "reading grade analyzer",
+        "writing complexity checker",
+        "readability report"
+      ]
+    },
+    {
+      "id": "speaking-time-calculator",
+      "name": "Speaking Time Calculator",
+      "category": "writing",
+      "url": "https://yourhack.ai/speaking-time-calculator",
+      "description": "Free speaking time calculator. Estimate how long your speech or script takes to read aloud at your chosen pace, computed in your browser.",
+      "keywords": [
+        "speaking time calculator",
+        "speech time estimator",
+        "words to speaking time",
+        "presentation time calculator",
+        "reading aloud time"
+      ]
+    },
+    {
+      "id": "transition-word-counter",
+      "name": "Transition Word Counter",
+      "category": "writing",
+      "url": "https://yourhack.ai/transition-word-counter",
+      "description": "Free transition word counter. Measure how many sentences use transition words like however and therefore to improve flow, in your browser.",
+      "keywords": [
+        "transition word counter",
+        "transition words checker",
+        "count transition words",
+        "sentence flow checker",
+        "transition word percentage"
+      ]
+    },
+    {
+      "id": "confidence-interval-calculator",
+      "name": "Confidence Interval Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/confidence-interval-calculator",
+      "description": "Free confidence interval calculator. Enter a sample mean, standard deviation and size to get the lower and upper bounds at 90, 95 or 99 percent.",
+      "keywords": [
+        "confidence interval calculator",
+        "ci calculator",
+        "95 percent confidence interval",
+        "mean confidence interval",
+        "confidence level"
+      ]
+    },
+    {
+      "id": "sample-size-calculator",
+      "name": "Sample Size Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/sample-size-calculator",
+      "description": "Free sample size calculator for surveys. Enter your confidence level, margin of error and population to find how many responses you need.",
+      "keywords": [
+        "sample size calculator",
+        "survey sample size",
+        "how many respondents",
+        "statistical sample size",
+        "sample size formula"
+      ]
+    },
+    {
+      "id": "margin-of-error-calculator",
+      "name": "Margin of Error Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/margin-of-error-calculator",
+      "description": "Free margin of error calculator. Enter a sample proportion, sample size and confidence level to find the plus or minus error of your poll.",
+      "keywords": [
+        "margin of error calculator",
+        "poll margin of error",
+        "survey error calculator",
+        "plus or minus error",
+        "confidence margin"
+      ]
+    },
+    {
+      "id": "z-score-calculator",
+      "name": "Z-Score Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/z-score-calculator",
+      "description": "Free z-score calculator. Enter a value, mean and standard deviation to find how many standard deviations it sits from the average, with percentile.",
+      "keywords": [
+        "z score calculator",
+        "standard score",
+        "z score formula",
+        "how many standard deviations",
+        "z score to percentile"
+      ]
+    },
+    {
+      "id": "p-value-from-z-score-calculator",
+      "name": "P-Value from Z-Score Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/p-value-from-z-score-calculator",
+      "description": "Free p-value calculator from a z-score. Enter a z value and choose a one or two tailed test to get the exact p-value for hypothesis testing.",
+      "keywords": [
+        "p value calculator",
+        "p value from z score",
+        "z score to p value",
+        "one tailed p value",
+        "two tailed p value"
+      ]
+    },
+    {
+      "id": "percentile-calculator",
+      "name": "Percentile Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/percentile-calculator",
+      "description": "Free percentile calculator. Paste a data set and pick a percentile from 0 to 100 to find the value at that position using linear interpolation.",
+      "keywords": [
+        "percentile calculator",
+        "find the percentile",
+        "nth percentile",
+        "quartile calculator",
+        "percentile of data"
+      ]
+    },
+    {
+      "id": "percentile-rank-calculator",
+      "name": "Percentile Rank Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/percentile-rank-calculator",
+      "description": "Free percentile rank calculator. Paste a data set and a value to find what percent of the numbers fall at or below it, from 0 to 100.",
+      "keywords": [
+        "percentile rank calculator",
+        "percentile rank formula",
+        "what percentile am i",
+        "score percentile",
+        "rank in data set"
+      ]
+    },
+    {
+      "id": "correlation-coefficient-calculator",
+      "name": "Correlation Coefficient Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/correlation-coefficient-calculator",
+      "description": "Free Pearson correlation coefficient calculator. Paste paired x and y data to find r, the strength and direction of a linear relationship.",
+      "keywords": [
+        "correlation coefficient calculator",
+        "pearson r calculator",
+        "linear correlation",
+        "r value calculator",
+        "correlation between two variables"
+      ]
+    },
+    {
+      "id": "covariance-calculator",
+      "name": "Covariance Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/covariance-calculator",
+      "description": "Free covariance calculator. Paste paired x and y data to find the sample and population covariance measuring how two variables vary together.",
+      "keywords": [
+        "covariance calculator",
+        "sample covariance",
+        "population covariance",
+        "covariance formula",
+        "covariance of two variables"
+      ]
+    },
+    {
+      "id": "standard-error-calculator",
+      "name": "Standard Error of the Mean Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/standard-error-calculator",
+      "description": "Free standard error calculator. Paste a data set or enter a standard deviation and sample size to find the standard error of the mean.",
+      "keywords": [
+        "standard error calculator",
+        "standard error of the mean",
+        "sem calculator",
+        "standard error formula",
+        "sampling error"
+      ]
+    },
+    {
+      "id": "variance-calculator",
+      "name": "Variance Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/variance-calculator",
+      "description": "Free variance calculator. Paste a data set to find the sample and population variance, plus standard deviation, mean and sum of squares.",
+      "keywords": [
+        "variance calculator",
+        "sample variance",
+        "population variance",
+        "variance formula",
+        "calculate variance"
+      ]
+    },
+    {
+      "id": "coefficient-of-variation-calculator",
+      "name": "Coefficient of Variation Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/coefficient-of-variation-calculator",
+      "description": "Free coefficient of variation calculator. Paste a data set to find the CV, the standard deviation as a percent of the mean, for comparing spread.",
+      "keywords": [
+        "coefficient of variation calculator",
+        "cv calculator",
+        "relative standard deviation",
+        "coefficient of variation formula",
+        "rsd calculator"
+      ]
+    },
+    {
+      "id": "five-number-summary-calculator",
+      "name": "Five Number Summary Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/five-number-summary-calculator",
+      "description": "Free five number summary calculator. Paste a data set to get the minimum, first quartile, median, third quartile and maximum at a glance.",
+      "keywords": [
+        "five number summary calculator",
+        "quartile calculator",
+        "box plot values",
+        "min q1 median q3 max",
+        "five number summary"
+      ]
+    },
+    {
+      "id": "interquartile-range-calculator",
+      "name": "Interquartile Range Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/interquartile-range-calculator",
+      "description": "Free interquartile range calculator. Paste a data set to find the IQR along with the first and third quartiles and the median in one step.",
+      "keywords": [
+        "interquartile range calculator",
+        "iqr calculator",
+        "q3 minus q1",
+        "interquartile range formula",
+        "find the iqr"
+      ]
+    },
+    {
+      "id": "outlier-detector-calculator",
+      "name": "Outlier Detector (1.5 IQR)",
+      "category": "statistics",
+      "url": "https://yourhack.ai/outlier-detector-calculator",
+      "description": "Free outlier detector using the 1.5 IQR rule. Paste a data set to find outliers, the fence boundaries and the clean values that remain.",
+      "keywords": [
+        "outlier calculator",
+        "iqr outlier detector",
+        "1.5 iqr rule",
+        "find outliers in data",
+        "outlier detection"
+      ]
+    },
+    {
+      "id": "geometric-mean-calculator",
+      "name": "Geometric Mean Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/geometric-mean-calculator",
+      "description": "Free geometric mean calculator. Paste positive numbers to find their geometric mean, the right average for growth rates, ratios and returns.",
+      "keywords": [
+        "geometric mean calculator",
+        "geometric average",
+        "geometric mean formula",
+        "average growth rate",
+        "geometric mean of numbers"
+      ]
+    },
+    {
+      "id": "harmonic-mean-calculator",
+      "name": "Harmonic Mean Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/harmonic-mean-calculator",
+      "description": "Free harmonic mean calculator. Paste positive numbers to find their harmonic mean, the correct average for rates like speed and price ratios.",
+      "keywords": [
+        "harmonic mean calculator",
+        "harmonic average",
+        "harmonic mean formula",
+        "average speed calculator",
+        "harmonic mean of numbers"
+      ]
+    },
+    {
+      "id": "weighted-mean-calculator",
+      "name": "Weighted Mean Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/weighted-mean-calculator",
+      "description": "Free weighted mean calculator. Enter values and their weights to find the weighted average, where more important items count for more.",
+      "keywords": [
+        "weighted mean calculator",
+        "weighted average calculator",
+        "weighted mean formula",
+        "weighted average of numbers",
+        "compute weighted average"
+      ]
+    },
+    {
+      "id": "normal-distribution-calculator",
+      "name": "Normal Distribution Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/normal-distribution-calculator",
+      "description": "Free normal distribution calculator. Enter a value, mean and standard deviation to find the probability density and cumulative probability.",
+      "keywords": [
+        "normal distribution calculator",
+        "normal pdf calculator",
+        "normal cdf calculator",
+        "gaussian distribution",
+        "bell curve calculator"
+      ]
+    },
+    {
+      "id": "binomial-probability-calculator",
+      "name": "Binomial Probability Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/binomial-probability-calculator",
+      "description": "Free binomial probability calculator. Enter trials, successes and success probability to find exact, at most and at least binomial probabilities.",
+      "keywords": [
+        "binomial probability calculator",
+        "binomial distribution calculator",
+        "binomial pmf",
+        "probability of k successes",
+        "binomial formula"
+      ]
+    },
+    {
+      "id": "poisson-probability-calculator",
+      "name": "Poisson Probability Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/poisson-probability-calculator",
+      "description": "Free Poisson probability calculator. Enter an average rate and a count to find exact, at most and at least Poisson probabilities for rare events.",
+      "keywords": [
+        "poisson probability calculator",
+        "poisson distribution calculator",
+        "poisson pmf",
+        "probability of k events",
+        "poisson formula"
+      ]
+    },
+    {
+      "id": "relative-frequency-calculator",
+      "name": "Relative Frequency Calculator",
+      "category": "statistics",
+      "url": "https://yourhack.ai/relative-frequency-calculator",
+      "description": "Free relative frequency calculator. Paste category counts to build a frequency table with relative and cumulative frequencies as percentages.",
+      "keywords": [
+        "relative frequency calculator",
+        "frequency table calculator",
+        "relative frequency formula",
+        "cumulative frequency",
+        "frequency distribution"
       ]
     }
   ]
