@@ -1,6 +1,6 @@
 # yourhack.ai — Free Online Tools API & Catalog
 
-**568 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
+**680 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
 
 - 🌐 **Site:** https://yourhack.ai
 - 📚 **All tools:** https://yourhack.ai/all
@@ -83,6 +83,11 @@ See [`clients/python`](./clients/python).
 | Network | 22 | [network](https://yourhack.ai/c/network) |
 | Science | 24 | [science](https://yourhack.ai/c/science) |
 | Math | 26 | [math](https://yourhack.ai/c/math) |
+| Finance | 24 | [finance](https://yourhack.ai/c/finance) |
+| Health & Fitness | 24 | [health](https://yourhack.ai/c/health) |
+| Education | 22 | [education](https://yourhack.ai/c/education) |
+| Business | 22 | [business](https://yourhack.ai/c/business) |
+| Cooking | 20 | [cooking](https://yourhack.ai/c/cooking) |
 
 ## All tools
 
@@ -709,6 +714,133 @@ Every tool below is free and runs entirely in your browser.
 - [Scientific Notation to Decimal](https://yourhack.ai/scientific-notation-to-decimal): Free scientific notation converter. Switch between standard decimal numbers and scientific notation both ways, with the E-notation form shown too.
 - [Slope Calculator (Two Points)](https://yourhack.ai/slope-calculator): Free slope calculator. Enter two points and get the slope, the line equation, the angle in degrees, and the y-intercept instantly.
 - [Triangle Area Calculator (Heron Formula)](https://yourhack.ai/triangle-area-calculator): Free triangle area calculator. Find the area of any triangle from its three sides using Heron formula, or from a base and height, instantly.
+
+### Finance
+
+- [50/30/20 Budget Calculator](https://yourhack.ai/budget-50-30-20-calculator): Free 50/30/20 budget calculator. Split your monthly take home pay into needs, wants, and savings using the popular 50/30/20 budgeting rule.
+- [Annuity Payment Calculator](https://yourhack.ai/annuity-payment-calculator): Free annuity payment calculator. Find the fixed periodic payment a lump sum can provide, or the payout from a present value over a set term.
+- [Coast FIRE Calculator](https://yourhack.ai/coast-fire-calculator): Free Coast FIRE calculator. Find the amount you need invested today so compound growth alone funds retirement without adding another dollar.
+- [Cost of Living Difference Calculator](https://yourhack.ai/cost-of-living-difference): Free cost of living calculator. Compare two cities by index and find the salary you need to keep the same standard of living after moving.
+- [Debt Avalanche Calculator](https://yourhack.ai/debt-avalanche-calculator): Free debt avalanche calculator. Target the highest interest rate debt first to minimize total interest, and see your months to payoff and interest saved.
+- [Debt Snowball Calculator](https://yourhack.ai/debt-snowball-calculator): Free debt snowball calculator. Order your debts smallest balance first, apply a monthly extra payment, and see your payoff order and months to debt free.
+- [Discount and Tax Calculator](https://yourhack.ai/discount-and-tax-calculator): Free discount and tax calculator. Apply a percent discount then add sales tax to get the final checkout price, the amount saved, and the tax charged.
+- [Dollar Cost Averaging Calculator](https://yourhack.ai/dollar-cost-averaging-calculator): Free dollar cost averaging calculator. Project a recurring investment growing at a steady return and see contributions versus interest earned.
+- [Effective Hourly Rate Calculator](https://yourhack.ai/hourly-rate-from-monthly-salary): Free effective hourly rate calculator. Reveal what you truly earn per hour once commute and unpaid work hours are added to your paid time.
+- [FIRE Number Calculator](https://yourhack.ai/fire-number-calculator): Free FIRE number calculator. Find how much you need invested to retire early using the 4 percent rule, plus years to reach financial independence.
+- [Future Value Calculator](https://yourhack.ai/future-value-calculator): Free future value calculator. Find what a lump sum plus regular contributions grows to with compound interest over a set number of years.
+- [Hourly to Salary Calculator](https://yourhack.ai/hourly-to-salary-calculator): Free hourly to salary calculator. Convert an hourly wage into an annual salary using your weekly hours and weeks worked per year.
+- [Inflation Calculator](https://yourhack.ai/inflation-calculator): Free inflation calculator. See how much future buying power your money loses over time, or what an amount will be worth after years of inflation.
+- [Lump Sum vs Payments Calculator](https://yourhack.ai/lump-sum-vs-payments-calculator): Free lump sum vs payments calculator. Compare taking a cash lump sum now against a stream of future payments using present value and a discount rate.
+- [Present Value Calculator](https://yourhack.ai/present-value-calculator): Free present value calculator. Discount a future amount back to what it is worth today using a discount rate and a number of periods.
+- [Raise Percentage Calculator](https://yourhack.ai/raise-percentage-calculator): Free raise calculator. Find your pay raise as a percentage and dollar amount, or work out your new salary from a given raise percentage.
+- [Real Rate of Return Calculator](https://yourhack.ai/real-rate-of-return-calculator): Free real rate of return calculator. Convert a nominal investment return into the inflation adjusted real return using the exact Fisher equation.
+- [Rule of 114 Calculator](https://yourhack.ai/rule-of-114-calculator): Free rule of 114 calculator. Estimate the years to triple your money at a given annual return, plus the rate needed to triple in a set time.
+- [Salary to Hourly Calculator](https://yourhack.ai/salary-to-hourly-calculator): Free salary to hourly calculator. Convert an annual salary into an hourly wage based on your weekly hours and weeks worked per year.
+- [Savings Rate Calculator](https://yourhack.ai/savings-rate-calculator): Free savings rate calculator. Find the percentage of your income you save each month and see how it compares to common financial independence targets.
+- [Sinking Fund Calculator](https://yourhack.ai/sinking-fund-calculator): Free sinking fund calculator. Work out the monthly amount to set aside to reach a savings target by a deadline, with or without interest.
+- [Take Home Pay Estimator](https://yourhack.ai/take-home-pay-estimator): Free take home pay estimator. Enter gross salary and deduction percentages to estimate net pay per year, month, and paycheck instantly.
+- [Time to Reach Savings Goal Calculator](https://yourhack.ai/time-to-reach-savings-goal): Free savings timeline calculator. Find how many months and years it takes to reach a savings goal given your deposits and interest rate.
+- [Tip and Split Calculator](https://yourhack.ai/tip-and-split-calculator): Free tip and split calculator. Add a tip, optionally round the total, and split the bill evenly across any number of people for a clean per person amount.
+
+### Health & Fitness
+
+- [Blood Alcohol Content Calculator](https://yourhack.ai/blood-alcohol-content-calculator): Free blood alcohol content estimator. Approximate BAC from drinks, weight, sex, and time using the Widmark formula, all in your browser.
+- [BMI Prime Calculator](https://yourhack.ai/bmi-prime-calculator): Free BMI Prime calculator. See your BMI as a ratio to the upper healthy limit of 25, with category, computed instantly in your browser.
+- [Body Surface Area Calculator](https://yourhack.ai/body-surface-area-calculator): Free body surface area calculator. Estimate BSA in square metres using the Mosteller and Du Bois formulas, side by side, in your browser.
+- [Calorie Deficit Calculator](https://yourhack.ai/calorie-deficit-calculator): Free calorie deficit calculator. Enter maintenance calories and a target loss rate to see your daily deficit and adjusted intake, computed in your browser.
+- [Calories to Kilojoules Converter](https://yourhack.ai/calories-to-kilojoules-converter): Free calories to kilojoules converter. Switch between food calories and kilojoules instantly, both directions, all in your browser.
+- [Daily Water Intake in Ounces Calculator](https://yourhack.ai/daily-water-intake-oz-calculator): Free water intake calculator in ounces. Estimate daily fluid needs from body weight and activity, shown in ounces, cups, and litres, in your browser.
+- [Lean Body Mass Calculator](https://yourhack.ai/lean-body-mass-calculator): Free lean body mass calculator. Estimate lean mass and fat mass from weight and body fat, or the Boer formula, all in your browser.
+- [Macro Split Calculator](https://yourhack.ai/macro-split-calculator): Free macro split calculator. Turn your daily calorie target into protein, carb, and fat grams using a percentage split you choose, all in your browser.
+- [Max Heart Rate Calculator](https://yourhack.ai/max-heart-rate-calculator): Free max heart rate calculator. Estimate your maximum heart rate from age using two proven formulas, side by side, all in your browser.
+- [One Rep Max Multi Formula Calculator](https://yourhack.ai/one-rep-max-multi-formula-calculator): Free one rep max calculator with four formulas. Estimate your 1RM from weight and reps using Epley, Brzycki, Lombardi, and Lander in your browser.
+- [Ovulation Window Calculator](https://yourhack.ai/ovulation-window-calculator): Free ovulation window calculator. Estimate your fertile window and likely ovulation day from your last period and cycle length, in your browser.
+- [Ponderal Index Calculator](https://yourhack.ai/ponderal-index-calculator): Free ponderal index calculator. Compute the corpulence index using weight divided by height cubed, worked out instantly in your browser.
+- [Pregnancy Week Calculator](https://yourhack.ai/pregnancy-week-calculator): Free pregnancy week calculator. Find your current gestational week, trimester, and days remaining from your last period, in your browser.
+- [Protein Intake Calculator](https://yourhack.ai/protein-intake-calculator): Free daily protein intake calculator. Estimate grams of protein per day from your body weight and activity goal, worked out instantly in your browser.
+- [Race Finish Time Predictor](https://yourhack.ai/race-finish-time-predictor): Free race time predictor. Estimate your finish time at a new distance from a recent race using the Riegel formula, computed in your browser.
+- [Reps Per Minute Pace Calculator](https://yourhack.ai/pushup-pace-calculator): Free reps per minute calculator. Turn a total rep goal and time limit into a pace, sets, and rest plan for pushups or any exercise, in your browser.
+- [Running Pace to Speed Converter](https://yourhack.ai/running-pace-to-speed-converter): Free running pace to speed converter. Turn minutes per kilometre or mile into km/h and mph, and back again, instantly in your browser.
+- [Sleep Debt Calculator](https://yourhack.ai/sleep-debt-calculator): Free sleep debt calculator. Compare your recent sleep against a nightly goal to see your accumulated sleep debt for the week, in your browser.
+- [Smoking Cost Calculator](https://yourhack.ai/smoking-cost-calculator): Free smoking cost calculator. See how much cigarettes cost you per week, month, year, and decade based on packs and price, in your browser.
+- [Steps to Distance Calculator](https://yourhack.ai/steps-to-distance-calculator): Free steps to distance calculator. Convert your step count into kilometres and miles using your height or a custom stride, in your browser.
+- [Target Heart Rate Zone Calculator](https://yourhack.ai/target-heart-rate-zone-calculator): Free target heart rate zone calculator. Get Karvonen training zones from your age and resting heart rate, calculated instantly in your browser.
+- [VO2 Max Estimator](https://yourhack.ai/vo2-max-estimator): Free VO2 max estimator. Approximate your aerobic fitness from a one mile walk test or resting heart rate, calculated in your browser.
+- [Waist to Height Ratio Calculator](https://yourhack.ai/waist-to-height-ratio-calculator): Free waist to height ratio calculator. Divide waist by height and see the healthy range guideline, worked out instantly in your browser.
+- [Waist to Hip Ratio Calculator](https://yourhack.ai/waist-to-hip-ratio-calculator): Free waist to hip ratio calculator. Divide waist by hip measurement and see the WHO health category by sex, computed instantly in your browser.
+
+### Education
+
+- [Attendance Percentage Calculator](https://yourhack.ai/attendance-percentage-calculator): Calculate your attendance percentage from classes attended and total held, and see how many you can still miss to stay above a required minimum.
+- [Class Rank Percentile Calculator](https://yourhack.ai/class-rank-percentile-calculator): Convert your class rank and class size into a percentile and top percent. Free class rank percentile calculator for high school and college.
+- [College GPA Calculator](https://yourhack.ai/college-gpa-calculator): Free college GPA calculator with credit hours. Enter each course grade and credits to compute your college GPA on the standard 4.0 university scale.
+- [Credit Hours to Study Time Calculator](https://yourhack.ai/credit-hours-calculator): Estimate weekly study hours and total workload from your enrolled credit hours using the standard two hours of study per credit guideline.
+- [Exam Countdown Calculator](https://yourhack.ai/exam-countdown-calculator): Count down to your exam date and see days, weeks and study days left, plus suggested daily study time to cover your material in time.
+- [Final Exam Grade Needed Calculator](https://yourhack.ai/final-exam-grade-calculator): Find the score you need on your final exam to hit your target grade. Enter your current grade, the target and the final worth to get the answer.
+- [Grade Calculator](https://yourhack.ai/grade-calculator): Free weighted grade calculator by category. Enter your scores and the weight of each category to compute your overall course grade and letter.
+- [Grade Curve Calculator](https://yourhack.ai/grade-curve-calculator): Apply a class curve to a raw score. Free grade curve calculator supporting flat point boost, square root curve and top score scaling methods.
+- [Grade Impact Planner](https://yourhack.ai/effort-to-grade-planner): See how a future assignment score changes your overall grade before you submit it. Free grade impact planner using current grade and item weight.
+- [High School GPA Calculator](https://yourhack.ai/high-school-gpa-calculator): Free high school GPA calculator on the 4.0 unweighted scale. Enter your class grades to instantly find your high school grade point average.
+- [IB Diploma Points Calculator](https://yourhack.ai/ib-diploma-points-calculator): Add up your IB subject grades plus the extended essay and theory of knowledge bonus to get your total out of 45 and check if you pass the diploma.
+- [Letter Grade Calculator](https://yourhack.ai/letter-grade-calculator): Convert a percentage score into a letter grade and 4.0 grade point instantly. Free percentage to letter grade calculator with a full scale table.
+- [Pass or Fail Grade Calculator](https://yourhack.ai/pass-fail-calculator): Check if your score passes and how far you are from the passing mark. Free pass or fail calculator with a custom passing threshold for any test.
+- [Percentage to 4.0 GPA Converter](https://yourhack.ai/ects-grade-converter): Convert a percentage grade into a 4.0 scale GPA value and letter grade. Free percentage to GPA converter for transcripts and study abroad applications.
+- [Points Needed to Pass Calculator](https://yourhack.ai/points-needed-calculator): Work out how many more points you need to reach your target grade. Free points needed calculator using points earned out of total points possible.
+- [Reading Assignment Time Estimator](https://yourhack.ai/reading-time-estimator): Estimate how long a reading assignment will take from page or word count, difficulty and your reading speed. Free study planner for students.
+- [Semester GPA Calculator](https://yourhack.ai/semester-gpa-calculator): Free semester GPA calculator. Enter each class letter grade and credit hours for one term to get your semester grade point average on a 4.0 scale.
+- [Spaced Repetition Interval Calculator](https://yourhack.ai/flashcard-interval-calculator): Generate spaced repetition review dates for a flashcard using a Leitner style schedule. Free spaced repetition interval calculator for studying.
+- [Study Time Planner](https://yourhack.ai/study-time-planner): Split your available study hours across subjects by priority weight. Free study time planner that shows how many hours to give each subject per week.
+- [Test Score Percentage Calculator](https://yourhack.ai/test-score-percentage-calculator): Convert correct answers out of total questions into a percentage and letter grade. Free instant test and quiz score calculator for students.
+- [Weighted Average Grade Calculator](https://yourhack.ai/grade-average-by-weight): Average several grades where each has a different weight. Free weighted average grade calculator for combining tests, projects and homework fairly.
+- [Weighted GPA Calculator](https://yourhack.ai/weighted-gpa-calculator): Free weighted GPA calculator for high school. Add course grades, credit hours and class level (regular, honors, AP or IB) to get your weighted GPA.
+
+### Business
+
+- [Average Order Value Calculator](https://yourhack.ai/average-order-value-calculator): Free average order value calculator. Divide total revenue by number of orders to find AOV instantly, right in your browser. No signup needed.
+- [Break Even Units Calculator](https://yourhack.ai/break-even-units-calculator): Free break even units calculator. Enter fixed costs, price and variable cost per unit to find the units and revenue needed to break even.
+- [Burn Rate and Runway Calculator](https://yourhack.ai/burn-rate-runway-calculator): Free burn rate and runway calculator. Enter cash, monthly spend and income to find net burn and how many months of runway remain.
+- [CAC Payback Period Calculator](https://yourhack.ai/cac-payback-period-calculator): Free CAC payback period calculator. Find how many months it takes to recover acquisition cost from customer gross profit, right in your browser.
+- [Churn Rate Calculator](https://yourhack.ai/churn-rate-calculator): Free churn rate calculator. Enter customers lost and starting customers to get churn rate and retention rate percent instantly in your browser.
+- [Conversion Rate Calculator](https://yourhack.ai/conversion-rate-calculator): Free conversion rate calculator. Divide conversions by visitors to get your conversion rate percent, plus visitors needed per goal, in your browser.
+- [Cost Plus Pricing Calculator](https://yourhack.ai/cost-plus-pricing-calculator): Free cost plus pricing calculator. Add material, labor and overhead, apply a markup, and get your selling price and profit per unit instantly.
+- [Customer Acquisition Cost Calculator](https://yourhack.ai/customer-acquisition-cost-calculator): Free CAC calculator. Divide your sales and marketing spend by new customers to find customer acquisition cost instantly in your browser.
+- [Customer Lifetime Value Calculator](https://yourhack.ai/customer-lifetime-value-calculator): Free LTV calculator. Enter average order value, purchase frequency, lifespan and margin to estimate customer lifetime value in your browser.
+- [EBITDA Margin Calculator](https://yourhack.ai/ebitda-margin-calculator): Free EBITDA margin calculator. Enter revenue, expenses, depreciation and amortization to get EBITDA and EBITDA margin percent in your browser.
+- [Employee Cost Calculator](https://yourhack.ai/employee-cost-calculator): Free employee cost calculator. Add salary, payroll taxes, benefits and overhead to find the true annual and hourly cost of an employee.
+- [Freelance Hourly Rate Calculator](https://yourhack.ai/freelance-hourly-rate-calculator): Free freelance hourly rate calculator. Turn a target salary, expenses and billable hours into the hourly rate you must charge, in your browser.
+- [Gross Profit Calculator](https://yourhack.ai/gross-profit-calculator): Free gross profit calculator. Enter revenue and cost of goods sold to get gross profit and gross margin percent instantly in your browser.
+- [Invoice Total Calculator](https://yourhack.ai/invoice-total-calculator): Free invoice total calculator. Add line items, apply a discount and tax, and get the subtotal, tax and grand total instantly in your browser.
+- [LTV to CAC Ratio Calculator](https://yourhack.ai/ltv-to-cac-ratio-calculator): Free LTV to CAC ratio calculator. Compare lifetime value against acquisition cost to judge if your unit economics are healthy, all in your browser.
+- [Margin vs Markup Calculator](https://yourhack.ai/margin-vs-markup-calculator): Convert between margin and markup. Enter one percentage to see the other, plus the price built from your cost. Fast, browser side, no signup.
+- [Markup Calculator](https://yourhack.ai/markup-calculator): Free markup calculator. Enter cost and markup percent to get the selling price, profit and resulting margin instantly in your browser.
+- [MRR and ARR Calculator](https://yourhack.ai/mrr-arr-calculator): Free MRR and ARR calculator. Turn subscribers and average price into monthly and annual recurring revenue instantly, all in your browser.
+- [Net Profit Margin Calculator](https://yourhack.ai/net-profit-margin-calculator): Free net profit margin calculator. Enter revenue and total expenses to get net profit and net margin percent instantly, all in your browser.
+- [Net Revenue Retention Calculator](https://yourhack.ai/net-revenue-retention-calculator): Free net revenue retention calculator. Enter starting MRR, expansion, contraction and churn to get NRR and GRR percent in your browser.
+- [Operating Margin Calculator](https://yourhack.ai/operating-margin-calculator): Free operating margin calculator. Enter revenue, cost of goods and operating expenses to get operating income and margin percent in your browser.
+- [Revenue Growth Rate Calculator](https://yourhack.ai/revenue-growth-rate-calculator): Free revenue growth rate calculator. Compare two periods to get percent growth and the absolute change in revenue instantly in your browser.
+
+### Cooking
+
+- [Air Fryer Conversion Calculator](https://yourhack.ai/air-fryer-conversion-calculator): Free air fryer conversion calculator. Convert conventional oven temperature and time to air fryer settings by lowering the temp and shortening the time.
+- [Baker Hydration Percentage Calculator](https://yourhack.ai/baker-hydration-calculator): Free baker hydration calculator. Compute dough hydration percentage from flour and water weights, or solve for the water needed to hit a target.
+- [Baking Pan Size Converter](https://yourhack.ai/baking-pan-size-converter): Free baking pan size converter. Adjust a recipe for a different pan by comparing pan area and volume, so you scale batter to avoid over or underfilling.
+- [Bread Water Temperature Calculator](https://yourhack.ai/bread-water-temperature-calculator): Free bread water temperature calculator. Find the water temperature to hit a target dough temperature using flour temp, room temp, and friction.
+- [Brine Ratio Calculator](https://yourhack.ai/brine-ratio-calculator): Free brine ratio calculator. Get the salt and water for a wet brine at a chosen concentration, so poultry and pork come out juicy and seasoned.
+- [Butter Converter](https://yourhack.ai/butter-converter): Free butter converter. Convert butter between US sticks, tablespoons, cups, grams, and ounces instantly, using standard stick weights for recipes.
+- [Calories Per Serving Calculator](https://yourhack.ai/calorie-per-serving-calculator): Free calories per serving calculator. Add up the calories of every recipe ingredient and divide by servings to get calories per portion instantly.
+- [Cocktail Ratio Calculator](https://yourhack.ai/cocktail-ratio-calculator): Free cocktail ratio calculator. Scale a spirit to sweet to sour ratio to any drink volume or number of servings, in ounces or milliliters.
+- [Coffee to Water Ratio Calculator](https://yourhack.ai/coffee-to-water-ratio-calculator): Free coffee to water ratio calculator. Enter your brew ratio and cups to get exact grams of coffee and water for pour over, French press, and drip.
+- [Cups to Grams Converter](https://yourhack.ai/cups-to-grams-converter): Free cups to grams converter. Convert cups to grams by ingredient using common baking densities for flour, sugar, butter, and more, live as you type.
+- [Egg Size Substitution Calculator](https://yourhack.ai/egg-size-substitution): Free egg size substitution calculator. Convert a recipe between small, medium, large, and extra-large eggs by liquid volume so ratios stay correct.
+- [Grill Temperature Doneness Guide](https://yourhack.ai/grill-temperature-guide): Free grill doneness guide. Look up safe and target internal temperatures for beef, chicken, pork, fish, and burgers in Celsius and Fahrenheit.
+- [Ingredient Substitution Finder](https://yourhack.ai/ingredient-substitution-finder): Free ingredient substitution finder. Search a common ingredient and get proven kitchen substitutes with the right amounts for baking and cooking.
+- [Meat Roasting Time Calculator](https://yourhack.ai/meat-cooking-time-calculator): Free meat roasting time calculator. Estimate oven roasting time by weight and doneness for beef, pork, and lamb, with target internal temperatures.
+- [Oven Temperature Converter](https://yourhack.ai/oven-temperature-converter): Free oven temperature converter. Convert between Celsius, Fahrenheit, gas mark, and fan (convection) oven settings instantly as you type.
+- [Recipe Scaler](https://yourhack.ai/recipe-scaler): Free recipe scaler. Multiply or divide any recipe by a factor or by target servings and it rescales every ingredient line automatically.
+- [Slow Cooker Time Converter](https://yourhack.ai/slow-cooker-converter): Free slow cooker time converter. Convert conventional oven or stovetop cooking time to slow cooker low and high settings for stews, roasts, and soups.
+- [Sourdough Starter Feeding Calculator](https://yourhack.ai/sourdough-starter-calculator): Free sourdough starter calculator. Work out feeding amounts from a ratio like 1:2:2 and starter weight, giving grams of starter, flour, and water.
+- [Turkey Cooking Time Calculator](https://yourhack.ai/turkey-cooking-time-calculator): Free turkey cooking time calculator. Get roasting time and thaw time by turkey weight for a stuffed or unstuffed bird, with a safe internal temperature.
+- [Yeast Converter](https://yourhack.ai/yeast-converter): Free yeast converter. Convert between active dry, instant, and fresh (cake) yeast by weight using standard baking ratios, updating live as you type.
 
 ## Why yourhack.ai
 

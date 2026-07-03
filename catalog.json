@@ -1,5 +1,5 @@
 {
-  "count": 568,
+  "count": 680,
   "tools": [
     {
       "id": "json-formatter",
@@ -7953,6 +7953,1575 @@
         "area of a triangle",
         "triangle area from sides",
         "base times height triangle"
+      ]
+    },
+    {
+      "id": "debt-snowball-calculator",
+      "name": "Debt Snowball Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/debt-snowball-calculator",
+      "description": "Free debt snowball calculator. Order your debts smallest balance first, apply a monthly extra payment, and see your payoff order and months to debt free.",
+      "keywords": [
+        "debt snowball calculator",
+        "debt snowball",
+        "pay off debt",
+        "debt payoff plan",
+        "debt free date"
+      ]
+    },
+    {
+      "id": "debt-avalanche-calculator",
+      "name": "Debt Avalanche Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/debt-avalanche-calculator",
+      "description": "Free debt avalanche calculator. Target the highest interest rate debt first to minimize total interest, and see your months to payoff and interest saved.",
+      "keywords": [
+        "debt avalanche calculator",
+        "debt avalanche",
+        "highest interest first",
+        "minimize interest",
+        "debt payoff strategy"
+      ]
+    },
+    {
+      "id": "fire-number-calculator",
+      "name": "FIRE Number Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/fire-number-calculator",
+      "description": "Free FIRE number calculator. Find how much you need invested to retire early using the 4 percent rule, plus years to reach financial independence.",
+      "keywords": [
+        "fire number calculator",
+        "financial independence",
+        "retire early",
+        "fire calculator",
+        "4 percent rule"
+      ]
+    },
+    {
+      "id": "coast-fire-calculator",
+      "name": "Coast FIRE Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/coast-fire-calculator",
+      "description": "Free Coast FIRE calculator. Find the amount you need invested today so compound growth alone funds retirement without adding another dollar.",
+      "keywords": [
+        "coast fire calculator",
+        "coast fire",
+        "coast fi number",
+        "financial independence",
+        "compound growth retirement"
+      ]
+    },
+    {
+      "id": "inflation-calculator",
+      "name": "Inflation Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/inflation-calculator",
+      "description": "Free inflation calculator. See how much future buying power your money loses over time, or what an amount will be worth after years of inflation.",
+      "keywords": [
+        "inflation calculator",
+        "buying power calculator",
+        "future value of money",
+        "inflation impact",
+        "purchasing power"
+      ]
+    },
+    {
+      "id": "real-rate-of-return-calculator",
+      "name": "Real Rate of Return Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/real-rate-of-return-calculator",
+      "description": "Free real rate of return calculator. Convert a nominal investment return into the inflation adjusted real return using the exact Fisher equation.",
+      "keywords": [
+        "real rate of return",
+        "real return calculator",
+        "inflation adjusted return",
+        "fisher equation",
+        "nominal vs real return"
+      ]
+    },
+    {
+      "id": "salary-to-hourly-calculator",
+      "name": "Salary to Hourly Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/salary-to-hourly-calculator",
+      "description": "Free salary to hourly calculator. Convert an annual salary into an hourly wage based on your weekly hours and weeks worked per year.",
+      "keywords": [
+        "salary to hourly",
+        "annual to hourly",
+        "hourly wage calculator",
+        "convert salary to hourly",
+        "yearly to hourly"
+      ]
+    },
+    {
+      "id": "hourly-to-salary-calculator",
+      "name": "Hourly to Salary Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/hourly-to-salary-calculator",
+      "description": "Free hourly to salary calculator. Convert an hourly wage into an annual salary using your weekly hours and weeks worked per year.",
+      "keywords": [
+        "hourly to salary",
+        "hourly to annual",
+        "wage to salary calculator",
+        "convert hourly to yearly",
+        "annual salary from hourly"
+      ]
+    },
+    {
+      "id": "take-home-pay-estimator",
+      "name": "Take Home Pay Estimator",
+      "category": "finance",
+      "url": "https://yourhack.ai/take-home-pay-estimator",
+      "description": "Free take home pay estimator. Enter gross salary and deduction percentages to estimate net pay per year, month, and paycheck instantly.",
+      "keywords": [
+        "take home pay calculator",
+        "net pay estimator",
+        "after tax salary",
+        "net income calculator",
+        "gross to net pay"
+      ]
+    },
+    {
+      "id": "cost-of-living-difference",
+      "name": "Cost of Living Difference Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/cost-of-living-difference",
+      "description": "Free cost of living calculator. Compare two cities by index and find the salary you need to keep the same standard of living after moving.",
+      "keywords": [
+        "cost of living calculator",
+        "salary comparison by city",
+        "cost of living difference",
+        "relocation salary calculator",
+        "moving cost of living"
+      ]
+    },
+    {
+      "id": "future-value-calculator",
+      "name": "Future Value Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/future-value-calculator",
+      "description": "Free future value calculator. Find what a lump sum plus regular contributions grows to with compound interest over a set number of years.",
+      "keywords": [
+        "future value calculator",
+        "future value formula",
+        "fv calculator",
+        "compound growth calculator",
+        "future value of savings"
+      ]
+    },
+    {
+      "id": "present-value-calculator",
+      "name": "Present Value Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/present-value-calculator",
+      "description": "Free present value calculator. Discount a future amount back to what it is worth today using a discount rate and a number of periods.",
+      "keywords": [
+        "present value calculator",
+        "present value formula",
+        "pv calculator",
+        "discounted value",
+        "time value of money"
+      ]
+    },
+    {
+      "id": "annuity-payment-calculator",
+      "name": "Annuity Payment Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/annuity-payment-calculator",
+      "description": "Free annuity payment calculator. Find the fixed periodic payment a lump sum can provide, or the payout from a present value over a set term.",
+      "keywords": [
+        "annuity calculator",
+        "annuity payment calculator",
+        "annuity payout",
+        "fixed payment calculator",
+        "present value annuity"
+      ]
+    },
+    {
+      "id": "savings-rate-calculator",
+      "name": "Savings Rate Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/savings-rate-calculator",
+      "description": "Free savings rate calculator. Find the percentage of your income you save each month and see how it compares to common financial independence targets.",
+      "keywords": [
+        "savings rate calculator",
+        "personal savings rate",
+        "how much should i save",
+        "income savings percentage",
+        "savings ratio"
+      ]
+    },
+    {
+      "id": "tip-and-split-calculator",
+      "name": "Tip and Split Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/tip-and-split-calculator",
+      "description": "Free tip and split calculator. Add a tip, optionally round the total, and split the bill evenly across any number of people for a clean per person amount.",
+      "keywords": [
+        "tip and split calculator",
+        "split bill with tip",
+        "group bill splitter",
+        "restaurant bill split",
+        "tip per person"
+      ]
+    },
+    {
+      "id": "discount-and-tax-calculator",
+      "name": "Discount and Tax Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/discount-and-tax-calculator",
+      "description": "Free discount and tax calculator. Apply a percent discount then add sales tax to get the final checkout price, the amount saved, and the tax charged.",
+      "keywords": [
+        "discount and tax calculator",
+        "sale price with tax",
+        "discount calculator with tax",
+        "final price calculator",
+        "percent off plus tax"
+      ]
+    },
+    {
+      "id": "sinking-fund-calculator",
+      "name": "Sinking Fund Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/sinking-fund-calculator",
+      "description": "Free sinking fund calculator. Work out the monthly amount to set aside to reach a savings target by a deadline, with or without interest.",
+      "keywords": [
+        "sinking fund calculator",
+        "monthly savings target",
+        "save by deadline",
+        "sinking fund monthly payment",
+        "savings deposit calculator"
+      ]
+    },
+    {
+      "id": "budget-50-30-20-calculator",
+      "name": "50/30/20 Budget Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/budget-50-30-20-calculator",
+      "description": "Free 50/30/20 budget calculator. Split your monthly take home pay into needs, wants, and savings using the popular 50/30/20 budgeting rule.",
+      "keywords": [
+        "50/30/20 budget calculator",
+        "50 30 20 rule",
+        "budget calculator",
+        "needs wants savings",
+        "monthly budget split"
+      ]
+    },
+    {
+      "id": "raise-percentage-calculator",
+      "name": "Raise Percentage Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/raise-percentage-calculator",
+      "description": "Free raise calculator. Find your pay raise as a percentage and dollar amount, or work out your new salary from a given raise percentage.",
+      "keywords": [
+        "raise calculator",
+        "pay raise percentage",
+        "salary increase calculator",
+        "raise percentage calculator",
+        "new salary calculator"
+      ]
+    },
+    {
+      "id": "dollar-cost-averaging-calculator",
+      "name": "Dollar Cost Averaging Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/dollar-cost-averaging-calculator",
+      "description": "Free dollar cost averaging calculator. Project a recurring investment growing at a steady return and see contributions versus interest earned.",
+      "keywords": [
+        "dollar cost averaging calculator",
+        "dca calculator",
+        "recurring investment calculator",
+        "monthly investing calculator",
+        "invest monthly growth"
+      ]
+    },
+    {
+      "id": "rule-of-114-calculator",
+      "name": "Rule of 114 Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/rule-of-114-calculator",
+      "description": "Free rule of 114 calculator. Estimate the years to triple your money at a given annual return, plus the rate needed to triple in a set time.",
+      "keywords": [
+        "rule of 114",
+        "triple your money",
+        "years to triple investment",
+        "rule of 114 calculator",
+        "tripling time"
+      ]
+    },
+    {
+      "id": "lump-sum-vs-payments-calculator",
+      "name": "Lump Sum vs Payments Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/lump-sum-vs-payments-calculator",
+      "description": "Free lump sum vs payments calculator. Compare taking a cash lump sum now against a stream of future payments using present value and a discount rate.",
+      "keywords": [
+        "lump sum vs payments",
+        "lump sum or annuity",
+        "cash now vs payments",
+        "present value comparison",
+        "lottery lump sum calculator"
+      ]
+    },
+    {
+      "id": "time-to-reach-savings-goal",
+      "name": "Time to Reach Savings Goal Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/time-to-reach-savings-goal",
+      "description": "Free savings timeline calculator. Find how many months and years it takes to reach a savings goal given your deposits and interest rate.",
+      "keywords": [
+        "time to save calculator",
+        "how long to reach savings goal",
+        "savings timeline calculator",
+        "months to save goal",
+        "savings goal date"
+      ]
+    },
+    {
+      "id": "hourly-rate-from-monthly-salary",
+      "name": "Effective Hourly Rate Calculator",
+      "category": "finance",
+      "url": "https://yourhack.ai/hourly-rate-from-monthly-salary",
+      "description": "Free effective hourly rate calculator. Reveal what you truly earn per hour once commute and unpaid work hours are added to your paid time.",
+      "keywords": [
+        "effective hourly rate",
+        "real hourly wage calculator",
+        "true hourly rate",
+        "hourly rate after commute",
+        "actual hourly pay"
+      ]
+    },
+    {
+      "id": "macro-split-calculator",
+      "name": "Macro Split Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/macro-split-calculator",
+      "description": "Free macro split calculator. Turn your daily calorie target into protein, carb, and fat grams using a percentage split you choose, all in your browser.",
+      "keywords": [
+        "macro calculator",
+        "macronutrient split",
+        "protein carb fat grams",
+        "macro split calculator",
+        "daily macros"
+      ]
+    },
+    {
+      "id": "protein-intake-calculator",
+      "name": "Protein Intake Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/protein-intake-calculator",
+      "description": "Free daily protein intake calculator. Estimate grams of protein per day from your body weight and activity goal, worked out instantly in your browser.",
+      "keywords": [
+        "protein intake calculator",
+        "daily protein grams",
+        "protein per kg",
+        "how much protein",
+        "protein calculator"
+      ]
+    },
+    {
+      "id": "calorie-deficit-calculator",
+      "name": "Calorie Deficit Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/calorie-deficit-calculator",
+      "description": "Free calorie deficit calculator. Enter maintenance calories and a target loss rate to see your daily deficit and adjusted intake, computed in your browser.",
+      "keywords": [
+        "calorie deficit calculator",
+        "weight loss calories",
+        "daily deficit",
+        "cutting calories",
+        "fat loss calculator"
+      ]
+    },
+    {
+      "id": "max-heart-rate-calculator",
+      "name": "Max Heart Rate Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/max-heart-rate-calculator",
+      "description": "Free max heart rate calculator. Estimate your maximum heart rate from age using two proven formulas, side by side, all in your browser.",
+      "keywords": [
+        "max heart rate calculator",
+        "maximum heart rate",
+        "mhr by age",
+        "heart rate formula",
+        "220 minus age"
+      ]
+    },
+    {
+      "id": "target-heart-rate-zone-calculator",
+      "name": "Target Heart Rate Zone Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/target-heart-rate-zone-calculator",
+      "description": "Free target heart rate zone calculator. Get Karvonen training zones from your age and resting heart rate, calculated instantly in your browser.",
+      "keywords": [
+        "target heart rate calculator",
+        "karvonen formula",
+        "heart rate zones",
+        "training zones",
+        "heart rate reserve"
+      ]
+    },
+    {
+      "id": "waist-to-hip-ratio-calculator",
+      "name": "Waist to Hip Ratio Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/waist-to-hip-ratio-calculator",
+      "description": "Free waist to hip ratio calculator. Divide waist by hip measurement and see the WHO health category by sex, computed instantly in your browser.",
+      "keywords": [
+        "waist to hip ratio",
+        "whr calculator",
+        "waist hip ratio",
+        "body shape ratio",
+        "health risk ratio"
+      ]
+    },
+    {
+      "id": "waist-to-height-ratio-calculator",
+      "name": "Waist to Height Ratio Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/waist-to-height-ratio-calculator",
+      "description": "Free waist to height ratio calculator. Divide waist by height and see the healthy range guideline, worked out instantly in your browser.",
+      "keywords": [
+        "waist to height ratio",
+        "whtr calculator",
+        "waist height ratio",
+        "keep waist half height",
+        "central obesity"
+      ]
+    },
+    {
+      "id": "lean-body-mass-calculator",
+      "name": "Lean Body Mass Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/lean-body-mass-calculator",
+      "description": "Free lean body mass calculator. Estimate lean mass and fat mass from weight and body fat, or the Boer formula, all in your browser.",
+      "keywords": [
+        "lean body mass calculator",
+        "lbm calculator",
+        "boer formula",
+        "fat free mass",
+        "lean mass estimate"
+      ]
+    },
+    {
+      "id": "ponderal-index-calculator",
+      "name": "Ponderal Index Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/ponderal-index-calculator",
+      "description": "Free ponderal index calculator. Compute the corpulence index using weight divided by height cubed, worked out instantly in your browser.",
+      "keywords": [
+        "ponderal index calculator",
+        "corpulence index",
+        "body build index",
+        "weight height cubed",
+        "ponderal index"
+      ]
+    },
+    {
+      "id": "body-surface-area-calculator",
+      "name": "Body Surface Area Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/body-surface-area-calculator",
+      "description": "Free body surface area calculator. Estimate BSA in square metres using the Mosteller and Du Bois formulas, side by side, in your browser.",
+      "keywords": [
+        "body surface area calculator",
+        "bsa calculator",
+        "mosteller formula",
+        "du bois formula",
+        "bsa square meters"
+      ]
+    },
+    {
+      "id": "running-pace-to-speed-converter",
+      "name": "Running Pace to Speed Converter",
+      "category": "health",
+      "url": "https://yourhack.ai/running-pace-to-speed-converter",
+      "description": "Free running pace to speed converter. Turn minutes per kilometre or mile into km/h and mph, and back again, instantly in your browser.",
+      "keywords": [
+        "pace to speed converter",
+        "running pace calculator",
+        "min per km to kmh",
+        "pace to mph",
+        "speed to pace"
+      ]
+    },
+    {
+      "id": "race-finish-time-predictor",
+      "name": "Race Finish Time Predictor",
+      "category": "health",
+      "url": "https://yourhack.ai/race-finish-time-predictor",
+      "description": "Free race time predictor. Estimate your finish time at a new distance from a recent race using the Riegel formula, computed in your browser.",
+      "keywords": [
+        "race time predictor",
+        "riegel formula",
+        "marathon time predictor",
+        "race pace predictor",
+        "finish time estimate"
+      ]
+    },
+    {
+      "id": "one-rep-max-multi-formula-calculator",
+      "name": "One Rep Max Multi Formula Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/one-rep-max-multi-formula-calculator",
+      "description": "Free one rep max calculator with four formulas. Estimate your 1RM from weight and reps using Epley, Brzycki, Lombardi, and Lander in your browser.",
+      "keywords": [
+        "one rep max calculator",
+        "1rm calculator",
+        "epley formula",
+        "brzycki formula",
+        "estimate one rep max"
+      ]
+    },
+    {
+      "id": "steps-to-distance-calculator",
+      "name": "Steps to Distance Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/steps-to-distance-calculator",
+      "description": "Free steps to distance calculator. Convert your step count into kilometres and miles using your height or a custom stride, in your browser.",
+      "keywords": [
+        "steps to miles calculator",
+        "steps to distance",
+        "step count to km",
+        "stride length calculator",
+        "steps to distance calculator"
+      ]
+    },
+    {
+      "id": "blood-alcohol-content-calculator",
+      "name": "Blood Alcohol Content Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/blood-alcohol-content-calculator",
+      "description": "Free blood alcohol content estimator. Approximate BAC from drinks, weight, sex, and time using the Widmark formula, all in your browser.",
+      "keywords": [
+        "blood alcohol calculator",
+        "bac calculator",
+        "widmark formula",
+        "estimate bac",
+        "alcohol level calculator"
+      ]
+    },
+    {
+      "id": "vo2-max-estimator",
+      "name": "VO2 Max Estimator",
+      "category": "health",
+      "url": "https://yourhack.ai/vo2-max-estimator",
+      "description": "Free VO2 max estimator. Approximate your aerobic fitness from a one mile walk test or resting heart rate, calculated in your browser.",
+      "keywords": [
+        "vo2 max calculator",
+        "vo2 max estimator",
+        "aerobic fitness test",
+        "rockport walk test",
+        "estimate vo2 max"
+      ]
+    },
+    {
+      "id": "smoking-cost-calculator",
+      "name": "Smoking Cost Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/smoking-cost-calculator",
+      "description": "Free smoking cost calculator. See how much cigarettes cost you per week, month, year, and decade based on packs and price, in your browser.",
+      "keywords": [
+        "smoking cost calculator",
+        "cost of smoking",
+        "cigarette cost calculator",
+        "quit smoking savings",
+        "smoking money saved"
+      ]
+    },
+    {
+      "id": "sleep-debt-calculator",
+      "name": "Sleep Debt Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/sleep-debt-calculator",
+      "description": "Free sleep debt calculator. Compare your recent sleep against a nightly goal to see your accumulated sleep debt for the week, in your browser.",
+      "keywords": [
+        "sleep debt calculator",
+        "sleep deficit",
+        "weekly sleep tracker",
+        "sleep loss calculator",
+        "accumulated sleep debt"
+      ]
+    },
+    {
+      "id": "ovulation-window-calculator",
+      "name": "Ovulation Window Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/ovulation-window-calculator",
+      "description": "Free ovulation window calculator. Estimate your fertile window and likely ovulation day from your last period and cycle length, in your browser.",
+      "keywords": [
+        "ovulation calculator",
+        "fertile window calculator",
+        "ovulation day estimate",
+        "cycle calculator",
+        "fertility window"
+      ]
+    },
+    {
+      "id": "calories-to-kilojoules-converter",
+      "name": "Calories to Kilojoules Converter",
+      "category": "health",
+      "url": "https://yourhack.ai/calories-to-kilojoules-converter",
+      "description": "Free calories to kilojoules converter. Switch between food calories and kilojoules instantly, both directions, all in your browser.",
+      "keywords": [
+        "calories to kilojoules",
+        "kj to calories",
+        "kcal to kj converter",
+        "energy converter food",
+        "kilojoules to calories"
+      ]
+    },
+    {
+      "id": "pregnancy-week-calculator",
+      "name": "Pregnancy Week Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/pregnancy-week-calculator",
+      "description": "Free pregnancy week calculator. Find your current gestational week, trimester, and days remaining from your last period, in your browser.",
+      "keywords": [
+        "pregnancy week calculator",
+        "how many weeks pregnant",
+        "gestational age calculator",
+        "trimester calculator",
+        "weeks pregnant"
+      ]
+    },
+    {
+      "id": "bmi-prime-calculator",
+      "name": "BMI Prime Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/bmi-prime-calculator",
+      "description": "Free BMI Prime calculator. See your BMI as a ratio to the upper healthy limit of 25, with category, computed instantly in your browser.",
+      "keywords": [
+        "bmi prime calculator",
+        "bmi prime",
+        "bmi ratio",
+        "bmi over 25",
+        "body mass index prime"
+      ]
+    },
+    {
+      "id": "pushup-pace-calculator",
+      "name": "Reps Per Minute Pace Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/pushup-pace-calculator",
+      "description": "Free reps per minute calculator. Turn a total rep goal and time limit into a pace, sets, and rest plan for pushups or any exercise, in your browser.",
+      "keywords": [
+        "reps per minute calculator",
+        "workout pace calculator",
+        "pushup pace",
+        "rep pace planner",
+        "sets and reps calculator"
+      ]
+    },
+    {
+      "id": "daily-water-intake-oz-calculator",
+      "name": "Daily Water Intake in Ounces Calculator",
+      "category": "health",
+      "url": "https://yourhack.ai/daily-water-intake-oz-calculator",
+      "description": "Free water intake calculator in ounces. Estimate daily fluid needs from body weight and activity, shown in ounces, cups, and litres, in your browser.",
+      "keywords": [
+        "water intake ounces",
+        "daily water calculator oz",
+        "how much water per day",
+        "hydration calculator",
+        "water ounces calculator"
+      ]
+    },
+    {
+      "id": "weighted-gpa-calculator",
+      "name": "Weighted GPA Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/weighted-gpa-calculator",
+      "description": "Free weighted GPA calculator for high school. Add course grades, credit hours and class level (regular, honors, AP or IB) to get your weighted GPA.",
+      "keywords": [
+        "weighted gpa calculator",
+        "weighted gpa",
+        "honors gpa calculator",
+        "ap gpa calculator",
+        "high school gpa"
+      ]
+    },
+    {
+      "id": "semester-gpa-calculator",
+      "name": "Semester GPA Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/semester-gpa-calculator",
+      "description": "Free semester GPA calculator. Enter each class letter grade and credit hours for one term to get your semester grade point average on a 4.0 scale.",
+      "keywords": [
+        "semester gpa calculator",
+        "term gpa calculator",
+        "semester grade point average",
+        "gpa for one semester",
+        "college semester gpa"
+      ]
+    },
+    {
+      "id": "college-gpa-calculator",
+      "name": "College GPA Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/college-gpa-calculator",
+      "description": "Free college GPA calculator with credit hours. Enter each course grade and credits to compute your college GPA on the standard 4.0 university scale.",
+      "keywords": [
+        "college gpa calculator",
+        "university gpa calculator",
+        "gpa calculator with credits",
+        "college grade point average",
+        "4.0 scale gpa"
+      ]
+    },
+    {
+      "id": "high-school-gpa-calculator",
+      "name": "High School GPA Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/high-school-gpa-calculator",
+      "description": "Free high school GPA calculator on the 4.0 unweighted scale. Enter your class grades to instantly find your high school grade point average.",
+      "keywords": [
+        "high school gpa calculator",
+        "unweighted gpa calculator",
+        "high school gpa",
+        "4.0 gpa calculator",
+        "hs gpa"
+      ]
+    },
+    {
+      "id": "grade-calculator",
+      "name": "Grade Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/grade-calculator",
+      "description": "Free weighted grade calculator by category. Enter your scores and the weight of each category to compute your overall course grade and letter.",
+      "keywords": [
+        "grade calculator",
+        "weighted grade calculator",
+        "course grade calculator",
+        "category grade calculator",
+        "class grade calculator"
+      ]
+    },
+    {
+      "id": "final-exam-grade-calculator",
+      "name": "Final Exam Grade Needed Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/final-exam-grade-calculator",
+      "description": "Find the score you need on your final exam to hit your target grade. Enter your current grade, the target and the final worth to get the answer.",
+      "keywords": [
+        "final exam grade calculator",
+        "grade needed on final",
+        "what do i need on my final",
+        "final grade needed calculator",
+        "final exam score needed"
+      ]
+    },
+    {
+      "id": "test-score-percentage-calculator",
+      "name": "Test Score Percentage Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/test-score-percentage-calculator",
+      "description": "Convert correct answers out of total questions into a percentage and letter grade. Free instant test and quiz score calculator for students.",
+      "keywords": [
+        "test score calculator",
+        "quiz grade calculator",
+        "score to percentage",
+        "test percentage calculator",
+        "exam score calculator"
+      ]
+    },
+    {
+      "id": "letter-grade-calculator",
+      "name": "Letter Grade Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/letter-grade-calculator",
+      "description": "Convert a percentage score into a letter grade and 4.0 grade point instantly. Free percentage to letter grade calculator with a full scale table.",
+      "keywords": [
+        "letter grade calculator",
+        "percentage to letter grade",
+        "grade to gpa",
+        "percent to letter grade",
+        "grade point converter"
+      ]
+    },
+    {
+      "id": "pass-fail-calculator",
+      "name": "Pass or Fail Grade Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/pass-fail-calculator",
+      "description": "Check if your score passes and how far you are from the passing mark. Free pass or fail calculator with a custom passing threshold for any test.",
+      "keywords": [
+        "pass fail calculator",
+        "passing grade calculator",
+        "do i pass calculator",
+        "pass or fail",
+        "minimum passing score"
+      ]
+    },
+    {
+      "id": "class-rank-percentile-calculator",
+      "name": "Class Rank Percentile Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/class-rank-percentile-calculator",
+      "description": "Convert your class rank and class size into a percentile and top percent. Free class rank percentile calculator for high school and college.",
+      "keywords": [
+        "class rank percentile calculator",
+        "class rank to percentile",
+        "top percent of class",
+        "percentile rank calculator",
+        "class standing calculator"
+      ]
+    },
+    {
+      "id": "points-needed-calculator",
+      "name": "Points Needed to Pass Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/points-needed-calculator",
+      "description": "Work out how many more points you need to reach your target grade. Free points needed calculator using points earned out of total points possible.",
+      "keywords": [
+        "points needed calculator",
+        "points needed to pass",
+        "grade points needed",
+        "how many points to pass",
+        "points to target grade"
+      ]
+    },
+    {
+      "id": "grade-curve-calculator",
+      "name": "Grade Curve Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/grade-curve-calculator",
+      "description": "Apply a class curve to a raw score. Free grade curve calculator supporting flat point boost, square root curve and top score scaling methods.",
+      "keywords": [
+        "grade curve calculator",
+        "curved grade calculator",
+        "exam curve calculator",
+        "square root curve",
+        "test curve calculator"
+      ]
+    },
+    {
+      "id": "attendance-percentage-calculator",
+      "name": "Attendance Percentage Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/attendance-percentage-calculator",
+      "description": "Calculate your attendance percentage from classes attended and total held, and see how many you can still miss to stay above a required minimum.",
+      "keywords": [
+        "attendance percentage calculator",
+        "attendance calculator",
+        "class attendance calculator",
+        "attendance requirement calculator",
+        "how many classes can i miss"
+      ]
+    },
+    {
+      "id": "credit-hours-calculator",
+      "name": "Credit Hours to Study Time Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/credit-hours-calculator",
+      "description": "Estimate weekly study hours and total workload from your enrolled credit hours using the standard two hours of study per credit guideline.",
+      "keywords": [
+        "credit hours calculator",
+        "credit hours to study time",
+        "college workload calculator",
+        "study hours per credit",
+        "course load calculator"
+      ]
+    },
+    {
+      "id": "reading-time-estimator",
+      "name": "Reading Assignment Time Estimator",
+      "category": "education",
+      "url": "https://yourhack.ai/reading-time-estimator",
+      "description": "Estimate how long a reading assignment will take from page or word count, difficulty and your reading speed. Free study planner for students.",
+      "keywords": [
+        "reading time estimator",
+        "reading assignment time",
+        "how long to read pages",
+        "study reading calculator",
+        "pages reading time"
+      ]
+    },
+    {
+      "id": "study-time-planner",
+      "name": "Study Time Planner",
+      "category": "education",
+      "url": "https://yourhack.ai/study-time-planner",
+      "description": "Split your available study hours across subjects by priority weight. Free study time planner that shows how many hours to give each subject per week.",
+      "keywords": [
+        "study time planner",
+        "study schedule calculator",
+        "study hours allocator",
+        "study plan calculator",
+        "weekly study planner"
+      ]
+    },
+    {
+      "id": "exam-countdown-calculator",
+      "name": "Exam Countdown Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/exam-countdown-calculator",
+      "description": "Count down to your exam date and see days, weeks and study days left, plus suggested daily study time to cover your material in time.",
+      "keywords": [
+        "exam countdown calculator",
+        "days until exam",
+        "exam date countdown",
+        "study countdown",
+        "time until test calculator"
+      ]
+    },
+    {
+      "id": "effort-to-grade-planner",
+      "name": "Grade Impact Planner",
+      "category": "education",
+      "url": "https://yourhack.ai/effort-to-grade-planner",
+      "description": "See how a future assignment score changes your overall grade before you submit it. Free grade impact planner using current grade and item weight.",
+      "keywords": [
+        "grade impact calculator",
+        "assignment grade impact",
+        "how will this affect my grade",
+        "grade projection calculator",
+        "grade change calculator"
+      ]
+    },
+    {
+      "id": "flashcard-interval-calculator",
+      "name": "Spaced Repetition Interval Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/flashcard-interval-calculator",
+      "description": "Generate spaced repetition review dates for a flashcard using a Leitner style schedule. Free spaced repetition interval calculator for studying.",
+      "keywords": [
+        "spaced repetition calculator",
+        "flashcard interval calculator",
+        "leitner system calculator",
+        "review interval calculator",
+        "spaced repetition schedule"
+      ]
+    },
+    {
+      "id": "grade-average-by-weight",
+      "name": "Weighted Average Grade Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/grade-average-by-weight",
+      "description": "Average several grades where each has a different weight. Free weighted average grade calculator for combining tests, projects and homework fairly.",
+      "keywords": [
+        "weighted average grade calculator",
+        "weighted average calculator grades",
+        "average grades by weight",
+        "combine grades calculator",
+        "weighted mean grade"
+      ]
+    },
+    {
+      "id": "ib-diploma-points-calculator",
+      "name": "IB Diploma Points Calculator",
+      "category": "education",
+      "url": "https://yourhack.ai/ib-diploma-points-calculator",
+      "description": "Add up your IB subject grades plus the extended essay and theory of knowledge bonus to get your total out of 45 and check if you pass the diploma.",
+      "keywords": [
+        "ib points calculator",
+        "ib diploma calculator",
+        "ib total score calculator",
+        "ib grade calculator",
+        "ib score out of 45"
+      ]
+    },
+    {
+      "id": "ects-grade-converter",
+      "name": "Percentage to 4.0 GPA Converter",
+      "category": "education",
+      "url": "https://yourhack.ai/ects-grade-converter",
+      "description": "Convert a percentage grade into a 4.0 scale GPA value and letter grade. Free percentage to GPA converter for transcripts and study abroad applications.",
+      "keywords": [
+        "percentage to gpa converter",
+        "percent to 4.0 gpa",
+        "grade percentage to gpa",
+        "gpa conversion calculator",
+        "convert percentage to gpa"
+      ]
+    },
+    {
+      "id": "markup-calculator",
+      "name": "Markup Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/markup-calculator",
+      "description": "Free markup calculator. Enter cost and markup percent to get the selling price, profit and resulting margin instantly in your browser.",
+      "keywords": [
+        "markup calculator",
+        "calculate markup",
+        "cost to price",
+        "selling price calculator",
+        "markup percentage"
+      ]
+    },
+    {
+      "id": "margin-vs-markup-calculator",
+      "name": "Margin vs Markup Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/margin-vs-markup-calculator",
+      "description": "Convert between margin and markup. Enter one percentage to see the other, plus the price built from your cost. Fast, browser side, no signup.",
+      "keywords": [
+        "margin vs markup",
+        "margin to markup",
+        "markup to margin",
+        "margin markup converter",
+        "margin markup calculator"
+      ]
+    },
+    {
+      "id": "gross-profit-calculator",
+      "name": "Gross Profit Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/gross-profit-calculator",
+      "description": "Free gross profit calculator. Enter revenue and cost of goods sold to get gross profit and gross margin percent instantly in your browser.",
+      "keywords": [
+        "gross profit calculator",
+        "gross margin calculator",
+        "cogs calculator",
+        "revenue minus cost",
+        "gross profit formula"
+      ]
+    },
+    {
+      "id": "net-profit-margin-calculator",
+      "name": "Net Profit Margin Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/net-profit-margin-calculator",
+      "description": "Free net profit margin calculator. Enter revenue and total expenses to get net profit and net margin percent instantly, all in your browser.",
+      "keywords": [
+        "net profit margin calculator",
+        "net margin calculator",
+        "net profit calculator",
+        "profitability calculator",
+        "bottom line margin"
+      ]
+    },
+    {
+      "id": "operating-margin-calculator",
+      "name": "Operating Margin Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/operating-margin-calculator",
+      "description": "Free operating margin calculator. Enter revenue, cost of goods and operating expenses to get operating income and margin percent in your browser.",
+      "keywords": [
+        "operating margin calculator",
+        "operating income calculator",
+        "operating profit margin",
+        "ebit margin calculator",
+        "operating profit calculator"
+      ]
+    },
+    {
+      "id": "ebitda-margin-calculator",
+      "name": "EBITDA Margin Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/ebitda-margin-calculator",
+      "description": "Free EBITDA margin calculator. Enter revenue, expenses, depreciation and amortization to get EBITDA and EBITDA margin percent in your browser.",
+      "keywords": [
+        "ebitda margin calculator",
+        "ebitda calculator",
+        "ebitda formula",
+        "earnings before interest calculator",
+        "ebitda percentage"
+      ]
+    },
+    {
+      "id": "cost-plus-pricing-calculator",
+      "name": "Cost Plus Pricing Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/cost-plus-pricing-calculator",
+      "description": "Free cost plus pricing calculator. Add material, labor and overhead, apply a markup, and get your selling price and profit per unit instantly.",
+      "keywords": [
+        "cost plus pricing calculator",
+        "cost plus pricing",
+        "product pricing calculator",
+        "pricing formula",
+        "unit price calculator"
+      ]
+    },
+    {
+      "id": "customer-acquisition-cost-calculator",
+      "name": "Customer Acquisition Cost Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/customer-acquisition-cost-calculator",
+      "description": "Free CAC calculator. Divide your sales and marketing spend by new customers to find customer acquisition cost instantly in your browser.",
+      "keywords": [
+        "cac calculator",
+        "customer acquisition cost calculator",
+        "cost per customer",
+        "acquisition cost calculator",
+        "cac formula"
+      ]
+    },
+    {
+      "id": "customer-lifetime-value-calculator",
+      "name": "Customer Lifetime Value Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/customer-lifetime-value-calculator",
+      "description": "Free LTV calculator. Enter average order value, purchase frequency, lifespan and margin to estimate customer lifetime value in your browser.",
+      "keywords": [
+        "ltv calculator",
+        "customer lifetime value calculator",
+        "clv calculator",
+        "lifetime value calculator",
+        "ltv formula"
+      ]
+    },
+    {
+      "id": "ltv-to-cac-ratio-calculator",
+      "name": "LTV to CAC Ratio Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/ltv-to-cac-ratio-calculator",
+      "description": "Free LTV to CAC ratio calculator. Compare lifetime value against acquisition cost to judge if your unit economics are healthy, all in your browser.",
+      "keywords": [
+        "ltv cac ratio calculator",
+        "ltv to cac ratio",
+        "ltv cac calculator",
+        "unit economics calculator",
+        "ltv cac ratio"
+      ]
+    },
+    {
+      "id": "cac-payback-period-calculator",
+      "name": "CAC Payback Period Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/cac-payback-period-calculator",
+      "description": "Free CAC payback period calculator. Find how many months it takes to recover acquisition cost from customer gross profit, right in your browser.",
+      "keywords": [
+        "cac payback period calculator",
+        "payback period calculator",
+        "cac payback calculator",
+        "months to recover cac",
+        "saas payback period"
+      ]
+    },
+    {
+      "id": "churn-rate-calculator",
+      "name": "Churn Rate Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/churn-rate-calculator",
+      "description": "Free churn rate calculator. Enter customers lost and starting customers to get churn rate and retention rate percent instantly in your browser.",
+      "keywords": [
+        "churn rate calculator",
+        "customer churn calculator",
+        "retention rate calculator",
+        "churn calculator",
+        "churn rate formula"
+      ]
+    },
+    {
+      "id": "net-revenue-retention-calculator",
+      "name": "Net Revenue Retention Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/net-revenue-retention-calculator",
+      "description": "Free net revenue retention calculator. Enter starting MRR, expansion, contraction and churn to get NRR and GRR percent in your browser.",
+      "keywords": [
+        "net revenue retention calculator",
+        "nrr calculator",
+        "gross revenue retention calculator",
+        "revenue retention calculator",
+        "nrr formula"
+      ]
+    },
+    {
+      "id": "mrr-arr-calculator",
+      "name": "MRR and ARR Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/mrr-arr-calculator",
+      "description": "Free MRR and ARR calculator. Turn subscribers and average price into monthly and annual recurring revenue instantly, all in your browser.",
+      "keywords": [
+        "mrr calculator",
+        "arr calculator",
+        "monthly recurring revenue calculator",
+        "annual recurring revenue calculator",
+        "mrr to arr"
+      ]
+    },
+    {
+      "id": "revenue-growth-rate-calculator",
+      "name": "Revenue Growth Rate Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/revenue-growth-rate-calculator",
+      "description": "Free revenue growth rate calculator. Compare two periods to get percent growth and the absolute change in revenue instantly in your browser.",
+      "keywords": [
+        "revenue growth rate calculator",
+        "growth rate calculator",
+        "revenue growth calculator",
+        "period over period growth",
+        "sales growth calculator"
+      ]
+    },
+    {
+      "id": "burn-rate-runway-calculator",
+      "name": "Burn Rate and Runway Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/burn-rate-runway-calculator",
+      "description": "Free burn rate and runway calculator. Enter cash, monthly spend and income to find net burn and how many months of runway remain.",
+      "keywords": [
+        "burn rate calculator",
+        "runway calculator",
+        "startup runway calculator",
+        "cash runway calculator",
+        "net burn calculator"
+      ]
+    },
+    {
+      "id": "conversion-rate-calculator",
+      "name": "Conversion Rate Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/conversion-rate-calculator",
+      "description": "Free conversion rate calculator. Divide conversions by visitors to get your conversion rate percent, plus visitors needed per goal, in your browser.",
+      "keywords": [
+        "conversion rate calculator",
+        "conversion rate formula",
+        "website conversion calculator",
+        "sales conversion calculator",
+        "cvr calculator"
+      ]
+    },
+    {
+      "id": "average-order-value-calculator",
+      "name": "Average Order Value Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/average-order-value-calculator",
+      "description": "Free average order value calculator. Divide total revenue by number of orders to find AOV instantly, right in your browser. No signup needed.",
+      "keywords": [
+        "average order value calculator",
+        "aov calculator",
+        "average order value formula",
+        "ecommerce aov calculator",
+        "order value calculator"
+      ]
+    },
+    {
+      "id": "freelance-hourly-rate-calculator",
+      "name": "Freelance Hourly Rate Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/freelance-hourly-rate-calculator",
+      "description": "Free freelance hourly rate calculator. Turn a target salary, expenses and billable hours into the hourly rate you must charge, in your browser.",
+      "keywords": [
+        "freelance hourly rate calculator",
+        "freelance rate calculator hourly",
+        "consultant rate calculator",
+        "hourly rate calculator freelance",
+        "set freelance rate"
+      ]
+    },
+    {
+      "id": "invoice-total-calculator",
+      "name": "Invoice Total Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/invoice-total-calculator",
+      "description": "Free invoice total calculator. Add line items, apply a discount and tax, and get the subtotal, tax and grand total instantly in your browser.",
+      "keywords": [
+        "invoice total calculator",
+        "invoice calculator",
+        "invoice tax calculator",
+        "billing calculator",
+        "invoice amount calculator"
+      ]
+    },
+    {
+      "id": "employee-cost-calculator",
+      "name": "Employee Cost Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/employee-cost-calculator",
+      "description": "Free employee cost calculator. Add salary, payroll taxes, benefits and overhead to find the true annual and hourly cost of an employee.",
+      "keywords": [
+        "employee cost calculator",
+        "true cost of employee",
+        "cost of hiring calculator",
+        "fully loaded cost calculator",
+        "employee overhead calculator"
+      ]
+    },
+    {
+      "id": "break-even-units-calculator",
+      "name": "Break Even Units Calculator",
+      "category": "business",
+      "url": "https://yourhack.ai/break-even-units-calculator",
+      "description": "Free break even units calculator. Enter fixed costs, price and variable cost per unit to find the units and revenue needed to break even.",
+      "keywords": [
+        "break even units calculator",
+        "break even quantity calculator",
+        "units to break even",
+        "break even point units",
+        "contribution margin calculator"
+      ]
+    },
+    {
+      "id": "recipe-scaler",
+      "name": "Recipe Scaler",
+      "category": "cooking",
+      "url": "https://yourhack.ai/recipe-scaler",
+      "description": "Free recipe scaler. Multiply or divide any recipe by a factor or by target servings and it rescales every ingredient line automatically.",
+      "keywords": [
+        "recipe scaler",
+        "scale recipe",
+        "double a recipe",
+        "halve a recipe",
+        "recipe multiplier",
+        "adjust recipe servings"
+      ]
+    },
+    {
+      "id": "oven-temperature-converter",
+      "name": "Oven Temperature Converter",
+      "category": "cooking",
+      "url": "https://yourhack.ai/oven-temperature-converter",
+      "description": "Free oven temperature converter. Convert between Celsius, Fahrenheit, gas mark, and fan (convection) oven settings instantly as you type.",
+      "keywords": [
+        "oven temperature converter",
+        "celsius to fahrenheit oven",
+        "gas mark converter",
+        "fan oven conversion",
+        "oven temp chart"
+      ]
+    },
+    {
+      "id": "baking-pan-size-converter",
+      "name": "Baking Pan Size Converter",
+      "category": "cooking",
+      "url": "https://yourhack.ai/baking-pan-size-converter",
+      "description": "Free baking pan size converter. Adjust a recipe for a different pan by comparing pan area and volume, so you scale batter to avoid over or underfilling.",
+      "keywords": [
+        "baking pan converter",
+        "pan size conversion",
+        "cake pan substitution",
+        "baking pan area",
+        "change pan size recipe"
+      ]
+    },
+    {
+      "id": "butter-converter",
+      "name": "Butter Converter",
+      "category": "cooking",
+      "url": "https://yourhack.ai/butter-converter",
+      "description": "Free butter converter. Convert butter between US sticks, tablespoons, cups, grams, and ounces instantly, using standard stick weights for recipes.",
+      "keywords": [
+        "butter converter",
+        "sticks of butter to grams",
+        "butter tablespoons to cups",
+        "grams of butter",
+        "butter measurement converter"
+      ]
+    },
+    {
+      "id": "cups-to-grams-converter",
+      "name": "Cups to Grams Converter",
+      "category": "cooking",
+      "url": "https://yourhack.ai/cups-to-grams-converter",
+      "description": "Free cups to grams converter. Convert cups to grams by ingredient using common baking densities for flour, sugar, butter, and more, live as you type.",
+      "keywords": [
+        "cups to grams",
+        "cups to grams converter",
+        "grams to cups",
+        "flour cups to grams",
+        "baking weight converter"
+      ]
+    },
+    {
+      "id": "coffee-to-water-ratio-calculator",
+      "name": "Coffee to Water Ratio Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/coffee-to-water-ratio-calculator",
+      "description": "Free coffee to water ratio calculator. Enter your brew ratio and cups to get exact grams of coffee and water for pour over, French press, and drip.",
+      "keywords": [
+        "coffee to water ratio",
+        "coffee ratio calculator",
+        "coffee grams calculator",
+        "brew ratio",
+        "pour over coffee calculator"
+      ]
+    },
+    {
+      "id": "meat-cooking-time-calculator",
+      "name": "Meat Roasting Time Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/meat-cooking-time-calculator",
+      "description": "Free meat roasting time calculator. Estimate oven roasting time by weight and doneness for beef, pork, and lamb, with target internal temperatures.",
+      "keywords": [
+        "meat cooking time calculator",
+        "roasting time calculator",
+        "beef roasting time",
+        "roast cooking time by weight",
+        "meat doneness temperature"
+      ]
+    },
+    {
+      "id": "turkey-cooking-time-calculator",
+      "name": "Turkey Cooking Time Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/turkey-cooking-time-calculator",
+      "description": "Free turkey cooking time calculator. Get roasting time and thaw time by turkey weight for a stuffed or unstuffed bird, with a safe internal temperature.",
+      "keywords": [
+        "turkey cooking time calculator",
+        "turkey roasting time",
+        "how long to cook a turkey",
+        "turkey thaw time",
+        "turkey time by weight"
+      ]
+    },
+    {
+      "id": "ingredient-substitution-finder",
+      "name": "Ingredient Substitution Finder",
+      "category": "cooking",
+      "url": "https://yourhack.ai/ingredient-substitution-finder",
+      "description": "Free ingredient substitution finder. Search a common ingredient and get proven kitchen substitutes with the right amounts for baking and cooking.",
+      "keywords": [
+        "ingredient substitution",
+        "substitute for",
+        "baking substitutes",
+        "cooking substitution chart",
+        "ingredient swap finder"
+      ]
+    },
+    {
+      "id": "air-fryer-conversion-calculator",
+      "name": "Air Fryer Conversion Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/air-fryer-conversion-calculator",
+      "description": "Free air fryer conversion calculator. Convert conventional oven temperature and time to air fryer settings by lowering the temp and shortening the time.",
+      "keywords": [
+        "air fryer conversion",
+        "oven to air fryer",
+        "air fryer temperature converter",
+        "air fryer time calculator",
+        "convert oven recipe to air fryer"
+      ]
+    },
+    {
+      "id": "slow-cooker-converter",
+      "name": "Slow Cooker Time Converter",
+      "category": "cooking",
+      "url": "https://yourhack.ai/slow-cooker-converter",
+      "description": "Free slow cooker time converter. Convert conventional oven or stovetop cooking time to slow cooker low and high settings for stews, roasts, and soups.",
+      "keywords": [
+        "slow cooker converter",
+        "oven to slow cooker time",
+        "crockpot conversion",
+        "slow cooker low high time",
+        "convert recipe to slow cooker"
+      ]
+    },
+    {
+      "id": "yeast-converter",
+      "name": "Yeast Converter",
+      "category": "cooking",
+      "url": "https://yourhack.ai/yeast-converter",
+      "description": "Free yeast converter. Convert between active dry, instant, and fresh (cake) yeast by weight using standard baking ratios, updating live as you type.",
+      "keywords": [
+        "yeast converter",
+        "active dry to instant yeast",
+        "fresh yeast to dry",
+        "yeast conversion calculator",
+        "instant yeast substitute"
+      ]
+    },
+    {
+      "id": "egg-size-substitution",
+      "name": "Egg Size Substitution Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/egg-size-substitution",
+      "description": "Free egg size substitution calculator. Convert a recipe between small, medium, large, and extra-large eggs by liquid volume so ratios stay correct.",
+      "keywords": [
+        "egg size substitution",
+        "large to medium eggs",
+        "egg conversion calculator",
+        "how many eggs substitute",
+        "egg size chart baking"
+      ]
+    },
+    {
+      "id": "baker-hydration-calculator",
+      "name": "Baker Hydration Percentage Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/baker-hydration-calculator",
+      "description": "Free baker hydration calculator. Compute dough hydration percentage from flour and water weights, or solve for the water needed to hit a target.",
+      "keywords": [
+        "baker hydration calculator",
+        "dough hydration percentage",
+        "bakers percentage",
+        "hydration calculator bread",
+        "flour to water ratio bread"
+      ]
+    },
+    {
+      "id": "sourdough-starter-calculator",
+      "name": "Sourdough Starter Feeding Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/sourdough-starter-calculator",
+      "description": "Free sourdough starter calculator. Work out feeding amounts from a ratio like 1:2:2 and starter weight, giving grams of starter, flour, and water.",
+      "keywords": [
+        "sourdough starter calculator",
+        "starter feeding ratio",
+        "sourdough feeding calculator",
+        "1:2:2 starter",
+        "levain calculator"
+      ]
+    },
+    {
+      "id": "bread-water-temperature-calculator",
+      "name": "Bread Water Temperature Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/bread-water-temperature-calculator",
+      "description": "Free bread water temperature calculator. Find the water temperature to hit a target dough temperature using flour temp, room temp, and friction.",
+      "keywords": [
+        "water temperature for bread",
+        "desired dough temperature",
+        "bread water temp calculator",
+        "dough temperature calculator",
+        "friction factor bread"
+      ]
+    },
+    {
+      "id": "calorie-per-serving-calculator",
+      "name": "Calories Per Serving Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/calorie-per-serving-calculator",
+      "description": "Free calories per serving calculator. Add up the calories of every recipe ingredient and divide by servings to get calories per portion instantly.",
+      "keywords": [
+        "calories per serving calculator",
+        "recipe calorie calculator",
+        "calories per portion",
+        "recipe nutrition calculator",
+        "divide calories by servings"
+      ]
+    },
+    {
+      "id": "cocktail-ratio-calculator",
+      "name": "Cocktail Ratio Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/cocktail-ratio-calculator",
+      "description": "Free cocktail ratio calculator. Scale a spirit to sweet to sour ratio to any drink volume or number of servings, in ounces or milliliters.",
+      "keywords": [
+        "cocktail ratio calculator",
+        "cocktail scaling calculator",
+        "batch cocktail calculator",
+        "drink ratio calculator",
+        "cocktail proportions"
+      ]
+    },
+    {
+      "id": "brine-ratio-calculator",
+      "name": "Brine Ratio Calculator",
+      "category": "cooking",
+      "url": "https://yourhack.ai/brine-ratio-calculator",
+      "description": "Free brine ratio calculator. Get the salt and water for a wet brine at a chosen concentration, so poultry and pork come out juicy and seasoned.",
+      "keywords": [
+        "brine ratio calculator",
+        "salt brine calculator",
+        "brine calculator",
+        "wet brine salt ratio",
+        "turkey brine calculator"
+      ]
+    },
+    {
+      "id": "grill-temperature-guide",
+      "name": "Grill Temperature Doneness Guide",
+      "category": "cooking",
+      "url": "https://yourhack.ai/grill-temperature-guide",
+      "description": "Free grill doneness guide. Look up safe and target internal temperatures for beef, chicken, pork, fish, and burgers in Celsius and Fahrenheit.",
+      "keywords": [
+        "grill temperature guide",
+        "meat doneness temperature",
+        "internal temperature chart",
+        "steak doneness temp",
+        "safe cooking temperature"
       ]
     }
   ]
