@@ -1,5 +1,5 @@
 {
-  "count": 943,
+  "count": 1081,
   "tools": [
     {
       "id": "json-formatter",
@@ -4106,6 +4106,34 @@
       ]
     },
     {
+      "id": "feet-to-meters",
+      "name": "Feet to Meters Converter",
+      "category": "converters",
+      "url": "https://yourhack.ai/feet-to-meters",
+      "description": "Free feet to meters converter. Convert feet to meters instantly using the exact factor (1 ft = 0.3048 m). Live result as you type, private.",
+      "keywords": [
+        "feet to meters",
+        "ft to m",
+        "convert feet to meters",
+        "feet meters converter",
+        "how many meters in feet"
+      ]
+    },
+    {
+      "id": "atm-to-psi",
+      "name": "ATM to PSI Converter",
+      "category": "converters",
+      "url": "https://yourhack.ai/atm-to-psi",
+      "description": "Free atm to psi converter. Convert atmospheres to pounds per square inch instantly (1 atm = 14.6959 psi). Live result as you type, no sign-up.",
+      "keywords": [
+        "atm to psi",
+        "atmospheres to psi",
+        "convert atm to psi",
+        "atm psi converter",
+        "pressure atm to psi"
+      ]
+    },
+    {
       "id": "color-picker",
       "name": "Color Picker",
       "category": "color",
@@ -4624,6 +4652,20 @@
       ]
     },
     {
+      "id": "emoji-favicon-generator",
+      "name": "Emoji Favicon Generator",
+      "category": "generators",
+      "url": "https://yourhack.ai/emoji-favicon-generator",
+      "description": "Free emoji favicon generator. Turn any emoji into favicon PNGs at 16, 32, 64 and 180 pixels and download them, with the HTML tag to use them.",
+      "keywords": [
+        "emoji favicon",
+        "favicon from emoji",
+        "emoji favicon generator",
+        "favicon generator free",
+        "emoji icon for website"
+      ]
+    },
+    {
       "id": "stopwatch",
       "name": "Stopwatch",
       "category": "productivity",
@@ -4904,6 +4946,34 @@
       ]
     },
     {
+      "id": "signature-maker",
+      "name": "Online Signature Maker",
+      "category": "productivity",
+      "url": "https://yourhack.ai/signature-maker",
+      "description": "Free online signature maker. Draw your signature with a mouse, finger or stylus and download it as a transparent PNG. Private, in your browser.",
+      "keywords": [
+        "signature maker",
+        "draw signature online",
+        "electronic signature drawing",
+        "signature png transparent",
+        "create signature online free"
+      ]
+    },
+    {
+      "id": "drawing-board",
+      "name": "Online Drawing Board",
+      "category": "productivity",
+      "url": "https://yourhack.ai/drawing-board",
+      "description": "Free online drawing board. Sketch with a pen and eraser, pick colors and sizes, then download your drawing as a PNG. No sign-up, no upload.",
+      "keywords": [
+        "online drawing board",
+        "online whiteboard free",
+        "sketch pad online",
+        "draw online",
+        "simple drawing app browser"
+      ]
+    },
+    {
       "id": "image-resizer",
       "name": "Image Resizer",
       "category": "image",
@@ -5041,6 +5111,132 @@
         "placeholder png",
         "mockup image",
         "generate placeholder image"
+      ]
+    },
+    {
+      "id": "image-to-webp",
+      "name": "Image to WebP Converter",
+      "category": "image",
+      "url": "https://yourhack.ai/image-to-webp",
+      "description": "Free image to WebP converter. Turn JPG or PNG photos into WebP at a quality you choose, compare file sizes, and download. All in your browser.",
+      "keywords": [
+        "image to webp",
+        "jpg to webp",
+        "png to webp",
+        "convert to webp",
+        "webp converter online"
+      ]
+    },
+    {
+      "id": "webp-to-png",
+      "name": "WebP to PNG Converter",
+      "category": "image",
+      "url": "https://yourhack.ai/webp-to-png",
+      "description": "Free WebP to PNG converter. Open a WebP image in your browser and save it as a standard PNG file in one click. Private, nothing is uploaded.",
+      "keywords": [
+        "webp to png",
+        "convert webp to png",
+        "webp converter",
+        "webp to png online",
+        "change webp to png"
+      ]
+    },
+    {
+      "id": "image-grayscale",
+      "name": "Grayscale Image Converter",
+      "category": "image",
+      "url": "https://yourhack.ai/image-grayscale",
+      "description": "Free grayscale image converter. Turn any photo black and white in your browser using true luminance values, then download the result. Private.",
+      "keywords": [
+        "grayscale image",
+        "black and white photo converter",
+        "make image black and white",
+        "grayscale converter online",
+        "desaturate image"
+      ]
+    },
+    {
+      "id": "pixelate-image",
+      "name": "Pixelate Image",
+      "category": "image",
+      "url": "https://yourhack.ai/pixelate-image",
+      "description": "Free pixelate image tool. Turn a photo into chunky pixels with an adjustable block size, great for censoring or retro art. Runs in your browser.",
+      "keywords": [
+        "pixelate image",
+        "pixelate photo online",
+        "pixel art from photo",
+        "censor image pixelate",
+        "mosaic image effect"
+      ]
+    },
+    {
+      "id": "blur-image",
+      "name": "Blur Image",
+      "category": "image",
+      "url": "https://yourhack.ai/blur-image",
+      "description": "Free blur image tool. Apply an adjustable blur to any photo in your browser and download the result. Useful for backgrounds and hiding detail.",
+      "keywords": [
+        "blur image",
+        "blur photo online",
+        "blur image background",
+        "blur tool",
+        "make image blurry"
+      ]
+    },
+    {
+      "id": "circle-crop-image",
+      "name": "Circle Crop Image",
+      "category": "image",
+      "url": "https://yourhack.ai/circle-crop-image",
+      "description": "Free circle crop tool. Cut a photo into a perfect circle with a transparent background and download it as a PNG. Ideal for profile pictures.",
+      "keywords": [
+        "circle crop image",
+        "crop image into circle",
+        "round profile picture maker",
+        "circular photo crop",
+        "circle avatar maker"
+      ]
+    },
+    {
+      "id": "add-border-to-image",
+      "name": "Add Border to Image",
+      "category": "image",
+      "url": "https://yourhack.ai/add-border-to-image",
+      "description": "Free tool to add a border to any image. Pick the border color and thickness, preview it live, and download the framed photo. Runs in your browser.",
+      "keywords": [
+        "add border to image",
+        "add border to photo online",
+        "image border tool",
+        "white border photo",
+        "frame image online"
+      ]
+    },
+    {
+      "id": "svg-to-png",
+      "name": "SVG to PNG Converter",
+      "category": "image",
+      "url": "https://yourhack.ai/svg-to-png",
+      "description": "Free SVG to PNG converter. Rasterize an SVG file at 1x to 8x scale and download a crisp PNG. Runs fully in your browser, nothing is uploaded.",
+      "keywords": [
+        "svg to png",
+        "convert svg to png",
+        "svg converter online",
+        "rasterize svg",
+        "svg to png high resolution"
+      ]
+    },
+    {
+      "id": "image-color-picker",
+      "name": "Image Color Picker",
+      "category": "image",
+      "url": "https://yourhack.ai/image-color-picker",
+      "description": "Free image color picker. Upload a photo, click any pixel to get its HEX and RGB values, and copy them in one click. Works in your browser.",
+      "keywords": [
+        "image color picker",
+        "pick color from image",
+        "eyedropper online",
+        "get hex color from image",
+        "color from photo"
       ]
     },
     {
@@ -13225,6 +13421,1742 @@
         "kelvin light sources",
         "color temperature photography",
         "white balance guide"
+      ]
+    },
+    {
+      "id": "telescope-magnification-calculator",
+      "name": "Telescope Magnification Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/telescope-magnification-calculator",
+      "description": "Free telescope magnification calculator. Divide telescope focal length by eyepiece focal length to find power, plus your maximum useful magnification from aperture.",
+      "keywords": [
+        "telescope magnification calculator",
+        "telescope power",
+        "eyepiece magnification",
+        "maximum useful magnification",
+        "telescope focal length"
+      ]
+    },
+    {
+      "id": "telescope-focal-ratio-calculator",
+      "name": "Telescope Focal Ratio Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/telescope-focal-ratio-calculator",
+      "description": "Free telescope focal ratio calculator. Find the f-number of a telescope from focal length and aperture, or solve for the focal length needed to hit a target f-ratio.",
+      "keywords": [
+        "telescope focal ratio calculator",
+        "telescope f number",
+        "focal ratio",
+        "telescope f ratio",
+        "astrophotography f number"
+      ]
+    },
+    {
+      "id": "telescope-resolving-power-calculator",
+      "name": "Telescope Resolving Power Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/telescope-resolving-power-calculator",
+      "description": "Free telescope resolving power calculator. Find the Dawes and Rayleigh limits in arcseconds from your aperture to judge the finest double star split your scope can show.",
+      "keywords": [
+        "telescope resolving power calculator",
+        "dawes limit",
+        "rayleigh limit",
+        "telescope resolution",
+        "double star split"
+      ]
+    },
+    {
+      "id": "telescope-exit-pupil-calculator",
+      "name": "Telescope Exit Pupil Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/telescope-exit-pupil-calculator",
+      "description": "Free telescope exit pupil calculator. Find the exit pupil in millimeters from aperture and magnification, or from eyepiece focal length and focal ratio, to match your eye.",
+      "keywords": [
+        "telescope exit pupil calculator",
+        "exit pupil",
+        "eyepiece exit pupil",
+        "telescope brightness",
+        "exit pupil millimeters"
+      ]
+    },
+    {
+      "id": "ccd-pixel-scale-calculator",
+      "name": "CCD Pixel Scale Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/ccd-pixel-scale-calculator",
+      "description": "Free CCD pixel scale calculator for astrophotography. Find arcseconds per pixel from your camera pixel size and telescope focal length to check if you are matched to seeing.",
+      "keywords": [
+        "ccd pixel scale calculator",
+        "arcseconds per pixel",
+        "astrophotography pixel scale",
+        "image scale",
+        "camera focal length sampling"
+      ]
+    },
+    {
+      "id": "angular-size-calculator",
+      "name": "Angular Size Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/angular-size-calculator",
+      "description": "Free angular size calculator. Find how large an object appears in the sky in degrees, arcminutes and arcseconds from its true diameter and distance, or solve for size.",
+      "keywords": [
+        "angular size calculator",
+        "apparent size",
+        "angular diameter",
+        "small angle formula",
+        "arcseconds calculator"
+      ]
+    },
+    {
+      "id": "escape-velocity-calculator",
+      "name": "Escape Velocity Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/escape-velocity-calculator",
+      "description": "Free escape velocity calculator. Find the speed needed to escape a planet, moon or star from its mass and radius using the square root of two GM over r.",
+      "keywords": [
+        "escape velocity calculator",
+        "escape speed",
+        "escape velocity formula",
+        "planet escape velocity",
+        "gravity escape speed"
+      ]
+    },
+    {
+      "id": "orbital-period-calculator",
+      "name": "Orbital Period Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/orbital-period-calculator",
+      "description": "Free orbital period calculator. Find how long a satellite or moon takes to orbit a body from the central mass and orbit radius using Newton form of Kepler third law.",
+      "keywords": [
+        "orbital period calculator",
+        "satellite orbital period",
+        "orbit time calculator",
+        "kepler orbital period",
+        "orbital velocity calculator"
+      ]
+    },
+    {
+      "id": "kepler-third-law-calculator",
+      "name": "Kepler Third Law Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/kepler-third-law-calculator",
+      "description": "Free Kepler third law calculator for the solar system. Convert between orbital period in years and semi-major axis in astronomical units where P squared equals a cubed.",
+      "keywords": [
+        "kepler third law calculator",
+        "kepler law calculator",
+        "period squared equals axis cubed",
+        "orbital distance from period",
+        "astronomical units orbit"
+      ]
+    },
+    {
+      "id": "schwarzschild-radius-calculator",
+      "name": "Schwarzschild Radius Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/schwarzschild-radius-calculator",
+      "description": "Free Schwarzschild radius calculator. Find the event horizon size of a black hole from its mass using two GM over c squared, in meters, kilometers and solar masses.",
+      "keywords": [
+        "schwarzschild radius calculator",
+        "black hole radius",
+        "event horizon calculator",
+        "schwarzschild radius formula",
+        "black hole size"
+      ]
+    },
+    {
+      "id": "redshift-velocity-calculator",
+      "name": "Redshift Velocity Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/redshift-velocity-calculator",
+      "description": "Free redshift velocity calculator. Convert a spectral redshift z into recession velocity using both the simple Doppler and relativistic formulas, in km/s and fraction of light.",
+      "keywords": [
+        "redshift velocity calculator",
+        "redshift to velocity",
+        "recession velocity",
+        "doppler redshift",
+        "relativistic redshift calculator"
+      ]
+    },
+    {
+      "id": "absolute-magnitude-calculator",
+      "name": "Absolute Magnitude Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/absolute-magnitude-calculator",
+      "description": "Free absolute magnitude calculator. Convert between apparent and absolute magnitude using the distance modulus, and solve for distance in parsecs and light years.",
+      "keywords": [
+        "absolute magnitude calculator",
+        "distance modulus calculator",
+        "apparent to absolute magnitude",
+        "stellar magnitude distance",
+        "magnitude parsec calculator"
+      ]
+    },
+    {
+      "id": "star-brightness-ratio-calculator",
+      "name": "Star Brightness Ratio Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/star-brightness-ratio-calculator",
+      "description": "Free star brightness ratio calculator. Convert a magnitude difference between two stars into how many times brighter one is using the Pogson ratio of 2.512.",
+      "keywords": [
+        "star brightness ratio calculator",
+        "magnitude to brightness",
+        "pogson ratio calculator",
+        "magnitude difference brightness",
+        "how much brighter star"
+      ]
+    },
+    {
+      "id": "light-travel-time-calculator",
+      "name": "Light Travel Time Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/light-travel-time-calculator",
+      "description": "Free light travel time calculator. Find how long light takes to cross a distance and convert light years, light minutes and light seconds into kilometers and miles.",
+      "keywords": [
+        "light travel time calculator",
+        "light year distance",
+        "how long does light take",
+        "light minute calculator",
+        "speed of light distance"
+      ]
+    },
+    {
+      "id": "parsec-light-year-converter",
+      "name": "Parsec to Light Year Converter",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/parsec-light-year-converter",
+      "description": "Free parsec to light year converter. Convert between parsecs, light years, astronomical units and kilometers for astronomical distances, both directions instantly.",
+      "keywords": [
+        "parsec to light year",
+        "light year to parsec",
+        "parsec converter",
+        "parsec to km",
+        "astronomical distance converter"
+      ]
+    },
+    {
+      "id": "limiting-magnitude-calculator",
+      "name": "Telescope Limiting Magnitude Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/limiting-magnitude-calculator",
+      "description": "Free limiting magnitude calculator. Estimate the faintest star your telescope can show from its aperture, so you know what deep sky targets are within reach.",
+      "keywords": [
+        "limiting magnitude calculator",
+        "telescope faintest star",
+        "telescope limiting magnitude",
+        "aperture magnitude limit",
+        "deep sky reach"
+      ]
+    },
+    {
+      "id": "planet-orbital-speed-calculator",
+      "name": "Planet Orbital Speed Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/planet-orbital-speed-calculator",
+      "description": "Free planet orbital speed calculator. Find how fast a planet moves around the Sun from its orbital radius using the vis-viva circular speed formula, in km/s and mph.",
+      "keywords": [
+        "planet orbital speed calculator",
+        "orbital velocity around sun",
+        "planet speed calculator",
+        "circular orbit speed",
+        "how fast planets move"
+      ]
+    },
+    {
+      "id": "surface-gravity-calculator",
+      "name": "Surface Gravity Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/surface-gravity-calculator",
+      "description": "Free surface gravity calculator. Find the gravitational acceleration at the surface of a planet, moon or star from its mass and radius using g equals GM over r squared.",
+      "keywords": [
+        "surface gravity calculator",
+        "gravitational acceleration",
+        "planet gravity calculator",
+        "g equals GM over r squared",
+        "surface gravity formula"
+      ]
+    },
+    {
+      "id": "wiens-law-calculator",
+      "name": "Wien Law Peak Wavelength Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/wiens-law-calculator",
+      "description": "Free Wien law calculator. Find the peak emission wavelength of a star or blackbody from its temperature, and see the color band it falls in, using the displacement law.",
+      "keywords": [
+        "wien law calculator",
+        "peak wavelength calculator",
+        "blackbody peak wavelength",
+        "star color temperature",
+        "wien displacement law"
+      ]
+    },
+    {
+      "id": "stellar-luminosity-calculator",
+      "name": "Stellar Luminosity Calculator",
+      "category": "astronomy",
+      "url": "https://yourhack.ai/stellar-luminosity-calculator",
+      "description": "Free stellar luminosity calculator. Find a star total energy output from its radius and surface temperature with the Stefan-Boltzmann law, in watts and solar luminosities.",
+      "keywords": [
+        "stellar luminosity calculator",
+        "stefan boltzmann calculator",
+        "star luminosity radius temperature",
+        "solar luminosity calculator",
+        "blackbody luminosity"
+      ]
+    },
+    {
+      "id": "baby-weight-percentile-calculator",
+      "name": "Baby Weight Percentile Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-weight-percentile-calculator",
+      "description": "Free baby weight percentile calculator using WHO growth standards. Enter age, sex and weight to see your infant weight-for-age percentile from birth to 24 months.",
+      "keywords": [
+        "baby weight percentile",
+        "infant weight for age",
+        "who weight percentile calculator",
+        "baby growth chart weight",
+        "weight percentile by month"
+      ]
+    },
+    {
+      "id": "baby-height-percentile-calculator",
+      "name": "Baby Height Percentile Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-height-percentile-calculator",
+      "description": "Free baby length and height percentile calculator using WHO growth standards. Enter age, sex and length to see your infant length-for-age percentile up to 24 months.",
+      "keywords": [
+        "baby height percentile",
+        "infant length for age",
+        "who length percentile",
+        "baby growth chart height",
+        "length percentile calculator"
+      ]
+    },
+    {
+      "id": "baby-head-circumference-percentile-calculator",
+      "name": "Baby Head Circumference Percentile Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-head-circumference-percentile-calculator",
+      "description": "Free baby head circumference percentile calculator using WHO growth standards. Enter age, sex and head circumference to see the head-circumference-for-age percentile.",
+      "keywords": [
+        "head circumference percentile",
+        "baby head size percentile",
+        "who head circumference calculator",
+        "infant head growth chart",
+        "head circumference for age"
+      ]
+    },
+    {
+      "id": "pregnancy-weight-gain-calculator",
+      "name": "Pregnancy Weight Gain Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/pregnancy-weight-gain-calculator",
+      "description": "Free pregnancy weight gain calculator based on IOM guidelines. Enter pre-pregnancy BMI and week to see your recommended total and weekly weight gain range.",
+      "keywords": [
+        "pregnancy weight gain calculator",
+        "recommended weight gain pregnancy",
+        "iom weight gain guidelines",
+        "how much weight gain pregnancy",
+        "weight gain by bmi pregnancy"
+      ]
+    },
+    {
+      "id": "conception-date-calculator",
+      "name": "Conception Date Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/conception-date-calculator",
+      "description": "Free conception date calculator. Estimate the likely date of conception from your last menstrual period, due date or an ultrasound based gestational age.",
+      "keywords": [
+        "conception date calculator",
+        "when did i conceive",
+        "estimate conception date",
+        "conception from due date",
+        "date of conception calculator"
+      ]
+    },
+    {
+      "id": "baby-feeding-amount-calculator",
+      "name": "Baby Feeding Amount Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-feeding-amount-calculator",
+      "description": "Free baby feeding amount calculator. Estimate how many ounces of formula or milk your baby needs per feeding and per day based on weight and age.",
+      "keywords": [
+        "baby feeding amount calculator",
+        "how many ounces baby feeding",
+        "formula amount by weight",
+        "baby milk intake calculator",
+        "ounces of formula per day"
+      ]
+    },
+    {
+      "id": "formula-mixing-calculator",
+      "name": "Baby Formula Mixing Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/formula-mixing-calculator",
+      "description": "Free baby formula mixing calculator. Work out how many scoops of powder and how much water you need for a target bottle size at the standard 1 scoop per 2 ounces ratio.",
+      "keywords": [
+        "formula mixing calculator",
+        "formula scoops per ounce",
+        "how much water for formula",
+        "baby formula ratio calculator",
+        "powder formula measurement"
+      ]
+    },
+    {
+      "id": "diaper-cost-calculator",
+      "name": "Diaper Cost Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/diaper-cost-calculator",
+      "description": "Free diaper cost calculator. Estimate how much you will spend on diapers per week, month and per year based on daily changes and price per diaper.",
+      "keywords": [
+        "diaper cost calculator",
+        "how much do diapers cost",
+        "diaper budget calculator",
+        "yearly diaper cost",
+        "cost of diapers per month"
+      ]
+    },
+    {
+      "id": "childcare-cost-calculator",
+      "name": "Childcare Cost Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/childcare-cost-calculator",
+      "description": "Free childcare cost calculator. Estimate weekly, monthly and yearly daycare or nanny costs and see how much of your take-home pay childcare uses.",
+      "keywords": [
+        "childcare cost calculator",
+        "daycare cost calculator",
+        "nanny cost calculator",
+        "cost of childcare per month",
+        "childcare budget calculator"
+      ]
+    },
+    {
+      "id": "baby-sleep-schedule-calculator",
+      "name": "Baby Sleep Schedule Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-sleep-schedule-calculator",
+      "description": "Free baby sleep schedule calculator. Enter your baby age and wake time to see age appropriate wake windows, suggested nap times and total daily sleep.",
+      "keywords": [
+        "baby sleep schedule calculator",
+        "baby wake windows by age",
+        "nap schedule calculator",
+        "infant sleep needs",
+        "baby nap time calculator"
+      ]
+    },
+    {
+      "id": "contraction-timer",
+      "name": "Contraction Timer",
+      "category": "baby",
+      "url": "https://yourhack.ai/contraction-timer",
+      "description": "Free contraction timer for labor. Tap to start and stop each contraction to track duration, frequency and the interval between contractions in real time.",
+      "keywords": [
+        "contraction timer",
+        "labor contraction timer",
+        "time contractions",
+        "contraction frequency tracker",
+        "how far apart contractions"
+      ]
+    },
+    {
+      "id": "baby-kick-counter",
+      "name": "Baby Kick Counter",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-kick-counter",
+      "description": "Free baby kick counter. Tap each time you feel your baby move and time how long it takes to reach ten kicks, a common fetal movement tracking method.",
+      "keywords": [
+        "baby kick counter",
+        "count the kicks",
+        "fetal movement counter",
+        "kick count timer",
+        "how long to feel 10 kicks"
+      ]
+    },
+    {
+      "id": "breast-milk-storage-guide",
+      "name": "Breast Milk Storage Guide",
+      "category": "baby",
+      "url": "https://yourhack.ai/breast-milk-storage-guide",
+      "description": "Free breast milk storage guide and calculator. See how long expressed breast milk stays safe at room temperature, in the fridge and in the freezer with dated use-by times.",
+      "keywords": [
+        "breast milk storage guide",
+        "how long breast milk lasts",
+        "breast milk storage times",
+        "expressed milk fridge freezer",
+        "breast milk use by calculator"
+      ]
+    },
+    {
+      "id": "baby-eye-color-predictor",
+      "name": "Baby Eye Color Predictor",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-eye-color-predictor",
+      "description": "Free baby eye color predictor. Enter both parents eye colors to see estimated odds your baby will have brown, blue or green eyes based on simplified genetics.",
+      "keywords": [
+        "baby eye color predictor",
+        "baby eye color calculator",
+        "eye color genetics",
+        "what eye color will my baby have",
+        "predict baby eye color"
+      ]
+    },
+    {
+      "id": "chinese-gender-predictor",
+      "name": "Chinese Gender Predictor",
+      "category": "baby",
+      "url": "https://yourhack.ai/chinese-gender-predictor",
+      "description": "Free Chinese gender predictor based on the traditional lunar birth chart. Enter mother birth date and conception month to see the chart prediction, for fun.",
+      "keywords": [
+        "chinese gender predictor",
+        "chinese gender chart",
+        "chinese birth chart calculator",
+        "baby gender prediction",
+        "lunar gender predictor"
+      ]
+    },
+    {
+      "id": "due-date-from-ultrasound-calculator",
+      "name": "Due Date From Ultrasound Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/due-date-from-ultrasound-calculator",
+      "description": "Free due date from ultrasound calculator. Enter the scan date and the measured gestational age in weeks and days to get your estimated due date and current progress.",
+      "keywords": [
+        "due date from ultrasound",
+        "ultrasound due date calculator",
+        "edd from scan",
+        "gestational age due date",
+        "due date from crl"
+      ]
+    },
+    {
+      "id": "baby-shower-budget-calculator",
+      "name": "Baby Shower Budget Calculator",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-shower-budget-calculator",
+      "description": "Free baby shower budget calculator. Enter guest count and per person spend on food, decor, favors and venue to see your total baby shower cost and cost per guest.",
+      "keywords": [
+        "baby shower budget calculator",
+        "baby shower cost calculator",
+        "baby shower planning budget",
+        "cost per guest baby shower",
+        "party budget calculator"
+      ]
+    },
+    {
+      "id": "adjusted-age-for-preemies-calculator",
+      "name": "Adjusted Age Calculator for Preemies",
+      "category": "baby",
+      "url": "https://yourhack.ai/adjusted-age-for-preemies-calculator",
+      "description": "Free corrected age calculator for premature babies. Enter birth date and weeks early to find your preemie adjusted age used for tracking milestones and growth.",
+      "keywords": [
+        "adjusted age calculator",
+        "corrected age preemie",
+        "premature baby age calculator",
+        "adjusted age for prematurity",
+        "corrected age milestones"
+      ]
+    },
+    {
+      "id": "baby-clothing-size-by-weight",
+      "name": "Baby Clothing Size by Weight",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-clothing-size-by-weight",
+      "description": "Free baby clothing size finder by weight and length. Enter your baby weight and height to see the matching newborn, 0-3, 3-6 and 6-9 month clothing size.",
+      "keywords": [
+        "baby clothing size by weight",
+        "baby clothes size chart",
+        "newborn size by weight",
+        "baby size guide",
+        "what size clothes for baby weight"
+      ]
+    },
+    {
+      "id": "baby-food-introduction-age-guide",
+      "name": "Baby Food Introduction Age Guide",
+      "category": "baby",
+      "url": "https://yourhack.ai/baby-food-introduction-age-guide",
+      "description": "Free baby food introduction guide. Enter your baby age in months to see which first foods and textures are commonly introduced at each stage of starting solids.",
+      "keywords": [
+        "baby food introduction age",
+        "when to start solids",
+        "first foods by age",
+        "starting solids guide",
+        "baby food stages by month"
+      ]
+    },
+    {
+      "id": "odds-converter",
+      "name": "Betting Odds Converter",
+      "category": "betting",
+      "url": "https://yourhack.ai/odds-converter",
+      "description": "Free betting odds converter. Convert American (moneyline), decimal, fractional and implied probability odds between all four formats instantly in your browser.",
+      "keywords": [
+        "odds converter",
+        "american to decimal odds",
+        "decimal to fractional odds",
+        "moneyline converter",
+        "implied probability from odds"
+      ]
+    },
+    {
+      "id": "implied-probability-calculator",
+      "name": "Implied Probability Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/implied-probability-calculator",
+      "description": "Free implied probability calculator for betting odds. Turn American, decimal or fractional odds into the break even win probability the price is offering.",
+      "keywords": [
+        "implied probability calculator",
+        "odds to probability",
+        "break even probability betting",
+        "american odds probability",
+        "decimal odds probability"
+      ]
+    },
+    {
+      "id": "parlay-calculator",
+      "name": "Parlay Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/parlay-calculator",
+      "description": "Free parlay calculator. Combine up to eight legs in American or decimal odds to get the total parlay odds, payout and combined win probability.",
+      "keywords": [
+        "parlay calculator",
+        "accumulator calculator",
+        "parlay odds calculator",
+        "parlay payout calculator",
+        "multi bet calculator"
+      ]
+    },
+    {
+      "id": "kelly-criterion-calculator",
+      "name": "Kelly Criterion Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/kelly-criterion-calculator",
+      "description": "Free Kelly criterion calculator. Find the optimal bet size as a percentage of your bankroll from your win probability and the decimal or American odds.",
+      "keywords": [
+        "kelly criterion calculator",
+        "kelly bet size",
+        "optimal bet size calculator",
+        "kelly formula betting",
+        "fractional kelly calculator"
+      ]
+    },
+    {
+      "id": "betting-expected-value-calculator",
+      "name": "Betting Expected Value Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/betting-expected-value-calculator",
+      "description": "Free betting expected value calculator. Enter your true win probability, the odds and your stake to see the EV in dollars and whether the bet is +EV.",
+      "keywords": [
+        "expected value calculator betting",
+        "ev calculator betting",
+        "positive ev bet",
+        "betting ev calculator",
+        "value bet calculator"
+      ]
+    },
+    {
+      "id": "arbitrage-betting-calculator",
+      "name": "Arbitrage Betting Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/arbitrage-betting-calculator",
+      "description": "Free arbitrage betting calculator. Enter two opposing odds to check if a sure bet exists, then get the optimal stake split and guaranteed profit.",
+      "keywords": [
+        "arbitrage betting calculator",
+        "sure bet calculator",
+        "arb calculator",
+        "two way arbitrage",
+        "guaranteed profit betting calculator"
+      ]
+    },
+    {
+      "id": "hedge-bet-calculator",
+      "name": "Hedge Bet Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/hedge-bet-calculator",
+      "description": "Free hedge bet calculator. Work out the exact stake to place on the other side to lock in a guaranteed profit or cut your loss on an open wager.",
+      "keywords": [
+        "hedge bet calculator",
+        "hedging calculator betting",
+        "lock in profit calculator",
+        "hedge stake calculator",
+        "cash out hedge calculator"
+      ]
+    },
+    {
+      "id": "moneyline-payout-calculator",
+      "name": "Moneyline Payout Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/moneyline-payout-calculator",
+      "description": "Free moneyline payout calculator. Enter American moneyline odds and your stake to see the exact profit and total return on a winning bet.",
+      "keywords": [
+        "moneyline payout calculator",
+        "moneyline calculator",
+        "american odds payout",
+        "sports bet payout calculator",
+        "moneyline profit calculator"
+      ]
+    },
+    {
+      "id": "over-under-payout-calculator",
+      "name": "Over Under Payout Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/over-under-payout-calculator",
+      "description": "Free over under payout calculator. Enter a total, the sides odds and your stake to see if a game total goes over or under and what your bet pays.",
+      "keywords": [
+        "over under calculator",
+        "totals bet calculator",
+        "over under payout calculator",
+        "game total bet calculator",
+        "push total calculator"
+      ]
+    },
+    {
+      "id": "bankroll-management-calculator",
+      "name": "Betting Bankroll Management Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/bankroll-management-calculator",
+      "description": "Free bankroll management calculator for bettors. Set your bankroll and unit percentage to size flat bets and see how many units survive a losing streak.",
+      "keywords": [
+        "bankroll management calculator",
+        "betting bankroll calculator",
+        "unit percentage calculator",
+        "flat betting calculator",
+        "bankroll risk calculator"
+      ]
+    },
+    {
+      "id": "vig-calculator",
+      "name": "Vig Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/vig-calculator",
+      "description": "Free vig calculator. Enter both sides of a two way market to find the sportsbook vig, the total overround and each sides fair no vig probability.",
+      "keywords": [
+        "vig calculator",
+        "vigorish calculator",
+        "juice calculator betting",
+        "overround calculator",
+        "sportsbook margin calculator"
+      ]
+    },
+    {
+      "id": "no-vig-fair-odds-calculator",
+      "name": "No Vig Fair Odds Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/no-vig-fair-odds-calculator",
+      "description": "Free no vig fair odds calculator. Strip the sportsbook margin from a two way market to get each sides true fair odds and no vig win probability.",
+      "keywords": [
+        "no vig calculator",
+        "fair odds calculator",
+        "no vig fair odds",
+        "remove vig from odds",
+        "true probability calculator betting"
+      ]
+    },
+    {
+      "id": "hold-percentage-calculator",
+      "name": "Sportsbook Hold Percentage Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/hold-percentage-calculator",
+      "description": "Free hold percentage calculator. Enter both sides of a market to find the sportsbook theoretical hold, the share of every dollar wagered the book keeps.",
+      "keywords": [
+        "hold percentage calculator",
+        "sportsbook hold calculator",
+        "theoretical hold betting",
+        "book hold percentage",
+        "market hold calculator"
+      ]
+    },
+    {
+      "id": "break-even-win-rate-calculator",
+      "name": "Break Even Win Rate Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/break-even-win-rate-calculator",
+      "description": "Free break even win rate calculator. Find the win percentage you need to break even at any odds, and see your ROI at a target win rate.",
+      "keywords": [
+        "break even win rate calculator",
+        "betting win rate calculator",
+        "break even percentage betting",
+        "win rate needed calculator",
+        "betting roi win rate"
+      ]
+    },
+    {
+      "id": "round-robin-bet-calculator",
+      "name": "Round Robin Bet Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/round-robin-bet-calculator",
+      "description": "Free round robin bet calculator. Turn your picks into every parlay combination of a chosen size, with total number of bets, cost and max payout.",
+      "keywords": [
+        "round robin calculator",
+        "round robin bet calculator",
+        "parlay combinations calculator",
+        "round robin betting",
+        "round robin payout calculator"
+      ]
+    },
+    {
+      "id": "teaser-calculator",
+      "name": "Teaser Bet Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/teaser-calculator",
+      "description": "Free teaser calculator. Move the spread or total in your favor across multiple legs, apply the teaser odds and see the adjusted lines and payout.",
+      "keywords": [
+        "teaser calculator",
+        "teaser bet calculator",
+        "football teaser calculator",
+        "teaser odds calculator",
+        "point teaser payout calculator"
+      ]
+    },
+    {
+      "id": "each-way-bet-calculator",
+      "name": "Each Way Bet Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/each-way-bet-calculator",
+      "description": "Free each way bet calculator. Enter fractional odds, place terms and stake to see the win and place returns of an each way horse racing or golf bet.",
+      "keywords": [
+        "each way calculator",
+        "each way bet calculator",
+        "ew bet calculator",
+        "horse racing each way calculator",
+        "place terms calculator"
+      ]
+    },
+    {
+      "id": "poker-pot-odds-calculator",
+      "name": "Poker Pot Odds Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/poker-pot-odds-calculator",
+      "description": "Free poker pot odds calculator. Enter the pot size and the bet to call to get your pot odds as a ratio and the break even equity you need to call.",
+      "keywords": [
+        "pot odds calculator",
+        "poker pot odds calculator",
+        "poker odds calculator",
+        "break even equity poker",
+        "call odds calculator"
+      ]
+    },
+    {
+      "id": "poker-hand-odds-calculator",
+      "name": "Poker Outs and Hand Odds Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/poker-hand-odds-calculator",
+      "description": "Free poker outs calculator. Enter your number of outs to get the odds of hitting your draw on the turn, the river and by the river in Texas Holdem.",
+      "keywords": [
+        "poker outs calculator",
+        "poker hand odds calculator",
+        "outs to odds calculator",
+        "texas holdem odds calculator",
+        "draw odds calculator"
+      ]
+    },
+    {
+      "id": "unit-size-calculator",
+      "name": "Betting Unit Size Calculator",
+      "category": "betting",
+      "url": "https://yourhack.ai/unit-size-calculator",
+      "description": "Free betting unit size calculator. Convert a bankroll and unit percentage into a dollar unit, then price any bet in units to keep staking consistent.",
+      "keywords": [
+        "betting unit calculator",
+        "unit size calculator",
+        "what is a betting unit",
+        "bet unit converter",
+        "units to dollars calculator"
+      ]
+    },
+    {
+      "id": "led-resistor-calculator",
+      "name": "LED Resistor Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/led-resistor-calculator",
+      "description": "Free LED series resistor calculator. Enter supply voltage, LED forward voltage and current to get the exact resistor value, nearest E12 size and power rating.",
+      "keywords": [
+        "led resistor calculator",
+        "led series resistor",
+        "current limiting resistor",
+        "led resistor value",
+        "resistor for led"
+      ]
+    },
+    {
+      "id": "led-series-parallel-calculator",
+      "name": "LED Series and Parallel Array Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/led-series-parallel-calculator",
+      "description": "Free LED array calculator. Design series and parallel LED strings for a given supply voltage, with per-string resistor values, total current and layout advice.",
+      "keywords": [
+        "led array calculator",
+        "led series parallel",
+        "led string calculator",
+        "multiple led resistor",
+        "led matrix calculator"
+      ]
+    },
+    {
+      "id": "resistors-in-parallel-calculator",
+      "name": "Resistors in Parallel Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/resistors-in-parallel-calculator",
+      "description": "Free parallel resistor calculator. Enter any number of resistor values and get the total equivalent resistance using the reciprocal parallel formula instantly.",
+      "keywords": [
+        "parallel resistor calculator",
+        "resistors in parallel",
+        "equivalent resistance",
+        "total resistance parallel",
+        "parallel resistance formula"
+      ]
+    },
+    {
+      "id": "resistors-in-series-calculator",
+      "name": "Resistors in Series Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/resistors-in-series-calculator",
+      "description": "Free series resistor calculator. Add any list of resistor values in ohms and get the total series resistance instantly, since series resistors simply add up.",
+      "keywords": [
+        "series resistor calculator",
+        "resistors in series",
+        "total series resistance",
+        "add resistors",
+        "series resistance formula"
+      ]
+    },
+    {
+      "id": "capacitors-in-parallel-series-calculator",
+      "name": "Capacitors in Parallel and Series Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/capacitors-in-parallel-series-calculator",
+      "description": "Free capacitor combination calculator. Enter capacitor values and choose series or parallel to get the total capacitance, using the correct add or reciprocal rule.",
+      "keywords": [
+        "capacitor calculator",
+        "capacitors in parallel",
+        "capacitors in series",
+        "total capacitance",
+        "capacitor combination"
+      ]
+    },
+    {
+      "id": "rc-time-constant-calculator",
+      "name": "RC Time Constant Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/rc-time-constant-calculator",
+      "description": "Free RC time constant calculator. Enter resistance and capacitance to get tau, the 63 percent charge time and the time to reach 5 tau or full charge.",
+      "keywords": [
+        "rc time constant",
+        "rc circuit calculator",
+        "tau calculator",
+        "capacitor charge time",
+        "rc time constant formula"
+      ]
+    },
+    {
+      "id": "lc-resonant-frequency-calculator",
+      "name": "LC Resonant Frequency Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/lc-resonant-frequency-calculator",
+      "description": "Free LC resonant frequency calculator. Enter inductance and capacitance to get the resonant frequency of a tuned tank circuit using f = 1 / (2 pi sqrt(LC)).",
+      "keywords": [
+        "lc resonant frequency",
+        "tank circuit calculator",
+        "resonance calculator",
+        "lc circuit frequency",
+        "lc oscillator calculator"
+      ]
+    },
+    {
+      "id": "ne555-timer-calculator",
+      "name": "NE555 Timer Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/ne555-timer-calculator",
+      "description": "Free 555 timer calculator for astable and monostable modes. Enter resistors and capacitor to get frequency, period, duty cycle or one shot pulse width.",
+      "keywords": [
+        "555 timer calculator",
+        "ne555 calculator",
+        "555 astable",
+        "555 monostable",
+        "555 frequency calculator"
+      ]
+    },
+    {
+      "id": "wire-gauge-awg-calculator",
+      "name": "Wire Gauge AWG Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/wire-gauge-awg-calculator",
+      "description": "Free AWG wire gauge calculator. Convert American Wire Gauge to diameter and cross section area, or find the gauge for a diameter, with metric and imperial output.",
+      "keywords": [
+        "awg calculator",
+        "wire gauge calculator",
+        "awg to mm",
+        "wire diameter calculator",
+        "american wire gauge"
+      ]
+    },
+    {
+      "id": "wire-resistance-calculator",
+      "name": "Wire Resistance Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/wire-resistance-calculator",
+      "description": "Free wire resistance calculator. Enter length, cross section area and material to get the total resistance of a conductor using resistivity, for copper or aluminium.",
+      "keywords": [
+        "wire resistance calculator",
+        "conductor resistance",
+        "copper wire resistance",
+        "resistivity calculator",
+        "cable resistance"
+      ]
+    },
+    {
+      "id": "voltage-drop-calculator",
+      "name": "Voltage Drop Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/voltage-drop-calculator",
+      "description": "Free voltage drop calculator for wire runs. Enter length, current, wire cross section and material to get the voltage lost and percentage drop over the cable.",
+      "keywords": [
+        "voltage drop calculator",
+        "wire voltage drop",
+        "cable voltage loss",
+        "voltage drop formula",
+        "dc voltage drop"
+      ]
+    },
+    {
+      "id": "battery-life-calculator",
+      "name": "Battery Life Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/battery-life-calculator",
+      "description": "Free battery life calculator. Enter battery capacity in mAh and device current draw to estimate how many hours or days your battery will last before recharge.",
+      "keywords": [
+        "battery life calculator",
+        "battery runtime calculator",
+        "mah to hours",
+        "battery duration calculator",
+        "how long will battery last"
+      ]
+    },
+    {
+      "id": "ampere-hour-calculator",
+      "name": "Ampere Hour and Watt Hour Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/ampere-hour-calculator",
+      "description": "Free amp hour calculator. Convert between ampere hours, watt hours and battery voltage, and work out energy capacity for any battery pack or cell.",
+      "keywords": [
+        "amp hour calculator",
+        "ah to wh calculator",
+        "watt hours calculator",
+        "battery capacity calculator",
+        "ampere hour to watt hour"
+      ]
+    },
+    {
+      "id": "inductor-reactance-calculator",
+      "name": "Inductive and Capacitive Reactance Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/inductor-reactance-calculator",
+      "description": "Free reactance calculator. Enter frequency and an inductor or capacitor value to get the inductive or capacitive reactance in ohms for AC circuit design.",
+      "keywords": [
+        "reactance calculator",
+        "inductive reactance",
+        "capacitive reactance",
+        "xl xc calculator",
+        "impedance calculator"
+      ]
+    },
+    {
+      "id": "transformer-turns-ratio-calculator",
+      "name": "Transformer Turns Ratio Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/transformer-turns-ratio-calculator",
+      "description": "Free transformer turns ratio calculator. Enter primary and secondary voltages or turns to get the turns ratio, output voltage and reflected current.",
+      "keywords": [
+        "transformer turns ratio",
+        "transformer calculator",
+        "primary secondary voltage",
+        "turns ratio calculator",
+        "transformer voltage calculator"
+      ]
+    },
+    {
+      "id": "pcb-trace-width-calculator",
+      "name": "PCB Trace Width Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/pcb-trace-width-calculator",
+      "description": "Free PCB trace width calculator. Enter current, copper thickness and allowed temperature rise to get the minimum trace width for internal or external layers.",
+      "keywords": [
+        "pcb trace width calculator",
+        "trace width calculator",
+        "copper trace current",
+        "ipc 2221 calculator",
+        "pcb current capacity"
+      ]
+    },
+    {
+      "id": "watts-to-amps-calculator",
+      "name": "Watts to Amps Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/watts-to-amps-calculator",
+      "description": "Free watts to amps calculator. Enter power in watts and voltage to get the current in amps for DC and single phase AC circuits, with power factor support.",
+      "keywords": [
+        "watts to amps",
+        "watts to amps calculator",
+        "convert watts to amps",
+        "power to current",
+        "w to a calculator"
+      ]
+    },
+    {
+      "id": "amps-to-watts-calculator",
+      "name": "Amps to Watts Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/amps-to-watts-calculator",
+      "description": "Free amps to watts calculator. Enter current in amps and voltage to get the power in watts for DC and single phase AC loads, with optional power factor.",
+      "keywords": [
+        "amps to watts",
+        "amps to watts calculator",
+        "convert amps to watts",
+        "current to power",
+        "a to w calculator"
+      ]
+    },
+    {
+      "id": "dbm-to-watts-converter",
+      "name": "dBm to Watts Converter",
+      "category": "electronics",
+      "url": "https://yourhack.ai/dbm-to-watts-converter",
+      "description": "Free dBm to watts converter. Convert between dBm, watts and milliwatts for RF and signal power, both directions, using the standard logarithmic relationship.",
+      "keywords": [
+        "dbm to watts",
+        "dbm to milliwatts",
+        "watts to dbm",
+        "dbm converter",
+        "rf power converter"
+      ]
+    },
+    {
+      "id": "solar-panel-battery-sizing-calculator",
+      "name": "Solar Panel and Battery Sizing Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/solar-panel-battery-sizing-calculator",
+      "description": "Free solar battery sizing calculator. Enter daily load, sun hours, system voltage and days of autonomy to size the solar array and battery bank you need.",
+      "keywords": [
+        "solar battery sizing",
+        "solar panel calculator",
+        "battery bank calculator",
+        "off grid solar calculator",
+        "solar system sizing"
+      ]
+    },
+    {
+      "id": "current-divider-calculator",
+      "name": "Current Divider Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/current-divider-calculator",
+      "description": "Free current divider calculator. Enter total current and two parallel resistors to find how the current splits between each branch using the current divider rule.",
+      "keywords": [
+        "current divider calculator",
+        "current divider rule",
+        "parallel current split",
+        "branch current calculator",
+        "current divider formula"
+      ]
+    },
+    {
+      "id": "capacitor-energy-calculator",
+      "name": "Capacitor Energy and Charge Calculator",
+      "category": "electronics",
+      "url": "https://yourhack.ai/capacitor-energy-calculator",
+      "description": "Free capacitor energy calculator. Enter capacitance and voltage to get the stored energy in joules and the charge in coulombs using E = half C V squared.",
+      "keywords": [
+        "capacitor energy calculator",
+        "energy stored in capacitor",
+        "capacitor charge calculator",
+        "joules capacitor",
+        "capacitor coulomb calculator"
+      ]
+    },
+    {
+      "id": "raised-bed-soil-volume-calculator",
+      "name": "Raised Bed Soil Volume Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/raised-bed-soil-volume-calculator",
+      "description": "Free raised bed soil calculator. Enter bed length, width and fill depth to get the cubic feet, cubic yards and bags of soil to fill a raised garden bed.",
+      "keywords": [
+        "raised bed soil calculator",
+        "how much soil for raised bed",
+        "raised garden bed soil volume",
+        "cubic feet of soil calculator",
+        "raised bed fill calculator"
+      ]
+    },
+    {
+      "id": "garden-bed-soil-mix-calculator",
+      "name": "Garden Bed Soil Mix Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/garden-bed-soil-mix-calculator",
+      "description": "Free garden soil mix calculator. Split a raised bed fill into compost, topsoil and aeration by percent to see the cubic feet of each ingredient for a balanced blend.",
+      "keywords": [
+        "garden soil mix calculator",
+        "raised bed soil recipe",
+        "compost topsoil ratio",
+        "soil blend calculator",
+        "mels mix calculator"
+      ]
+    },
+    {
+      "id": "seed-spacing-calculator",
+      "name": "Seed Spacing Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/seed-spacing-calculator",
+      "description": "Free seed spacing calculator. Enter bed size and the spacing between plants and rows to find how many plants fit and how many seeds to sow at your germination rate.",
+      "keywords": [
+        "seed spacing calculator",
+        "plant spacing per bed",
+        "how many plants fit calculator",
+        "row spacing calculator",
+        "seeds needed calculator"
+      ]
+    },
+    {
+      "id": "plant-spacing-triangular-calculator",
+      "name": "Triangular Plant Spacing Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/plant-spacing-triangular-calculator",
+      "description": "Free triangular plant spacing calculator. Compare offset staggered planting versus square grid to fit more plants in the same bed and see the extra plants gained.",
+      "keywords": [
+        "triangular plant spacing",
+        "staggered planting calculator",
+        "offset row spacing calculator",
+        "hexagonal plant spacing",
+        "plants per bed staggered"
+      ]
+    },
+    {
+      "id": "compost-carbon-nitrogen-ratio-calculator",
+      "name": "Compost Carbon to Nitrogen Ratio Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/compost-carbon-nitrogen-ratio-calculator",
+      "description": "Free compost C:N ratio calculator. Enter browns and greens by weight with their carbon to nitrogen ratios to blend a compost pile near the ideal 30:1 target.",
+      "keywords": [
+        "compost ratio calculator",
+        "carbon to nitrogen ratio",
+        "c:n ratio compost",
+        "browns to greens ratio",
+        "compost pile calculator"
+      ]
+    },
+    {
+      "id": "plant-watering-amount-calculator",
+      "name": "Plant Watering Amount Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/plant-watering-amount-calculator",
+      "description": "Free plant watering calculator. Enter your garden bed area and target inches of water per week to find gallons needed and how long to run a hose or sprinkler.",
+      "keywords": [
+        "plant watering calculator",
+        "how much water for garden",
+        "garden watering gallons",
+        "inches of water per week",
+        "watering time calculator"
+      ]
+    },
+    {
+      "id": "greenhouse-heater-size-calculator",
+      "name": "Greenhouse Heater Size Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/greenhouse-heater-size-calculator",
+      "description": "Free greenhouse heating calculator. Enter greenhouse dimensions, inside and outside temperatures to find the BTU per hour and watts of heater you need to hold your target.",
+      "keywords": [
+        "greenhouse heater calculator",
+        "greenhouse heating btu",
+        "greenhouse heater size",
+        "how much heat for greenhouse",
+        "greenhouse watts calculator"
+      ]
+    },
+    {
+      "id": "square-foot-garden-planner",
+      "name": "Square Foot Garden Planner",
+      "category": "gardening",
+      "url": "https://yourhack.ai/square-foot-garden-planner",
+      "description": "Free square foot garden planner. Enter your grid of one foot squares and a crop to see plants per square and total plants for a Mel Bartholomew style raised bed.",
+      "keywords": [
+        "square foot garden planner",
+        "square foot gardening chart",
+        "plants per square foot grid",
+        "sfg planner",
+        "raised bed grid planner"
+      ]
+    },
+    {
+      "id": "fertilizer-npk-rate-calculator",
+      "name": "Fertilizer NPK Rate Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/fertilizer-npk-rate-calculator",
+      "description": "Free fertilizer NPK calculator. Enter your bag analysis, target pounds of nitrogen per 1000 sq ft and area to find pounds of product to apply and the P and K it supplies.",
+      "keywords": [
+        "fertilizer npk calculator",
+        "pounds of nitrogen per 1000 sq ft",
+        "fertilizer rate calculator",
+        "npk application calculator",
+        "how much fertilizer to apply"
+      ]
+    },
+    {
+      "id": "seed-starting-date-calculator",
+      "name": "Seed Starting Date Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/seed-starting-date-calculator",
+      "description": "Free seed starting calculator. Enter your last spring frost date and weeks to start indoors to find the exact sow date and transplant date for your seedlings.",
+      "keywords": [
+        "seed starting date calculator",
+        "when to start seeds indoors",
+        "sow indoors before last frost",
+        "seed starting schedule",
+        "indoor seed sowing dates"
+      ]
+    },
+    {
+      "id": "frost-free-planting-date-calculator",
+      "name": "Frost Free Planting Date Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/frost-free-planting-date-calculator",
+      "description": "Free frost date planting calculator. Enter your last spring and first fall frost dates to find the safe planting window and the length of your growing season in days.",
+      "keywords": [
+        "frost free date calculator",
+        "growing season length calculator",
+        "safe planting window",
+        "last frost first frost",
+        "days between frost dates"
+      ]
+    },
+    {
+      "id": "harvest-yield-estimator",
+      "name": "Vegetable Harvest Yield Estimator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/harvest-yield-estimator",
+      "description": "Free vegetable yield estimator. Enter number of plants and expected yield per plant to estimate total harvest in pounds and pounds per square foot of garden bed.",
+      "keywords": [
+        "vegetable yield calculator",
+        "harvest estimator",
+        "yield per plant calculator",
+        "garden yield pounds",
+        "crop yield per square foot"
+      ]
+    },
+    {
+      "id": "potting-soil-bag-calculator",
+      "name": "Potting Soil Bag Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/potting-soil-bag-calculator",
+      "description": "Free potting soil calculator for containers. Enter pot size and shape and how many pots to fill to find total quarts and bags of potting mix you need.",
+      "keywords": [
+        "potting soil calculator",
+        "how much potting mix for pot",
+        "container soil calculator",
+        "potting soil quarts calculator",
+        "bags of potting mix"
+      ]
+    },
+    {
+      "id": "rain-barrel-capacity-calculator",
+      "name": "Rain Barrel Capacity Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/rain-barrel-capacity-calculator",
+      "description": "Free rain barrel calculator. Enter your roof catchment area and rainfall to see the gallons a storm collects and how many barrels it takes to store the runoff.",
+      "keywords": [
+        "rain barrel calculator",
+        "rainwater harvesting calculator",
+        "roof runoff gallons",
+        "how much rain can i collect",
+        "rainwater catchment calculator"
+      ]
+    },
+    {
+      "id": "drip-irrigation-flow-calculator",
+      "name": "Drip Irrigation Flow Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/drip-irrigation-flow-calculator",
+      "description": "Free drip irrigation calculator. Enter number of emitters and their flow rate to find total gallons per hour, run time for a watering goal and daily water use.",
+      "keywords": [
+        "drip irrigation calculator",
+        "emitter flow rate calculator",
+        "drip system gph calculator",
+        "drip run time calculator",
+        "gallons per hour drip"
+      ]
+    },
+    {
+      "id": "soil-ph-amendment-calculator",
+      "name": "Soil pH Amendment Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/soil-ph-amendment-calculator",
+      "description": "Free soil pH amendment calculator. Enter current and target soil pH and bed area to estimate pounds of lime to raise pH or elemental sulfur to lower it.",
+      "keywords": [
+        "soil ph calculator",
+        "lime application calculator",
+        "sulfur to lower ph",
+        "how much lime for soil",
+        "adjust soil ph calculator"
+      ]
+    },
+    {
+      "id": "tree-spacing-calculator",
+      "name": "Tree Spacing Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/tree-spacing-calculator",
+      "description": "Free tree spacing calculator. Enter your plot size and the spacing between trees and rows to find how many fruit or shade trees fit and the trees per acre.",
+      "keywords": [
+        "tree spacing calculator",
+        "trees per acre calculator",
+        "orchard spacing calculator",
+        "how many trees to plant",
+        "fruit tree spacing"
+      ]
+    },
+    {
+      "id": "cover-crop-seed-rate-calculator",
+      "name": "Cover Crop Seed Rate Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/cover-crop-seed-rate-calculator",
+      "description": "Free cover crop seed calculator. Enter your plot area and the seeding rate in pounds per acre or per 1000 sq ft to find the pounds of cover crop seed to buy.",
+      "keywords": [
+        "cover crop seed calculator",
+        "seeding rate per acre calculator",
+        "cover crop seed rate",
+        "pounds of seed per acre",
+        "green manure seed calculator"
+      ]
+    },
+    {
+      "id": "garden-fence-material-calculator",
+      "name": "Garden Fence Material Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/garden-fence-material-calculator",
+      "description": "Free garden fence calculator. Enter the perimeter of your garden and post spacing to find the number of posts, gates and total fencing length you need to buy.",
+      "keywords": [
+        "garden fence calculator",
+        "fence post calculator",
+        "how many fence posts",
+        "fencing material calculator",
+        "garden fencing length"
+      ]
+    },
+    {
+      "id": "grow-light-coverage-calculator",
+      "name": "Grow Light Coverage Calculator",
+      "category": "gardening",
+      "url": "https://yourhack.ai/grow-light-coverage-calculator",
+      "description": "Free grow light calculator. Enter your grow area and target PPFD or watts per square foot to estimate the light wattage and coverage for seedlings and indoor plants.",
+      "keywords": [
+        "grow light calculator",
+        "watts per square foot grow",
+        "led grow light coverage",
+        "ppfd calculator",
+        "indoor grow light wattage"
+      ]
+    },
+    {
+      "id": "trip-cost-splitter",
+      "name": "Trip Cost Splitter",
+      "category": "travel",
+      "url": "https://yourhack.ai/trip-cost-splitter",
+      "description": "Free trip cost splitter. Enter a total trip cost and number of travelers to see the fair per-person share instantly, all in your browser.",
+      "keywords": [
+        "trip cost splitter",
+        "split travel cost",
+        "cost per person trip",
+        "divide trip expenses",
+        "shared trip calculator"
+      ]
+    },
+    {
+      "id": "group-trip-expense-splitter",
+      "name": "Group Trip Expense Splitter",
+      "category": "travel",
+      "url": "https://yourhack.ai/group-trip-expense-splitter",
+      "description": "Free group trip expense splitter. Enter who paid what, then see who owes whom and the fewest transfers to settle up. Runs in your browser.",
+      "keywords": [
+        "group trip expense splitter",
+        "who owes whom",
+        "settle up travel",
+        "split group expenses",
+        "trip settlement calculator"
+      ]
+    },
+    {
+      "id": "jet-lag-recovery-calculator",
+      "name": "Jet Lag Recovery Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/jet-lag-recovery-calculator",
+      "description": "Free jet lag recovery calculator. Estimate how many days your body needs to adjust after crossing time zones and get direction-based tips.",
+      "keywords": [
+        "jet lag recovery calculator",
+        "jet lag days",
+        "time zone adjustment",
+        "jet lag estimate",
+        "travel recovery time"
+      ]
+    },
+    {
+      "id": "layover-time-calculator",
+      "name": "Layover Time Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/layover-time-calculator",
+      "description": "Free layover time calculator. Enter your arrival and next departure times to see connection minutes and whether it is a safe layover.",
+      "keywords": [
+        "layover time calculator",
+        "connection time",
+        "layover duration",
+        "minimum connection time",
+        "flight layover"
+      ]
+    },
+    {
+      "id": "flight-duration-calculator",
+      "name": "Flight Duration Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/flight-duration-calculator",
+      "description": "Free flight duration calculator. Estimate air time from great circle distance and cruise speed, plus taxi and climb buffer for a realistic gate time.",
+      "keywords": [
+        "flight duration calculator",
+        "flight time estimate",
+        "air time calculator",
+        "cruise speed flight time",
+        "estimated flight time"
+      ]
+    },
+    {
+      "id": "travel-budget-calculator",
+      "name": "Travel Budget Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/travel-budget-calculator",
+      "description": "Free travel budget calculator. Add flights, lodging, food, transport and activities to get your total trip cost and daily spend instantly.",
+      "keywords": [
+        "travel budget calculator",
+        "trip budget planner",
+        "vacation cost calculator",
+        "daily travel spend",
+        "trip cost estimate"
+      ]
+    },
+    {
+      "id": "per-diem-calculator",
+      "name": "Per Diem Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/per-diem-calculator",
+      "description": "Free per diem calculator. Enter your daily meal and lodging rates and travel days to total your business trip per diem, with a half-day rule.",
+      "keywords": [
+        "per diem calculator",
+        "daily allowance calculator",
+        "business trip per diem",
+        "meals and incidentals",
+        "travel per diem total"
+      ]
+    },
+    {
+      "id": "packing-list-generator",
+      "name": "Packing List Generator",
+      "category": "travel",
+      "url": "https://yourhack.ai/packing-list-generator",
+      "description": "Free packing list generator. Pick trip length, climate and trip type to build a custom checklist you can copy, all in your browser.",
+      "keywords": [
+        "packing list generator",
+        "travel packing checklist",
+        "trip packing list",
+        "what to pack",
+        "vacation checklist maker"
+      ]
+    },
+    {
+      "id": "baggage-fee-calculator",
+      "name": "Baggage Fee Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/baggage-fee-calculator",
+      "description": "Free baggage fee calculator. Add checked bags, overweight and oversize charges per direction to total your airline baggage cost for the trip.",
+      "keywords": [
+        "baggage fee calculator",
+        "checked bag fee",
+        "airline baggage cost",
+        "overweight bag fee",
+        "luggage fee total"
+      ]
+    },
+    {
+      "id": "mileage-reimbursement-calculator",
+      "name": "Mileage Reimbursement Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/mileage-reimbursement-calculator",
+      "description": "Free mileage reimbursement calculator. Multiply business miles by your per-mile rate to get the amount owed, with a round-trip option.",
+      "keywords": [
+        "mileage reimbursement calculator",
+        "business miles rate",
+        "mileage claim calculator",
+        "per mile reimbursement",
+        "travel mileage pay"
+      ]
+    },
+    {
+      "id": "frequent-flyer-mile-value-calculator",
+      "name": "Frequent Flyer Mile Value Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/frequent-flyer-mile-value-calculator",
+      "description": "Free frequent flyer mile value calculator. Compare a cash fare to points plus fees to see cents per point and whether redeeming is worth it.",
+      "keywords": [
+        "frequent flyer mile value calculator",
+        "cents per point",
+        "points value calculator",
+        "award redemption value",
+        "miles worth calculator"
+      ]
+    },
+    {
+      "id": "hotel-cost-per-night-splitter",
+      "name": "Hotel Cost Per Night Splitter",
+      "category": "travel",
+      "url": "https://yourhack.ai/hotel-cost-per-night-splitter",
+      "description": "Free hotel cost per night splitter. Enter the nightly rate, taxes, nights and guests to get each guest per-night and total room share.",
+      "keywords": [
+        "hotel cost per night splitter",
+        "split hotel room cost",
+        "room cost per person",
+        "divide hotel bill",
+        "shared room calculator"
+      ]
+    },
+    {
+      "id": "road-trip-total-cost-calculator",
+      "name": "Road Trip Total Cost Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/road-trip-total-cost-calculator",
+      "description": "Free road trip total cost calculator. Combine fuel, lodging, food and tolls into one all-in trip cost and a per-person share instantly.",
+      "keywords": [
+        "road trip total cost calculator",
+        "road trip budget",
+        "all in road trip cost",
+        "road trip expenses",
+        "drive vacation cost"
+      ]
+    },
+    {
+      "id": "travel-insurance-estimator",
+      "name": "Travel Insurance Cost Estimator",
+      "category": "travel",
+      "url": "https://yourhack.ai/travel-insurance-estimator",
+      "description": "Free travel insurance cost estimator. Enter trip cost, traveler age and trip days to estimate a rough premium range before you shop for quotes.",
+      "keywords": [
+        "travel insurance estimator",
+        "travel insurance cost",
+        "trip insurance premium",
+        "insurance percentage of trip",
+        "travel cover estimate"
+      ]
+    },
+    {
+      "id": "currency-denomination-planner",
+      "name": "Currency Denomination Planner",
+      "category": "travel",
+      "url": "https://yourhack.ai/currency-denomination-planner",
+      "description": "Free currency denomination planner. Enter a cash amount to see the fewest bills and coins to carry, great for withdrawing money before a trip.",
+      "keywords": [
+        "currency denomination planner",
+        "cash breakdown calculator",
+        "bills and coins calculator",
+        "money denomination",
+        "change breakdown"
+      ]
+    },
+    {
+      "id": "passport-photo-size-reference",
+      "name": "Passport Photo Size Reference",
+      "category": "travel",
+      "url": "https://yourhack.ai/passport-photo-size-reference",
+      "description": "Free passport photo size reference. Look up official photo dimensions in mm and inches for major countries before you take or print a photo.",
+      "keywords": [
+        "passport photo size",
+        "passport photo dimensions",
+        "visa photo size",
+        "id photo size reference",
+        "passport picture size"
+      ]
+    },
+    {
+      "id": "visa-free-stay-tracker",
+      "name": "Schengen 90/180 Day Tracker",
+      "category": "travel",
+      "url": "https://yourhack.ai/visa-free-stay-tracker",
+      "description": "Free Schengen 90/180 day calculator. Enter your entry dates to see days used in the rolling 180 day window and how many stay days remain.",
+      "keywords": [
+        "schengen 90 180 calculator",
+        "visa free stay tracker",
+        "schengen day counter",
+        "90 days in 180",
+        "days remaining schengen"
+      ]
+    },
+    {
+      "id": "walking-tour-time-estimator",
+      "name": "Walking Tour Time Estimator",
+      "category": "travel",
+      "url": "https://yourhack.ai/walking-tour-time-estimator",
+      "description": "Free walking tour time estimator. Enter distance, walking pace and stop time to estimate how long a self-guided walking tour will take.",
+      "keywords": [
+        "walking tour time estimator",
+        "walking time calculator",
+        "sightseeing time estimate",
+        "walking distance time",
+        "tour duration calculator"
+      ]
+    },
+    {
+      "id": "drive-time-with-stops-calculator",
+      "name": "Drive Time With Stops Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/drive-time-with-stops-calculator",
+      "description": "Free drive time with stops calculator. Add driving distance, speed and rest breaks to estimate real arrival time on a long road trip.",
+      "keywords": [
+        "drive time with stops calculator",
+        "road trip time calculator",
+        "driving time with breaks",
+        "estimated arrival time",
+        "travel time with rest stops"
+      ]
+    },
+    {
+      "id": "travel-days-countdown",
+      "name": "Travel Days Countdown",
+      "category": "travel",
+      "url": "https://yourhack.ai/travel-days-countdown",
+      "description": "Free travel days countdown. Enter your departure date to see how many days, weeks and weekends are left until your trip begins.",
+      "keywords": [
+        "travel days countdown",
+        "days until trip",
+        "vacation countdown",
+        "countdown to trip",
+        "days until vacation"
+      ]
+    },
+    {
+      "id": "time-to-leave-for-airport-calculator",
+      "name": "Time to Leave for Airport Calculator",
+      "category": "travel",
+      "url": "https://yourhack.ai/time-to-leave-for-airport-calculator",
+      "description": "Free time to leave for airport calculator. Work back from your flight using check-in, security and drive time to get the exact leave-by time.",
+      "keywords": [
+        "time to leave for airport calculator",
+        "when to leave for airport",
+        "airport arrival time",
+        "leave by time flight",
+        "airport buffer calculator"
+      ]
+    },
+    {
+      "id": "tip-by-country-reference",
+      "name": "Tipping by Country Reference",
+      "category": "travel",
+      "url": "https://yourhack.ai/tip-by-country-reference",
+      "description": "Free tipping by country reference. Look up customary restaurant, taxi and hotel tipping norms for popular destinations before you travel.",
+      "keywords": [
+        "tipping by country",
+        "tipping guide travel",
+        "gratuity by country",
+        "how much to tip abroad",
+        "tipping customs reference"
       ]
     }
   ]

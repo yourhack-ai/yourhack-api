@@ -1,6 +1,6 @@
 # yourhack.ai — Free Online Tools API & Catalog
 
-**943 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
+**1081 free, fast, privacy-friendly web tools. No sign-up, no ads, nothing uploaded.** Every tool runs 100% in your browser. This repo is the public, machine-readable catalog and API for [yourhack.ai](https://yourhack.ai).
 
 - 🌐 **Site:** https://yourhack.ai
 - 📚 **All tools:** https://yourhack.ai/all
@@ -69,11 +69,11 @@ See [`clients/python`](./clients/python).
 | Developer | 57 | [developer](https://yourhack.ai/c/developer) |
 | Calculators | 68 | [calculators](https://yourhack.ai/c/calculators) |
 | Random & Fun | 39 | [random](https://yourhack.ai/c/random) |
-| Converters | 79 | [converters](https://yourhack.ai/c/converters) |
+| Converters | 81 | [converters](https://yourhack.ai/c/converters) |
 | Color | 15 | [color](https://yourhack.ai/c/color) |
-| Generators | 22 | [generators](https://yourhack.ai/c/generators) |
-| Productivity | 20 | [productivity](https://yourhack.ai/c/productivity) |
-| Image | 10 | [image](https://yourhack.ai/c/image) |
+| Generators | 23 | [generators](https://yourhack.ai/c/generators) |
+| Productivity | 22 | [productivity](https://yourhack.ai/c/productivity) |
+| Image | 19 | [image](https://yourhack.ai/c/image) |
 | PDF | 10 | [pdf](https://yourhack.ai/c/pdf) |
 | Crypto | 27 | [crypto](https://yourhack.ai/c/crypto) |
 | Date & Time | 27 | [datetime](https://yourhack.ai/c/datetime) |
@@ -100,6 +100,12 @@ See [`clients/python`](./clients/python).
 | Pets | 20 | [pets](https://yourhack.ai/c/pets) |
 | Fashion & Sizing | 21 | [fashion](https://yourhack.ai/c/fashion) |
 | Photography | 22 | [photography](https://yourhack.ai/c/photography) |
+| Astronomy | 20 | [astronomy](https://yourhack.ai/c/astronomy) |
+| Baby & Pregnancy | 20 | [baby](https://yourhack.ai/c/baby) |
+| Betting & Odds | 20 | [betting](https://yourhack.ai/c/betting) |
+| Electronics | 22 | [electronics](https://yourhack.ai/c/electronics) |
+| Gardening | 20 | [gardening](https://yourhack.ai/c/gardening) |
+| Travel | 22 | [travel](https://yourhack.ai/c/travel) |
 
 ## All tools
 
@@ -336,6 +342,7 @@ Every tool below is free and runs entirely in your browser.
 - [Acres to Hectares Converter](https://yourhack.ai/acres-to-hectares): Free acres to hectares converter. Convert acres to hectares instantly (1 acre = 0.404686 hectares). Live result as you type, no sign-up, private.
 - [Angle Converter](https://yourhack.ai/angle-converter): Free angle converter. Convert between degrees, radians, gradians, arcminutes, arcseconds, and full turns instantly with exact factors, live as you type.
 - [Area Converter](https://yourhack.ai/area-converter): Free area converter. Convert between square meters, square feet, square kilometers, acres, hectares, square miles, and more instantly as you type.
+- [ATM to PSI Converter](https://yourhack.ai/atm-to-psi): Free atm to psi converter. Convert atmospheres to pounds per square inch instantly (1 atm = 14.6959 psi). Live result as you type, no sign-up.
 - [Bar to PSI Converter](https://yourhack.ai/bar-to-psi): Free bar to psi converter. Convert bar to pounds per square inch instantly (1 bar = 14.5038 psi). Live result as you type, no sign-up, private.
 - [Binary to Decimal Converter](https://yourhack.ai/binary-to-decimal): Free binary to decimal converter. Convert binary numbers to decimal instantly with input validation, updating live as you type. No sign-up, private.
 - [Bits to Bytes Converter](https://yourhack.ai/bits-to-bytes): Free bits to bytes converter. Convert bits to bytes instantly using the exact ratio (1 byte = 8 bits). Live result in your browser as you type.
@@ -353,6 +360,7 @@ Every tool below is free and runs entirely in your browser.
 - [Fahrenheit to Celsius Converter](https://yourhack.ai/fahrenheit-to-celsius): Free Fahrenheit to Celsius converter. Convert F to C instantly using the correct formula (C = (F - 32) x 5/9). Live result as you type, private.
 - [Fahrenheit to Kelvin Converter](https://yourhack.ai/fahrenheit-to-kelvin): Free Fahrenheit to Kelvin converter. Convert F to K instantly using the correct formula (K = (F - 32) x 5/9 + 273.15). Live result in your browser as you type.
 - [Feet to CM Converter](https://yourhack.ai/feet-to-cm): Free feet to cm converter. Convert feet to centimeters instantly using the exact factor (1 ft = 30.48 cm). Live result as you type, no sign-up.
+- [Feet to Meters Converter](https://yourhack.ai/feet-to-meters): Free feet to meters converter. Convert feet to meters instantly using the exact factor (1 ft = 0.3048 m). Live result as you type, private.
 - [Fluid Ounces to ML Converter](https://yourhack.ai/fl-oz-to-ml): Free fl oz to ml converter. Convert US fluid ounces to milliliters instantly (1 fl oz = 29.5735 mL). Live result as you type, no sign-up, private.
 - [Frequency Converter](https://yourhack.ai/frequency-converter): Free frequency converter. Convert between hertz, kilohertz, megahertz, gigahertz, and RPM instantly with exact factors, updating live as you type.
 - [Fuel Economy Converter](https://yourhack.ai/fuel-economy-converter): Free fuel economy converter. Convert between miles per gallon (US and UK) and liters per 100 km using the correct reciprocal formula, live as you type.
@@ -438,6 +446,7 @@ Every tool below is free and runs entirely in your browser.
 - [Business and Brand Name Generator](https://yourhack.ai/business-name-generator): Free business name generator. Enter a keyword and instantly get brandable company and product name ideas using prefixes, suffixes and blends. Copy any idea.
 - [Color Hex Generator](https://yourhack.ai/color-hex-generator): Free color hex generator. Generate random hex color codes one at a time or in bulk, each shown with a live swatch and copyable with a single click.
 - [Credit Card Test Number Generator](https://yourhack.ai/credit-card-test-number-generator): Free Luhn-valid card test number generator. Create fake numbers that pass the Luhn check for testing payment forms. For testing only, not real cards.
+- [Emoji Favicon Generator](https://yourhack.ai/emoji-favicon-generator): Free emoji favicon generator. Turn any emoji into favicon PNGs at 16, 32, 64 and 180 pixels and download them, with the HTML tag to use them.
 - [Excuse Generator](https://yourhack.ai/excuse-generator): Free excuse generator. Get a random, lighthearted excuse for being late, skipping an event or missing a deadline. Pick a category and copy the result.
 - [Fake Data Generator](https://yourhack.ai/fake-data-generator): Free fake data generator. Create dummy user profiles with names, emails, addresses and phone numbers for testing and mockups, exportable as text or JSON.
 - [Gift Idea Generator](https://yourhack.ai/gift-idea-generator): Free gift idea generator. Stuck on what to give? Pick a recipient and interest and get random gift suggestions to spark ideas, with one-click copy.
@@ -466,8 +475,10 @@ Every tool below is free and runs entirely in your browser.
 - [Meeting Cost Calculator](https://yourhack.ai/meeting-cost-calculator): Free meeting cost calculator. Enter number of people, average hourly rate and duration to see what a meeting really costs, ticking up live.
 - [Microphone Test](https://yourhack.ai/mic-test): Free online microphone test. See a live level meter react to your voice to confirm your mic works. No recording, audio stays in your browser.
 - [Minute Timer](https://yourhack.ai/minute-timer): Free online minute timer. Set minutes and seconds, start the count and get an alarm when time is up. Simple, private, works with no install.
+- [Online Drawing Board](https://yourhack.ai/drawing-board): Free online drawing board. Sketch with a pen and eraser, pick colors and sizes, then download your drawing as a PNG. No sign-up, no upload.
 - [Online Notepad](https://yourhack.ai/online-notepad): Free online notepad with autosave. Jot notes in your browser and they are saved locally as you type. No account, works offline, fully private.
 - [Online Ruler](https://yourhack.ai/online-ruler): Free on-screen ruler in cm and inches. Measure small objects against your display. Includes a calibration slider so your DPI matches real size.
+- [Online Signature Maker](https://yourhack.ai/signature-maker): Free online signature maker. Draw your signature with a mouse, finger or stylus and download it as a transparent PNG. Private, in your browser.
 - [Pomodoro Timer](https://yourhack.ai/pomodoro-timer): Free Pomodoro timer. Focus for 25 minutes, then take a 5 minute break, on repeat. Track completed sessions and stay in flow, all in browser.
 - [Reaction Time Test](https://yourhack.ai/reaction-time-test): Free reaction time test. Click as soon as the box turns green and see your reaction time in milliseconds. Track your best over several tries.
 - [Screen Resolution Checker](https://yourhack.ai/screen-resolution-checker): Free screen resolution checker. See your screen size, browser viewport, pixel ratio and color depth instantly. Live updates as you resize.
@@ -481,16 +492,25 @@ Every tool below is free and runs entirely in your browser.
 
 ### Image
 
+- [Add Border to Image](https://yourhack.ai/add-border-to-image): Free tool to add a border to any image. Pick the border color and thickness, preview it live, and download the framed photo. Runs in your browser.
 - [Add Text to Image](https://yourhack.ai/watermark-image): Free online tool to add text or a watermark to an image. Set the words, size, color, opacity and position, then download the labeled picture.
+- [Blur Image](https://yourhack.ai/blur-image): Free blur image tool. Apply an adjustable blur to any photo in your browser and download the result. Useful for backgrounds and hiding detail.
+- [Circle Crop Image](https://yourhack.ai/circle-crop-image): Free circle crop tool. Cut a photo into a perfect circle with a transparent background and download it as a PNG. Ideal for profile pictures.
+- [Grayscale Image Converter](https://yourhack.ai/image-grayscale): Free grayscale image converter. Turn any photo black and white in your browser using true luminance values, then download the result. Private.
 - [Image Color Extractor](https://yourhack.ai/image-color-extractor): Free image color extractor. Upload a photo and get its dominant color palette with HEX codes you can click to copy. Runs in your browser.
+- [Image Color Picker](https://yourhack.ai/image-color-picker): Free image color picker. Upload a photo, click any pixel to get its HEX and RGB values, and copy them in one click. Works in your browser.
 - [Image Compressor](https://yourhack.ai/image-compressor): Free online image compressor. Re-encode JPG and PNG photos at a quality you choose to shrink file size, and see how much you saved. Private.
 - [Image Cropper](https://yourhack.ai/image-cropper): Free online image cropper. Drag a crop box over your photo to keep only the part you want, then download the cropped image. Nothing uploaded.
 - [Image Format Converter](https://yourhack.ai/image-format-converter): Free online image format converter. Change a picture between PNG, JPG and WebP right in your browser and download the converted file. Private.
 - [Image Resizer](https://yourhack.ai/image-resizer): Free online image resizer. Change an image to exact pixel dimensions or by percentage, lock the aspect ratio, and download the result. Private.
 - [Image to Base64](https://yourhack.ai/image-to-base64): Free image to Base64 converter. Turn a picture into a Base64 data URI you can paste into HTML or CSS. Copy the string, all done in your browser.
+- [Image to WebP Converter](https://yourhack.ai/image-to-webp): Free image to WebP converter. Turn JPG or PNG photos into WebP at a quality you choose, compare file sizes, and download. All in your browser.
 - [Meme Generator](https://yourhack.ai/meme-generator): Free online meme generator. Upload any image, add classic bold top and bottom text, and download your meme. All in your browser, nothing uploaded.
+- [Pixelate Image](https://yourhack.ai/pixelate-image): Free pixelate image tool. Turn a photo into chunky pixels with an adjustable block size, great for censoring or retro art. Runs in your browser.
 - [Placeholder Image Generator](https://yourhack.ai/placeholder-image-generator): Free placeholder image generator. Create a dummy image at any size with custom colors and label text, then download it. No upload, no server.
 - [Rotate & Flip Image](https://yourhack.ai/rotate-flip-image): Free online image rotator and flipper. Turn a photo left or right in 90 degree steps or mirror it horizontally and vertically, then download.
+- [SVG to PNG Converter](https://yourhack.ai/svg-to-png): Free SVG to PNG converter. Rasterize an SVG file at 1x to 8x scale and download a crisp PNG. Runs fully in your browser, nothing is uploaded.
+- [WebP to PNG Converter](https://yourhack.ai/webp-to-png): Free WebP to PNG converter. Open a WebP image in your browser and save it as a standard PNG file in one click. Private, nothing is uploaded.
 
 ### PDF
 
@@ -1152,6 +1172,148 @@ Every tool below is free and runs entirely in your browser.
 - [Stops of Light Calculator](https://yourhack.ai/shutter-speed-stop-calculator): Convert changes in aperture, shutter speed, or ISO into stops of light and back. Understand equivalent exposures and stop differences.
 - [Sunny 16 Rule Calculator](https://yourhack.ai/sunny-16-calculator): Apply the Sunny 16 rule to find shutter speed and aperture for any lighting from your ISO. Meter-free daylight exposure made simple.
 - [Time Lapse Calculator](https://yourhack.ai/time-lapse-calculator): Plan a time lapse: find clip length, frame count, interval, or shooting time from the others. Includes storage size and card estimate.
+
+### Astronomy
+
+- [Absolute Magnitude Calculator](https://yourhack.ai/absolute-magnitude-calculator): Free absolute magnitude calculator. Convert between apparent and absolute magnitude using the distance modulus, and solve for distance in parsecs and light years.
+- [Angular Size Calculator](https://yourhack.ai/angular-size-calculator): Free angular size calculator. Find how large an object appears in the sky in degrees, arcminutes and arcseconds from its true diameter and distance, or solve for size.
+- [CCD Pixel Scale Calculator](https://yourhack.ai/ccd-pixel-scale-calculator): Free CCD pixel scale calculator for astrophotography. Find arcseconds per pixel from your camera pixel size and telescope focal length to check if you are matched to seeing.
+- [Escape Velocity Calculator](https://yourhack.ai/escape-velocity-calculator): Free escape velocity calculator. Find the speed needed to escape a planet, moon or star from its mass and radius using the square root of two GM over r.
+- [Kepler Third Law Calculator](https://yourhack.ai/kepler-third-law-calculator): Free Kepler third law calculator for the solar system. Convert between orbital period in years and semi-major axis in astronomical units where P squared equals a cubed.
+- [Light Travel Time Calculator](https://yourhack.ai/light-travel-time-calculator): Free light travel time calculator. Find how long light takes to cross a distance and convert light years, light minutes and light seconds into kilometers and miles.
+- [Orbital Period Calculator](https://yourhack.ai/orbital-period-calculator): Free orbital period calculator. Find how long a satellite or moon takes to orbit a body from the central mass and orbit radius using Newton form of Kepler third law.
+- [Parsec to Light Year Converter](https://yourhack.ai/parsec-light-year-converter): Free parsec to light year converter. Convert between parsecs, light years, astronomical units and kilometers for astronomical distances, both directions instantly.
+- [Planet Orbital Speed Calculator](https://yourhack.ai/planet-orbital-speed-calculator): Free planet orbital speed calculator. Find how fast a planet moves around the Sun from its orbital radius using the vis-viva circular speed formula, in km/s and mph.
+- [Redshift Velocity Calculator](https://yourhack.ai/redshift-velocity-calculator): Free redshift velocity calculator. Convert a spectral redshift z into recession velocity using both the simple Doppler and relativistic formulas, in km/s and fraction of light.
+- [Schwarzschild Radius Calculator](https://yourhack.ai/schwarzschild-radius-calculator): Free Schwarzschild radius calculator. Find the event horizon size of a black hole from its mass using two GM over c squared, in meters, kilometers and solar masses.
+- [Star Brightness Ratio Calculator](https://yourhack.ai/star-brightness-ratio-calculator): Free star brightness ratio calculator. Convert a magnitude difference between two stars into how many times brighter one is using the Pogson ratio of 2.512.
+- [Stellar Luminosity Calculator](https://yourhack.ai/stellar-luminosity-calculator): Free stellar luminosity calculator. Find a star total energy output from its radius and surface temperature with the Stefan-Boltzmann law, in watts and solar luminosities.
+- [Surface Gravity Calculator](https://yourhack.ai/surface-gravity-calculator): Free surface gravity calculator. Find the gravitational acceleration at the surface of a planet, moon or star from its mass and radius using g equals GM over r squared.
+- [Telescope Exit Pupil Calculator](https://yourhack.ai/telescope-exit-pupil-calculator): Free telescope exit pupil calculator. Find the exit pupil in millimeters from aperture and magnification, or from eyepiece focal length and focal ratio, to match your eye.
+- [Telescope Focal Ratio Calculator](https://yourhack.ai/telescope-focal-ratio-calculator): Free telescope focal ratio calculator. Find the f-number of a telescope from focal length and aperture, or solve for the focal length needed to hit a target f-ratio.
+- [Telescope Limiting Magnitude Calculator](https://yourhack.ai/limiting-magnitude-calculator): Free limiting magnitude calculator. Estimate the faintest star your telescope can show from its aperture, so you know what deep sky targets are within reach.
+- [Telescope Magnification Calculator](https://yourhack.ai/telescope-magnification-calculator): Free telescope magnification calculator. Divide telescope focal length by eyepiece focal length to find power, plus your maximum useful magnification from aperture.
+- [Telescope Resolving Power Calculator](https://yourhack.ai/telescope-resolving-power-calculator): Free telescope resolving power calculator. Find the Dawes and Rayleigh limits in arcseconds from your aperture to judge the finest double star split your scope can show.
+- [Wien Law Peak Wavelength Calculator](https://yourhack.ai/wiens-law-calculator): Free Wien law calculator. Find the peak emission wavelength of a star or blackbody from its temperature, and see the color band it falls in, using the displacement law.
+
+### Baby & Pregnancy
+
+- [Adjusted Age Calculator for Preemies](https://yourhack.ai/adjusted-age-for-preemies-calculator): Free corrected age calculator for premature babies. Enter birth date and weeks early to find your preemie adjusted age used for tracking milestones and growth.
+- [Baby Clothing Size by Weight](https://yourhack.ai/baby-clothing-size-by-weight): Free baby clothing size finder by weight and length. Enter your baby weight and height to see the matching newborn, 0-3, 3-6 and 6-9 month clothing size.
+- [Baby Eye Color Predictor](https://yourhack.ai/baby-eye-color-predictor): Free baby eye color predictor. Enter both parents eye colors to see estimated odds your baby will have brown, blue or green eyes based on simplified genetics.
+- [Baby Feeding Amount Calculator](https://yourhack.ai/baby-feeding-amount-calculator): Free baby feeding amount calculator. Estimate how many ounces of formula or milk your baby needs per feeding and per day based on weight and age.
+- [Baby Food Introduction Age Guide](https://yourhack.ai/baby-food-introduction-age-guide): Free baby food introduction guide. Enter your baby age in months to see which first foods and textures are commonly introduced at each stage of starting solids.
+- [Baby Formula Mixing Calculator](https://yourhack.ai/formula-mixing-calculator): Free baby formula mixing calculator. Work out how many scoops of powder and how much water you need for a target bottle size at the standard 1 scoop per 2 ounces ratio.
+- [Baby Head Circumference Percentile Calculator](https://yourhack.ai/baby-head-circumference-percentile-calculator): Free baby head circumference percentile calculator using WHO growth standards. Enter age, sex and head circumference to see the head-circumference-for-age percentile.
+- [Baby Height Percentile Calculator](https://yourhack.ai/baby-height-percentile-calculator): Free baby length and height percentile calculator using WHO growth standards. Enter age, sex and length to see your infant length-for-age percentile up to 24 months.
+- [Baby Kick Counter](https://yourhack.ai/baby-kick-counter): Free baby kick counter. Tap each time you feel your baby move and time how long it takes to reach ten kicks, a common fetal movement tracking method.
+- [Baby Shower Budget Calculator](https://yourhack.ai/baby-shower-budget-calculator): Free baby shower budget calculator. Enter guest count and per person spend on food, decor, favors and venue to see your total baby shower cost and cost per guest.
+- [Baby Sleep Schedule Calculator](https://yourhack.ai/baby-sleep-schedule-calculator): Free baby sleep schedule calculator. Enter your baby age and wake time to see age appropriate wake windows, suggested nap times and total daily sleep.
+- [Baby Weight Percentile Calculator](https://yourhack.ai/baby-weight-percentile-calculator): Free baby weight percentile calculator using WHO growth standards. Enter age, sex and weight to see your infant weight-for-age percentile from birth to 24 months.
+- [Breast Milk Storage Guide](https://yourhack.ai/breast-milk-storage-guide): Free breast milk storage guide and calculator. See how long expressed breast milk stays safe at room temperature, in the fridge and in the freezer with dated use-by times.
+- [Childcare Cost Calculator](https://yourhack.ai/childcare-cost-calculator): Free childcare cost calculator. Estimate weekly, monthly and yearly daycare or nanny costs and see how much of your take-home pay childcare uses.
+- [Chinese Gender Predictor](https://yourhack.ai/chinese-gender-predictor): Free Chinese gender predictor based on the traditional lunar birth chart. Enter mother birth date and conception month to see the chart prediction, for fun.
+- [Conception Date Calculator](https://yourhack.ai/conception-date-calculator): Free conception date calculator. Estimate the likely date of conception from your last menstrual period, due date or an ultrasound based gestational age.
+- [Contraction Timer](https://yourhack.ai/contraction-timer): Free contraction timer for labor. Tap to start and stop each contraction to track duration, frequency and the interval between contractions in real time.
+- [Diaper Cost Calculator](https://yourhack.ai/diaper-cost-calculator): Free diaper cost calculator. Estimate how much you will spend on diapers per week, month and per year based on daily changes and price per diaper.
+- [Due Date From Ultrasound Calculator](https://yourhack.ai/due-date-from-ultrasound-calculator): Free due date from ultrasound calculator. Enter the scan date and the measured gestational age in weeks and days to get your estimated due date and current progress.
+- [Pregnancy Weight Gain Calculator](https://yourhack.ai/pregnancy-weight-gain-calculator): Free pregnancy weight gain calculator based on IOM guidelines. Enter pre-pregnancy BMI and week to see your recommended total and weekly weight gain range.
+
+### Betting & Odds
+
+- [Arbitrage Betting Calculator](https://yourhack.ai/arbitrage-betting-calculator): Free arbitrage betting calculator. Enter two opposing odds to check if a sure bet exists, then get the optimal stake split and guaranteed profit.
+- [Betting Bankroll Management Calculator](https://yourhack.ai/bankroll-management-calculator): Free bankroll management calculator for bettors. Set your bankroll and unit percentage to size flat bets and see how many units survive a losing streak.
+- [Betting Expected Value Calculator](https://yourhack.ai/betting-expected-value-calculator): Free betting expected value calculator. Enter your true win probability, the odds and your stake to see the EV in dollars and whether the bet is +EV.
+- [Betting Odds Converter](https://yourhack.ai/odds-converter): Free betting odds converter. Convert American (moneyline), decimal, fractional and implied probability odds between all four formats instantly in your browser.
+- [Betting Unit Size Calculator](https://yourhack.ai/unit-size-calculator): Free betting unit size calculator. Convert a bankroll and unit percentage into a dollar unit, then price any bet in units to keep staking consistent.
+- [Break Even Win Rate Calculator](https://yourhack.ai/break-even-win-rate-calculator): Free break even win rate calculator. Find the win percentage you need to break even at any odds, and see your ROI at a target win rate.
+- [Each Way Bet Calculator](https://yourhack.ai/each-way-bet-calculator): Free each way bet calculator. Enter fractional odds, place terms and stake to see the win and place returns of an each way horse racing or golf bet.
+- [Hedge Bet Calculator](https://yourhack.ai/hedge-bet-calculator): Free hedge bet calculator. Work out the exact stake to place on the other side to lock in a guaranteed profit or cut your loss on an open wager.
+- [Implied Probability Calculator](https://yourhack.ai/implied-probability-calculator): Free implied probability calculator for betting odds. Turn American, decimal or fractional odds into the break even win probability the price is offering.
+- [Kelly Criterion Calculator](https://yourhack.ai/kelly-criterion-calculator): Free Kelly criterion calculator. Find the optimal bet size as a percentage of your bankroll from your win probability and the decimal or American odds.
+- [Moneyline Payout Calculator](https://yourhack.ai/moneyline-payout-calculator): Free moneyline payout calculator. Enter American moneyline odds and your stake to see the exact profit and total return on a winning bet.
+- [No Vig Fair Odds Calculator](https://yourhack.ai/no-vig-fair-odds-calculator): Free no vig fair odds calculator. Strip the sportsbook margin from a two way market to get each sides true fair odds and no vig win probability.
+- [Over Under Payout Calculator](https://yourhack.ai/over-under-payout-calculator): Free over under payout calculator. Enter a total, the sides odds and your stake to see if a game total goes over or under and what your bet pays.
+- [Parlay Calculator](https://yourhack.ai/parlay-calculator): Free parlay calculator. Combine up to eight legs in American or decimal odds to get the total parlay odds, payout and combined win probability.
+- [Poker Outs and Hand Odds Calculator](https://yourhack.ai/poker-hand-odds-calculator): Free poker outs calculator. Enter your number of outs to get the odds of hitting your draw on the turn, the river and by the river in Texas Holdem.
+- [Poker Pot Odds Calculator](https://yourhack.ai/poker-pot-odds-calculator): Free poker pot odds calculator. Enter the pot size and the bet to call to get your pot odds as a ratio and the break even equity you need to call.
+- [Round Robin Bet Calculator](https://yourhack.ai/round-robin-bet-calculator): Free round robin bet calculator. Turn your picks into every parlay combination of a chosen size, with total number of bets, cost and max payout.
+- [Sportsbook Hold Percentage Calculator](https://yourhack.ai/hold-percentage-calculator): Free hold percentage calculator. Enter both sides of a market to find the sportsbook theoretical hold, the share of every dollar wagered the book keeps.
+- [Teaser Bet Calculator](https://yourhack.ai/teaser-calculator): Free teaser calculator. Move the spread or total in your favor across multiple legs, apply the teaser odds and see the adjusted lines and payout.
+- [Vig Calculator](https://yourhack.ai/vig-calculator): Free vig calculator. Enter both sides of a two way market to find the sportsbook vig, the total overround and each sides fair no vig probability.
+
+### Electronics
+
+- [Ampere Hour and Watt Hour Calculator](https://yourhack.ai/ampere-hour-calculator): Free amp hour calculator. Convert between ampere hours, watt hours and battery voltage, and work out energy capacity for any battery pack or cell.
+- [Amps to Watts Calculator](https://yourhack.ai/amps-to-watts-calculator): Free amps to watts calculator. Enter current in amps and voltage to get the power in watts for DC and single phase AC loads, with optional power factor.
+- [Battery Life Calculator](https://yourhack.ai/battery-life-calculator): Free battery life calculator. Enter battery capacity in mAh and device current draw to estimate how many hours or days your battery will last before recharge.
+- [Capacitor Energy and Charge Calculator](https://yourhack.ai/capacitor-energy-calculator): Free capacitor energy calculator. Enter capacitance and voltage to get the stored energy in joules and the charge in coulombs using E = half C V squared.
+- [Capacitors in Parallel and Series Calculator](https://yourhack.ai/capacitors-in-parallel-series-calculator): Free capacitor combination calculator. Enter capacitor values and choose series or parallel to get the total capacitance, using the correct add or reciprocal rule.
+- [Current Divider Calculator](https://yourhack.ai/current-divider-calculator): Free current divider calculator. Enter total current and two parallel resistors to find how the current splits between each branch using the current divider rule.
+- [dBm to Watts Converter](https://yourhack.ai/dbm-to-watts-converter): Free dBm to watts converter. Convert between dBm, watts and milliwatts for RF and signal power, both directions, using the standard logarithmic relationship.
+- [Inductive and Capacitive Reactance Calculator](https://yourhack.ai/inductor-reactance-calculator): Free reactance calculator. Enter frequency and an inductor or capacitor value to get the inductive or capacitive reactance in ohms for AC circuit design.
+- [LC Resonant Frequency Calculator](https://yourhack.ai/lc-resonant-frequency-calculator): Free LC resonant frequency calculator. Enter inductance and capacitance to get the resonant frequency of a tuned tank circuit using f = 1 / (2 pi sqrt(LC)).
+- [LED Resistor Calculator](https://yourhack.ai/led-resistor-calculator): Free LED series resistor calculator. Enter supply voltage, LED forward voltage and current to get the exact resistor value, nearest E12 size and power rating.
+- [LED Series and Parallel Array Calculator](https://yourhack.ai/led-series-parallel-calculator): Free LED array calculator. Design series and parallel LED strings for a given supply voltage, with per-string resistor values, total current and layout advice.
+- [NE555 Timer Calculator](https://yourhack.ai/ne555-timer-calculator): Free 555 timer calculator for astable and monostable modes. Enter resistors and capacitor to get frequency, period, duty cycle or one shot pulse width.
+- [PCB Trace Width Calculator](https://yourhack.ai/pcb-trace-width-calculator): Free PCB trace width calculator. Enter current, copper thickness and allowed temperature rise to get the minimum trace width for internal or external layers.
+- [RC Time Constant Calculator](https://yourhack.ai/rc-time-constant-calculator): Free RC time constant calculator. Enter resistance and capacitance to get tau, the 63 percent charge time and the time to reach 5 tau or full charge.
+- [Resistors in Parallel Calculator](https://yourhack.ai/resistors-in-parallel-calculator): Free parallel resistor calculator. Enter any number of resistor values and get the total equivalent resistance using the reciprocal parallel formula instantly.
+- [Resistors in Series Calculator](https://yourhack.ai/resistors-in-series-calculator): Free series resistor calculator. Add any list of resistor values in ohms and get the total series resistance instantly, since series resistors simply add up.
+- [Solar Panel and Battery Sizing Calculator](https://yourhack.ai/solar-panel-battery-sizing-calculator): Free solar battery sizing calculator. Enter daily load, sun hours, system voltage and days of autonomy to size the solar array and battery bank you need.
+- [Transformer Turns Ratio Calculator](https://yourhack.ai/transformer-turns-ratio-calculator): Free transformer turns ratio calculator. Enter primary and secondary voltages or turns to get the turns ratio, output voltage and reflected current.
+- [Voltage Drop Calculator](https://yourhack.ai/voltage-drop-calculator): Free voltage drop calculator for wire runs. Enter length, current, wire cross section and material to get the voltage lost and percentage drop over the cable.
+- [Watts to Amps Calculator](https://yourhack.ai/watts-to-amps-calculator): Free watts to amps calculator. Enter power in watts and voltage to get the current in amps for DC and single phase AC circuits, with power factor support.
+- [Wire Gauge AWG Calculator](https://yourhack.ai/wire-gauge-awg-calculator): Free AWG wire gauge calculator. Convert American Wire Gauge to diameter and cross section area, or find the gauge for a diameter, with metric and imperial output.
+- [Wire Resistance Calculator](https://yourhack.ai/wire-resistance-calculator): Free wire resistance calculator. Enter length, cross section area and material to get the total resistance of a conductor using resistivity, for copper or aluminium.
+
+### Gardening
+
+- [Compost Carbon to Nitrogen Ratio Calculator](https://yourhack.ai/compost-carbon-nitrogen-ratio-calculator): Free compost C:N ratio calculator. Enter browns and greens by weight with their carbon to nitrogen ratios to blend a compost pile near the ideal 30:1 target.
+- [Cover Crop Seed Rate Calculator](https://yourhack.ai/cover-crop-seed-rate-calculator): Free cover crop seed calculator. Enter your plot area and the seeding rate in pounds per acre or per 1000 sq ft to find the pounds of cover crop seed to buy.
+- [Drip Irrigation Flow Calculator](https://yourhack.ai/drip-irrigation-flow-calculator): Free drip irrigation calculator. Enter number of emitters and their flow rate to find total gallons per hour, run time for a watering goal and daily water use.
+- [Fertilizer NPK Rate Calculator](https://yourhack.ai/fertilizer-npk-rate-calculator): Free fertilizer NPK calculator. Enter your bag analysis, target pounds of nitrogen per 1000 sq ft and area to find pounds of product to apply and the P and K it supplies.
+- [Frost Free Planting Date Calculator](https://yourhack.ai/frost-free-planting-date-calculator): Free frost date planting calculator. Enter your last spring and first fall frost dates to find the safe planting window and the length of your growing season in days.
+- [Garden Bed Soil Mix Calculator](https://yourhack.ai/garden-bed-soil-mix-calculator): Free garden soil mix calculator. Split a raised bed fill into compost, topsoil and aeration by percent to see the cubic feet of each ingredient for a balanced blend.
+- [Garden Fence Material Calculator](https://yourhack.ai/garden-fence-material-calculator): Free garden fence calculator. Enter the perimeter of your garden and post spacing to find the number of posts, gates and total fencing length you need to buy.
+- [Greenhouse Heater Size Calculator](https://yourhack.ai/greenhouse-heater-size-calculator): Free greenhouse heating calculator. Enter greenhouse dimensions, inside and outside temperatures to find the BTU per hour and watts of heater you need to hold your target.
+- [Grow Light Coverage Calculator](https://yourhack.ai/grow-light-coverage-calculator): Free grow light calculator. Enter your grow area and target PPFD or watts per square foot to estimate the light wattage and coverage for seedlings and indoor plants.
+- [Plant Watering Amount Calculator](https://yourhack.ai/plant-watering-amount-calculator): Free plant watering calculator. Enter your garden bed area and target inches of water per week to find gallons needed and how long to run a hose or sprinkler.
+- [Potting Soil Bag Calculator](https://yourhack.ai/potting-soil-bag-calculator): Free potting soil calculator for containers. Enter pot size and shape and how many pots to fill to find total quarts and bags of potting mix you need.
+- [Rain Barrel Capacity Calculator](https://yourhack.ai/rain-barrel-capacity-calculator): Free rain barrel calculator. Enter your roof catchment area and rainfall to see the gallons a storm collects and how many barrels it takes to store the runoff.
+- [Raised Bed Soil Volume Calculator](https://yourhack.ai/raised-bed-soil-volume-calculator): Free raised bed soil calculator. Enter bed length, width and fill depth to get the cubic feet, cubic yards and bags of soil to fill a raised garden bed.
+- [Seed Spacing Calculator](https://yourhack.ai/seed-spacing-calculator): Free seed spacing calculator. Enter bed size and the spacing between plants and rows to find how many plants fit and how many seeds to sow at your germination rate.
+- [Seed Starting Date Calculator](https://yourhack.ai/seed-starting-date-calculator): Free seed starting calculator. Enter your last spring frost date and weeks to start indoors to find the exact sow date and transplant date for your seedlings.
+- [Soil pH Amendment Calculator](https://yourhack.ai/soil-ph-amendment-calculator): Free soil pH amendment calculator. Enter current and target soil pH and bed area to estimate pounds of lime to raise pH or elemental sulfur to lower it.
+- [Square Foot Garden Planner](https://yourhack.ai/square-foot-garden-planner): Free square foot garden planner. Enter your grid of one foot squares and a crop to see plants per square and total plants for a Mel Bartholomew style raised bed.
+- [Tree Spacing Calculator](https://yourhack.ai/tree-spacing-calculator): Free tree spacing calculator. Enter your plot size and the spacing between trees and rows to find how many fruit or shade trees fit and the trees per acre.
+- [Triangular Plant Spacing Calculator](https://yourhack.ai/plant-spacing-triangular-calculator): Free triangular plant spacing calculator. Compare offset staggered planting versus square grid to fit more plants in the same bed and see the extra plants gained.
+- [Vegetable Harvest Yield Estimator](https://yourhack.ai/harvest-yield-estimator): Free vegetable yield estimator. Enter number of plants and expected yield per plant to estimate total harvest in pounds and pounds per square foot of garden bed.
+
+### Travel
+
+- [Baggage Fee Calculator](https://yourhack.ai/baggage-fee-calculator): Free baggage fee calculator. Add checked bags, overweight and oversize charges per direction to total your airline baggage cost for the trip.
+- [Currency Denomination Planner](https://yourhack.ai/currency-denomination-planner): Free currency denomination planner. Enter a cash amount to see the fewest bills and coins to carry, great for withdrawing money before a trip.
+- [Drive Time With Stops Calculator](https://yourhack.ai/drive-time-with-stops-calculator): Free drive time with stops calculator. Add driving distance, speed and rest breaks to estimate real arrival time on a long road trip.
+- [Flight Duration Calculator](https://yourhack.ai/flight-duration-calculator): Free flight duration calculator. Estimate air time from great circle distance and cruise speed, plus taxi and climb buffer for a realistic gate time.
+- [Frequent Flyer Mile Value Calculator](https://yourhack.ai/frequent-flyer-mile-value-calculator): Free frequent flyer mile value calculator. Compare a cash fare to points plus fees to see cents per point and whether redeeming is worth it.
+- [Group Trip Expense Splitter](https://yourhack.ai/group-trip-expense-splitter): Free group trip expense splitter. Enter who paid what, then see who owes whom and the fewest transfers to settle up. Runs in your browser.
+- [Hotel Cost Per Night Splitter](https://yourhack.ai/hotel-cost-per-night-splitter): Free hotel cost per night splitter. Enter the nightly rate, taxes, nights and guests to get each guest per-night and total room share.
+- [Jet Lag Recovery Calculator](https://yourhack.ai/jet-lag-recovery-calculator): Free jet lag recovery calculator. Estimate how many days your body needs to adjust after crossing time zones and get direction-based tips.
+- [Layover Time Calculator](https://yourhack.ai/layover-time-calculator): Free layover time calculator. Enter your arrival and next departure times to see connection minutes and whether it is a safe layover.
+- [Mileage Reimbursement Calculator](https://yourhack.ai/mileage-reimbursement-calculator): Free mileage reimbursement calculator. Multiply business miles by your per-mile rate to get the amount owed, with a round-trip option.
+- [Packing List Generator](https://yourhack.ai/packing-list-generator): Free packing list generator. Pick trip length, climate and trip type to build a custom checklist you can copy, all in your browser.
+- [Passport Photo Size Reference](https://yourhack.ai/passport-photo-size-reference): Free passport photo size reference. Look up official photo dimensions in mm and inches for major countries before you take or print a photo.
+- [Per Diem Calculator](https://yourhack.ai/per-diem-calculator): Free per diem calculator. Enter your daily meal and lodging rates and travel days to total your business trip per diem, with a half-day rule.
+- [Road Trip Total Cost Calculator](https://yourhack.ai/road-trip-total-cost-calculator): Free road trip total cost calculator. Combine fuel, lodging, food and tolls into one all-in trip cost and a per-person share instantly.
+- [Schengen 90/180 Day Tracker](https://yourhack.ai/visa-free-stay-tracker): Free Schengen 90/180 day calculator. Enter your entry dates to see days used in the rolling 180 day window and how many stay days remain.
+- [Time to Leave for Airport Calculator](https://yourhack.ai/time-to-leave-for-airport-calculator): Free time to leave for airport calculator. Work back from your flight using check-in, security and drive time to get the exact leave-by time.
+- [Tipping by Country Reference](https://yourhack.ai/tip-by-country-reference): Free tipping by country reference. Look up customary restaurant, taxi and hotel tipping norms for popular destinations before you travel.
+- [Travel Budget Calculator](https://yourhack.ai/travel-budget-calculator): Free travel budget calculator. Add flights, lodging, food, transport and activities to get your total trip cost and daily spend instantly.
+- [Travel Days Countdown](https://yourhack.ai/travel-days-countdown): Free travel days countdown. Enter your departure date to see how many days, weeks and weekends are left until your trip begins.
+- [Travel Insurance Cost Estimator](https://yourhack.ai/travel-insurance-estimator): Free travel insurance cost estimator. Enter trip cost, traveler age and trip days to estimate a rough premium range before you shop for quotes.
+- [Trip Cost Splitter](https://yourhack.ai/trip-cost-splitter): Free trip cost splitter. Enter a total trip cost and number of travelers to see the fair per-person share instantly, all in your browser.
+- [Walking Tour Time Estimator](https://yourhack.ai/walking-tour-time-estimator): Free walking tour time estimator. Enter distance, walking pace and stop time to estimate how long a self-guided walking tour will take.
 
 ## Why yourhack.ai
 
